@@ -1,0 +1,14 @@
+# A gitignore file is very useful.
+# It tells git not to push certain filenames from in your local folder to the remote git repository
+# For example, below we have listed several file and folder names. These may be for example filenames like .env which may contain secret passwords, or annoying OS-related files like .DS_STORE or local vscode settings that would interfere with other people's vscode settings (if someone were to pull).
+
+# Filenames we dont want to push to git repo for Unit 1
+.DS_STORE
+
+# Filenames we want git to ignore for Unit 2
+.env
+node_modules
+
+
+# Filenames we want git to ignore for Unit 3
+__pycache__
