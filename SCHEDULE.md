@@ -10,7 +10,9 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 1
 
-### Week 1 (Tues March 1st - Sat March 5th)
+### Week 1 (Tues March 1st - Sat March 5th)*
+
+*Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
 <table>
 <thead>
