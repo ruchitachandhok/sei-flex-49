@@ -18,7 +18,6 @@ Use the recording tracker to help you if you get stuck on labs.
   <td></td>
   <th>Tuesday</th>
   <th>Wednesday</th>
-  <th>Thursday</th>
   <th>Saturday</th>
 </tr>
 </thead>
