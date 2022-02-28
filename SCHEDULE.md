@@ -46,19 +46,6 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w01/d3/js-objects.md">Objects {}</li>
     </ol>
   </td>
-  <td>
-    <ol>
-      <li><a href="w01/d4/lectures/intro-to-html.md">HTML</a></li>
-      <li><strong>Outcomes with George the Career Coach (1:45-3:45pm)</strong></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d4/lectures/intro-to-css.md">CSS Pt. 1</a></li>
-      <li>Lab time / <a href="README.md#8-daily-code-challenges">Daily code challenges</a> / algos</li>
-      <li>Debugging javascript</li>
-    </ol>
-  </td>
 </tr>
 <tr>
   <td><strong>Second session</strong></td>
@@ -67,33 +54,10 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w01/d1/lectures/js-intro-datatypes.md">variables, arithmetic</a></li>
     </ol>
   </td>
-  <td>
-    <ol>
-      <li><a href="w01/d2/js-arrays-1.md">Arrays Pt. 1</a></li>
-      <li><a href="w01/d2/js-loops-1.md">Loops Pt. 1</a></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d3/js-arrays-2.md">Arrays Pt. 2</a></li>
-      <li><a href="w01/d3/js-loops-pt-2.md">Loops Pt. 2</a></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d4/lectures/js-functions-and-scope.md">Functions Pt. 2: Arguments and Parameters</a></li>
-      <li>Aidan review session at 6pm</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d5/lectures/dom-intro.md">DOM Access Pt. 1</a></li>
-      <li><a href="w01/d5/lectures/dom-events.md">DOM Events Pt. 1</a></li>
-    </ol>
-  </td>
 </tr>
 <tr>
   <td><strong>Labs</strong></td>
+  <td></td>
   <td>
     <ol>
       <li><a href="w01/d1/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #1)</strong> <em>(ideal: tonight)</em></li>
@@ -145,27 +109,6 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="https://www.internetingishard.com/html-and-css/hello-css/">Read: Hello CSS</a></li>
       <li><a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read: CSS Box Model</a></li>
       <li><a href="https://flukeout.github.io/">Play: CSS Diner</a></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <a href="https://www.internetingishard.com/html-and-css/forms/">Read: Forms</a>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>For more <strong>practice on js fundamentals</strong> (looping on arrays and functions) using resources like edabit. Edabit has fun little gamified <a href="https://edabit.com/challenges">javascript challenges</a></li>
-      <li><a href="https://www.internetingishard.com/html-and-css/flexbox/">Read: Flexbox</a></li>
-      <li><a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Read: Advanced Positioning</a></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>Practice more DOM and DOM Events - make some buttons, and make them change stuff!</li>
-      <li>Read the <a href="w01/d5/labs/guide-to-building-a-browser-game.md">guide to making a browser game</a></li>
-      <li>For more <strong>practice on js fundamentals</strong> (looping on arrays and functions) using resources like edabit. Edabit has fun little gamified <a href="https://edabit.com/challenges">javascript challenges</a></li>
-      <li><a href="https://www.internetingishard.com/html-and-css/responsive-design/">Read: Responsive Design</a></li>
-      <li><a href="https://www.internetingishard.com/html-and-css/responsive-images/">Read: Responsive Images</a></li>
     </ol>
   </td>
 </tr>
