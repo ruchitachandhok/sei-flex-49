@@ -28,6 +28,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Orientation</li>
+      <li><a href="https://docs.google.com/presentation/d/1OmlE42_AGZxeqft-BUn36soDD20OzYq1HFJEku3JVMs/edit?usp=sharing">Intro to the course</a></li>
       <li><a href="w01/d1/lectures/intro-dev-env.md">Terminal</a></li>
     </ol>
   </td>
