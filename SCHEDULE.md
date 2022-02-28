@@ -27,9 +27,10 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>Orientation</li>
-      <li><a href="https://docs.google.com/presentation/d/1OmlE42_AGZxeqft-BUn36soDD20OzYq1HFJEku3JVMs/edit?usp=sharing">Intro to the course</a></li>
-      <li><a href="w01/d1/lectures/intro-dev-env.md">Terminal</a></li>
+      <li>6:30: Orientation</li>
+      <li>7: <a href="https://docs.google.com/presentation/d/1OmlE42_AGZxeqft-BUn36soDD20OzYq1HFJEku3JVMs/edit?usp=sharing">Intro to the course</a></li>
+      <li>7:30: <a href="w01/d1/lectures/intro-dev-env.md">Terminal</a></li>
+      <li>8:30: break</li>
     </ol>
   </td>
   <td>
@@ -50,8 +51,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-      <li>Install <a href="w01/d1/installfest.md#git">Git</a></li>
-      <li><a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
+      <li>9: Install <a href="w01/d1/installfest.md#git">Git</a></li>
+      <li>9:15: <a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
     </ol>
   </td>
   <td>
