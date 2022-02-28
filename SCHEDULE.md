@@ -47,12 +47,13 @@ Use the recording tracker to help you if you get stuck on labs.
 </tr>
 <tr>
   <td><strong>Second session</strong></td>
-  <td></td>
   <td>
     <ol>
       <li>Install <a href="w01/d1/installfest.md#git">Git</a></li>
       <li><a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
     </ol>
+  </td>
+  <td>
   </td>
   <td>
     <ol>
