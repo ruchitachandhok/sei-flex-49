@@ -29,8 +29,6 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Orientation</li>
       <li><a href="w01/d1/lectures/intro-dev-env.md">Terminal</a></li>
-      <li>Install <a href="w01/d1/installfest.md#git">Git</a></li>
-      <li><a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
     </ol>
   </td>
   <td>
@@ -52,10 +50,15 @@ Use the recording tracker to help you if you get stuck on labs.
   <td></td>
   <td>
     <ol>
+      <li>Install <a href="w01/d1/installfest.md#git">Git</a></li>
+      <li><a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
       <li><a href="w01/d1/lectures/js-intro-datatypes.md">variables, arithmetic</a></li>
     </ol>
   </td>
-  <td></td>
 </tr>
 <tr>
   <td><strong>Labs</strong></td>
