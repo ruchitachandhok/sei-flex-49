@@ -29,7 +29,7 @@ Scheduling in progress...
 <tbody>
 
 <tr>
-  <td><strong>Morning</strong></td>
+  <td><strong>First half</strong></td>
   <td>
     <ol>
       <li>Orientation</li>
@@ -66,7 +66,7 @@ Scheduling in progress...
   </td>
 </tr>
 <tr>
-  <td><strong>Afternoon</strong></td>
+  <td><strong>Second half</strong></td>
   <td>
     <ol>
       <li><a href="w01/d1/lectures/js-intro-datatypes.md">variables, arithmetic</a></li>
@@ -177,4 +177,3 @@ Scheduling in progress...
 </tbody>
 </table>
 
--->
