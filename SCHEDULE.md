@@ -49,11 +49,13 @@ Use the recording tracker to help you if you get stuck on labs.
 </tr>
 <tr>
   <td><strong>Second session</strong></td>
+  <td></td>
   <td>
     <ol>
       <li><a href="w01/d1/lectures/js-intro-datatypes.md">variables, arithmetic</a></li>
     </ol>
   </td>
+  <td></td>
 </tr>
 <tr>
   <td><strong>Labs</strong></td>
@@ -62,32 +64,6 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w01/d1/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #1)</strong> <em>(ideal: tonight)</em></li>
       <li><a href="w01/d1/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a> (optional)</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d2/labs/if-arrays-loops-lab-1.md">If, Arrays, Loops</a> <strong>(Deliverable #2)</strong></li>
-      <li><a href="w01/d2/labs/loops-stretch.md">Loops stretch lab</a> (optional)</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d3/labs/js-functions-lab.md">Functions Lab 1</a> <strong>(Deliverable #3)</strong></li>
-      <li><a href="w01/d3/labs/loops-lab-2.md">Loops Lab 2</a> <strong>(Deliverable #4)</strong></li>
-      <li><a href="w01/d3/labs/objects-arrays-practice.md">Objects vs. Arrays Lab</a> <strong>(Deliverable #5)</strong></li>
-      <li><a href="w01/d3/labs/stretch/js-objects-guess-the-number.md">Guess the Number Stretch Lab</a> (optional)</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d4/labs/functions-lab-2.md">Functions Lab 2</a> <strong>(Deliverable #6)</strong></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d5/labs/dom-access-lab-1.md">DOM Access Lab</a> <strong>(Deliverable #7)</strong></li>
-      <li><a href="w01/d4/labs/css-selectors-lab">CSS Lab</a></li>
-      <li><a href="w01/d5/labs/dom-events-stretch-lab.md">Dom Events "Menu" Stretch Lab</a></li>
     </ol>
   </td>
 </tr>
