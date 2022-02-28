@@ -12,10 +12,6 @@ Use the recording tracker to help you if you get stuck on labs.
 
 ### Week 1 (Tues March 1st - Sat March 5th)
 
-Scheduling in progress...
-
-<!--
-
 <table>
 <thead>
 <tr>
@@ -29,7 +25,7 @@ Scheduling in progress...
 <tbody>
 
 <tr>
-  <td><strong>Morning</strong></td>
+  <td><strong>First session</strong></td>
   <td>
     <ol>
       <li>Orientation</li>
@@ -66,7 +62,7 @@ Scheduling in progress...
   </td>
 </tr>
 <tr>
-  <td><strong>Afternoon</strong></td>
+  <td><strong>Second session</strong></td>
   <td>
     <ol>
       <li><a href="w01/d1/lectures/js-intro-datatypes.md">variables, arithmetic</a></li>
@@ -177,4 +173,3 @@ Scheduling in progress...
 </tbody>
 </table>
 
--->
