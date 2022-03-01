@@ -53,7 +53,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>9: Install <a href="w01/d1/installfest.md#git">Git</a></li>
-      <li>9:15: <a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
+      <li>9:15: <a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Simple Git Workflow</a></li>
     </ol>
   </td>
   <td>
@@ -66,6 +66,8 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
       <li>Exercise: Console RPS, Console Mortgage Calculator</li>
+      <li>break 1-2</li>
+      <li>2pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow + how to push homework</li>
     </ol>
   </td>
 </tr>
@@ -83,7 +85,10 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w01/d1/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a> (optional)</li>
     </ol>
   </td>
-  <td></td>
+  <td>
+    <li>Lab on functions</li>
+    <li>Lab on console game</li>
+  </td>
 </tr>
 <tr>
   <td><strong>Additional Optional Practice / Readings</strong></td>
