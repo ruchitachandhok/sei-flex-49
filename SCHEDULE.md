@@ -95,8 +95,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>Required Readings before next class</td>
   <td>
     <ol>
-      <li><a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a> OR
-      London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapters: Read the short chapters on "JS" and "Data types" and "Control flow"</li>
+      <li><a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a></li>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapters: Read the short chapters on "JS" and "Data types" and "Control flow"</li>
     </ol>
   </td>
   <td></td>
