@@ -43,11 +43,9 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>6:30: 
         <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS: 
         <ul>
-          <li>Variables</li>
-          <li>Arithmetic operators</li>
-          <li>output: console.log</li>
-          <li>input with prompt() command</li>
-          <li>flowcharts for simple apps</li>
+          <li>Variables and arithmetic operators</li>
+          <li>output and input: console.log() and prompt() functions</li>
+          <li>flowcharts for simple procedural apps</li>
         </ul>
         </a>
       </li>
