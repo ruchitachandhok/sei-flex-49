@@ -93,8 +93,12 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
 </tr>
 <tr>
-  <td>Required Readings</td>
-  <td><a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a></td>
+  <td>Required Readings for next class</td>
+  <td>
+    <ol>
+      <a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a>
+    </ol>
+  </td>
   <td></td>
   <td></td>
  </tr>
@@ -102,6 +106,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Optional Practice / Readings</strong></td>
   <td>
     <ol>
+      <li>Katacoda <a href="https://www.katacoda.com/courses/git">Git course</a>: A fun interactive git quiz/course</li>
       <li><a href="w01/d1/installfest.md">Install software for Units 2-4</a> (optional, can skip)</li>
     </ol>
   </td>
