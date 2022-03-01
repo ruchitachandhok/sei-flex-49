@@ -39,7 +39,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Pop quiz: Terminal and Git</li>
+      <li><a href="https://forms.gle/QdoUfGq9s3SQfZqF7">Pop quiz</a>: Terminal and Git</li>
       <li>6:30: 
         <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
         <ul>
