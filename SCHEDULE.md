@@ -54,7 +54,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>9: Install <a href="w01/d1/installfest.md#git">Git</a></li>
-      <li>9:15: <a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Simple Git Workflow</a></li>
+      <li>9:15: <a href="w01/d1/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Simple Git Workflow</a></li>
     </ol>
   </td>
   <td>
