@@ -77,8 +77,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs</strong></td>
   <td>
     <ol>
-      <li>Read <a href="https://edabit.com/tutorial/javascript">this tutorial</a> and complete the following exercises: gdoclink1</li>
-      <li>Read this <a href="https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/building-algorithms/a/expressing-an-algorithm">guide to expressing code as a flowchart</a> and complete the following exercises: gdoclink2 based on <a href="https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/building-algorithms/e/expressing-an-algorithm?modal=1">khanac</a></li>
+      
     </ol>
   </td>
   <td>
@@ -93,10 +92,11 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
 </tr>
 <tr>
-  <td>Required Readings for next class</td>
+  <td>Required Readings before next class</td>
   <td>
     <ol>
       <li><a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a></li>
+      <li><a href="https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/building-algorithms/a/expressing-an-algorithm">Expressing code as a flowchart</li>
     </ol>
   </td>
   <td></td>
