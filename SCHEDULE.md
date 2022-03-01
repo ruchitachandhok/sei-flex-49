@@ -75,6 +75,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Weekly code reading #1: A professionally done website.</li>
       <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
       <li>Exercise: Console RPS, Console Mortgage Calculator</li>
       <li>break 1-2</li>
@@ -108,8 +109,12 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapters: Read the short chapters on "JS" and "Data types" and "Control flow"</li>
     </ol>
   </td>
-  <td></td>
-  <td></td>
+  <td>
+    <li>Coming soon..</li>
+  </td>
+  <td>
+    <li>Coming soon...</li>
+  </td>
  </tr>
 <tr>
   <td><strong>Optional Practice / Readings</strong></td>
@@ -129,7 +134,9 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="https://flukeout.github.io/">Play: CSS Diner</a></li>
     </ol>
   </td>
-  <td></td>
+  <td>
+    <li>Coming soon..</li>
+  </td>
 </tr>
 </tbody>
 </table>
