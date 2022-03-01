@@ -56,10 +56,12 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>9:15: <a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
     </ol>
   </td>
+  <td>
     <ol>
       <li>9: <a href="w01/d2/js-conditions.md">comparison operators, logical operators, if statements (conditions), and more flowcharts</li>
       <li>Exercise: flowchart + code for ATM machine</li>
     </ol>
+  </td>
   <td>
     <ol>
       <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
