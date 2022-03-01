@@ -43,9 +43,9 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>6:30: 
         <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
         <ul>
-          <li>Variables and arithmetic operators</li>
-          <li>input/output: prompt() and console.log()</li>
-          <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple input/output apps</li>
+          <li>Variables, types, arithmetic</li>
+          <li>input/output: prompt(), console.log()</li>
+          <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a>, simple decisionless apps</li>
         </ul>
       </li>
       <li>8: In-class exercise: flowchart + code for a temperature conversion app</li>
