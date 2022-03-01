@@ -4,7 +4,7 @@
 
 <i><strong>Lab due dates</strong>: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
-Use the <a href="https://docs.google.com/spreadsheets/d/1c9n0Vus2FsHuHZdIR-8WwjAPmfQx9AidLws2GkSdptQ/edit#gid=0">recording tracker</a> to help you if you get stuck on labs.
+Use the recording tracker to help you if you get stuck on labs.
 
 <br>
 
@@ -26,21 +26,7 @@ Use the <a href="https://docs.google.com/spreadsheets/d/1c9n0Vus2FsHuHZdIR-8WwjA
 <tbody>
 
 <tr>
-  <td><strong>First half</strong></td>
-  <td>
-    <ol>
-      <li>Orientation</li>
-      <li><a href="w01/d1/lectures/intro-dev-env.md">Terminal</a></li>
-      <li>Install <a href="w01/d1/installfest.md#git">Git</a></li>
-      <li><a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>Pushing homework</li>
-      <li><a href="w01/d2/js-conditions.md">comparison operators, if statements (conditions)</li>
-    </ol>
-  </td>
+  <td><strong>First session</strong></td>
   <td>
     <ol>
       <li>6:30: Orientation</li>
@@ -63,7 +49,7 @@ Use the <a href="https://docs.google.com/spreadsheets/d/1c9n0Vus2FsHuHZdIR-8WwjA
   </td>
 </tr>
 <tr>
-  <td><strong>Second half</strong></td>
+  <td><strong>Second session</strong></td>
   <td>
     <ol>
       <li>9: Install <a href="w01/d1/installfest.md#git">Git</a></li>
