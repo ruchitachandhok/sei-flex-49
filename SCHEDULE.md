@@ -4,7 +4,7 @@
 
 <i><strong>Lab due dates</strong>: Deliverables are always due 1 week after they are assigned, at midnight. (Ie., A deliverable assigned Monday January 1st will be due Monday January 8th at midnight). Ideally, though, try to do them <strong>right after</strong> the corresponding lecture.</i>
 
-Use the recording tracker to help you if you get stuck on labs.
+Use the recording tracker to help you if you get stuck on labsd.
 
 <br>
 
