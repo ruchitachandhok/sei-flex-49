@@ -14,6 +14,8 @@ Use the recording tracker to help you if you get stuck on labs.
 
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
+Chalkboard Notes Doc: https://docs.google.com/document/d/11A8AZwLCW4gC_lQqoqbtv5YYpzfinU5XAR5QjY0-eDc/edit
+
 <table>
 <thead>
 <tr>
