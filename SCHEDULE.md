@@ -77,7 +77,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs</strong></td>
   <td>
     <ol>
-      <li>Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
+      <li>Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md") <strong>(Deliverable #0)</strong></li>
+      <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/?cn-reloaded=1#learn">Read flowchart syntax</a> and Complete the flowchart lab<strong>(Deliverable #1)</strong></li>
     </ol>
   </td>
   <td>
@@ -95,8 +96,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>Required Readings before next class</td>
   <td>
     <ol>
-      <li><a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a></li>
-      <li><a href="https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/building-algorithms/a/expressing-an-algorithm">Expressing code as a flowchart</li>
+      <li><a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a> OR
+      London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapters: Read the short chapters on "JS" and "Data types" and "Control flow"</li>
     </ol>
   </td>
   <td></td>
@@ -106,7 +107,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Optional Practice / Readings</strong></td>
   <td>
     <ol>
-      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapters: Read the short chapters on "JS" and "Data types" and "Control flow"</li>
+      <li><a href="https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/building-algorithms/a/expressing-an-algorithm">Expressing code as a flowchart</li>
       <li>Katacoda <a href="https://www.katacoda.com/courses/git">Git course</a>: A fun interactive git quiz/course</li>
       <li><a href="w01/d1/installfest.md">Install software for Units 2-4</a> (optional, can skip)</li>
     </ol>
