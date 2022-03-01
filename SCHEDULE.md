@@ -91,7 +91,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
 </tr>
 <tr>
-  <td><strong>Additional Optional Practice / Readings</strong></td>
+  <td>Required Readings</td>
+  <td><a href="https://edabit.com/tutorial/javascript">Edabit Intro to JS</a></td>
+  <td></td>
+  <td></td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
   <td>
     <ol>
       <li><a href="w01/d1/installfest.md">Install software for Units 2-4</a> (optional, can skip)</li>
