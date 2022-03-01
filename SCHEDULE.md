@@ -32,14 +32,26 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>6:30: Orientation</li>
       <li>7: <a href="https://docs.google.com/presentation/d/1OmlE42_AGZxeqft-BUn36soDD20OzYq1HFJEku3JVMs/edit?usp=sharing">Intro to the course slides</a></li>
-      <li>7:30: Terminal <a href="https://docs.google.com/presentation/d/1OmlE42_AGZxeqft-BUn36soDD20OzYq1HFJEku3JVMs/edit#slide=id.g8c022af793_0_161">Slides</a>, <a href="w01/d1/intro-dev-env.md#using-the-terminalcommand-line-interface">Extra notes</a>, and <a href="https://www.evernote.com/shard/s411/sh/1cc3556e-45bf-687d-4f62-550b01139dfc/58909ceffa46716b4f47013934f2ec08">In-class exercises</a> </li>
+      <li>7:30: Terminal <a href="https://docs.google.com/presentation/d/1OmlE42_AGZxeqft-BUn36soDD20OzYq1HFJEku3JVMs/edit#slide=id.g8c022af793_0_161">Slides</a>, <a href="w01/d1/intro-dev-env.md#using-the-terminalcommand-line-interface">Extra notes</a></li>
+      <li>8: <a href="https://www.evernote.com/shard/s411/sh/1cc3556e-45bf-687d-4f62-550b01139dfc/58909ceffa46716b4f47013934f2ec08">In-class exercises</a> </li>
       <li>8:30: break</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w01/d1/lectures/js-intro-datatypes.md">6:30: Intro to Programming and JS: Variables, Arithmetic, console.log, prompt(), flowcharts</a></li>
-      <li>Exercise: flowchart + code for a temperature conversion app</li>
+      <li>Pop quiz: Terminal and Git</li>
+      <li>6:30: 
+        <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS: 
+        <ul>
+          <li>Variables</li>
+          <li>Arithmetic operators</li>
+          <li>output: console.log</li>
+          <li>input with prompt() command</li>
+          <li>flowcharts for simple apps</li>
+        </ul>
+        </a>
+      </li>
+      <li>8: In-class exercise: flowchart + code for a temperature conversion app</li>
       <li>8:30: break</li>
     </ol>
   </td>
