@@ -32,7 +32,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>6:30: Orientation</li>
       <li>7: <a href="https://docs.google.com/presentation/d/1OmlE42_AGZxeqft-BUn36soDD20OzYq1HFJEku3JVMs/edit?usp=sharing">Intro to the course slides</a></li>
-      <li>7:30: Terminal: <a href="w01/d1/lectures/intro-dev-env.md">Notes</a>, <a href="https://www.evernote.com/shard/s411/sh/1cc3556e-45bf-687d-4f62-550b01139dfc/58909ceffa46716b4f47013934f2ec08">In-class exercises</a> </li>
+      <li>7:30: Terminal: <a href="w01/d1/intro-dev-env.md">Notes</a>, <a href="https://www.evernote.com/shard/s411/sh/1cc3556e-45bf-687d-4f62-550b01139dfc/58909ceffa46716b4f47013934f2ec08">In-class exercises</a> </li>
       <li>8:30: break</li>
     </ol>
   </td>
@@ -54,7 +54,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>9: Install <a href="w01/d1/installfest.md#git">Git</a></li>
-      <li>9:15: <a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Simple Git Workflow</a></li>
+      <li>9:15: <a href="w01/d1/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Simple Git Workflow</a></li>
     </ol>
   </td>
   <td>
