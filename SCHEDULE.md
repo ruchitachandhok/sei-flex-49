@@ -1,4 +1,4 @@
-<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI Toronto - Cohort 40 - Schedule</h1>
+<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;"></a> SEI Toronto - Cohort 49 - Schedule</h1>
 
 <i><strong>Lab submissions</strong>: Please push labwork <strong>daily</strong> into your fork so you don't lose it. Try to finish 100% but post the link to your deliverables file as soon as you feel it's reasonably complete. (eg., If a lab is 80% complete, and you're stuck for hours on the last 2 problems, do still submit.) <strong>Mostly-complete submissions count</strong> so get into a habit of submitting them even if they aren't fully done but mostly done!</i>
 
