@@ -45,7 +45,7 @@ Use the recording tracker to help you if you get stuck on labs.
         <ul>
           <li>Variables, types, arithmetic</li>
           <li>input/output: prompt(), console.log()</li>
-          <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a>, simple decisionless apps</li>
+          <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple I/O</li>
         </ul>
       </li>
       <li>8: In-class exercise: flowchart + code for a temperature conversion app</li>
