@@ -77,7 +77,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
-      <li>Flowchart lab <strong>(Deliverable #1)</strong></li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/32d5f3fe-7eb2-d8e6-f892-63f3e1322667/eca084531f91c69a2b1212922c3e54ff">Flowchart lab</a> <strong>(Deliverable #1)</strong></li>
     </ol>
   </td>
   <td>
