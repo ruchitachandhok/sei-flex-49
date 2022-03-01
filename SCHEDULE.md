@@ -10,7 +10,7 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 1
 
-### Week 1 (Tues March 1st - Sat March 5th)*
+### Week 1 (Tues March 1st - Sat March 5th): JS Basics*
 
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
@@ -37,15 +37,14 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Pushing homework</li>
-      <li><a href="w01/d2/js-conditions.md">comparison operators, if statements (conditions)</li>
+      <li><a href="w01/d1/lectures/js-intro-datatypes.md">6:30: Intro to Programming and JS: Variables, Arithmetic, console.log, prompt(), flowcharts</a></li>
+      <li>Exercise: flowchart + code for a temperature conversion app</li>
+      <li>8:30: break</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w01/d2/git-intro-workflow.md/#5-trust-issues-when-the-repo-owner-doesnt-trust-you">Git Pt. 2: Owner DOESNT trust me</a></li>
-      <li><a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (no params): Defining/calling, and return</a></li>
-      <li><a href="w01/d3/js-objects.md">Objects {}</li>
+      <li><a href="w01/d3/js-functions-and-scope.md">10am: Functions Pt. 1 (no params): Defining/calling, and return</a></li>
     </ol>
   </td>
 </tr>
@@ -57,11 +56,14 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>9:15: <a href="w01/d1/lectures/git-intro-workflow.md">Git Pt. 1: Owner Trusts me</a></li>
     </ol>
   </td>
-  <td>
-  </td>
+    <ol>
+      <li>9: <a href="w01/d2/js-conditions.md">comparison operators, logical operators, if statements (conditions), and more flowcharts</li>
+      <li>Exercise: flowchart + code for ATM machine</li>
+    </ol>
   <td>
     <ol>
-      <li><a href="w01/d1/lectures/js-intro-datatypes.md">variables, arithmetic</a></li>
+      <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
+      <li>Exercise: Console RPS, Console Mortgage Calculator</li>
     </ol>
   </td>
 </tr>
@@ -79,6 +81,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w01/d1/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a> (optional)</li>
     </ol>
   </td>
+  <td></td>
 </tr>
 <tr>
   <td><strong>Additional Optional Practice / Readings</strong></td>
@@ -96,7 +99,13 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="https://flukeout.github.io/">Play: CSS Diner</a></li>
     </ol>
   </td>
+  <td></td>
 </tr>
 </tbody>
 </table>
 
+Coming weeks:
+
+### Week 2: HTML, CSS, Flexbox, DOM
+### Week 3: Simple DOM Apps, jQuery
+### Week 4: Arrays, Loops, Complex DOM apps
