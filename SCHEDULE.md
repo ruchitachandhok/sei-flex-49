@@ -74,11 +74,10 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
 </tr>
 <tr>
-  <td><strong>Labs</strong></td>
+  <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
-      <li>Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md") <strong>(Deliverable #0)</strong></li>
-      <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/?cn-reloaded=1#learn">Read flowchart syntax</a> and Complete the flowchart lab<strong>(Deliverable #1)</strong></li>
+      <li>Flowchart lab <strong>(Deliverable #1)</strong></li>
     </ol>
   </td>
   <td>
