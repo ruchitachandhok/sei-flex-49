@@ -70,7 +70,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>9: <a href="w01/d2/js-conditions.md">comparison operators, logical operators, if statements (conditions), and more flowcharts</li>
-      <li>Exercise: flowchart + code for ATM machine</li>
+      <li>In-class exercise: flowchart + code for ATM machine</li>
     </ol>
   </td>
   <td>
