@@ -41,13 +41,12 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Pop quiz: Terminal and Git</li>
       <li>6:30: 
-        <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS: 
+        <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
         <ul>
           <li>Variables and arithmetic operators</li>
-          <li>output and input: console.log() and prompt() functions</li>
-          <li>flowcharts for simple procedural apps</li>
+          <li>input/output: prompt() and console.log()</li>
+          <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple input/output apps</li>
         </ul>
-        </a>
       </li>
       <li>8: In-class exercise: flowchart + code for a temperature conversion app</li>
       <li>8:30: break</li>
