@@ -40,7 +40,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>6:30 Terminal pop quiz</li>
-      <li>6:40: Install VSCode</li>
+      <li>6:40: Install <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/w01/d1/installfest.md#visual-studio-code">VSCode</a></li>
       <li>
         7: <a href="w01/d2/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
         <ul>
