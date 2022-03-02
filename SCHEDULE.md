@@ -49,7 +49,8 @@ Use the recording tracker to help you if you get stuck on labs.
           <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple I/O</li>
         </ul>
       </li>
-      <li>7:45: In-class exercise: flowchart + code for a conversion app (temperature/inches/etc)</li>
+      <!-- https://www.evernote.com/shard/s411/sh/a2ff0658-9b64-e28c-2dc4-040b8b56cbd7/56e499b85d58e3ae889c8c26606c6e6f -->
+      <li>7:45: In-class exercise: conversion app</li>
       <li>8: break</li>
     </ol>
   </td>
