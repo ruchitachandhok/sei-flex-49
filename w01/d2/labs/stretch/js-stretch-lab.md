@@ -131,3 +131,11 @@ let bigNumber = 54321
 8. Write a function that returns the ith bit of any number n.
 
 9. Write a function that returns the nth digit of any number n.
+
+# Want more? Try some FAANG interview-level bit manipulation questions
+
+The questions below are designed to challenge computer science majors and are asked during very difficult interviews for large companies like google, so they are quite hard for your average coder:
+
+<a href="https://leetcode.com/tag/bit-manipulation/">https://leetcode.com/tag/bit-manipulation/</a>
+
+I recommend only doing easy questions, and sorting by acceptance (90% is better to start with than 10%). Acceptance roughly means 90% of CS grads who attempted this got it right. Medium and hard should only be attempted once you're comfortable with easy ones.
