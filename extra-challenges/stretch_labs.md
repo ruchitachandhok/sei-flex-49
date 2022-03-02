@@ -5,5 +5,5 @@
 
 | Stretch Lab      | Can be submitted in lieu of |
 | ---------------- | ----------- |
-| <a href="../w01/d2/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a>      | JS Basics Lab.       |
+| <a href="../w01/d2/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a>      | JS Basics Lab (Deliverable #2)       |
 
