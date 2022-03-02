@@ -49,8 +49,7 @@ Use the recording tracker to help you if you get stuck on labs.
           <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple I/O</li>
         </ul>
       </li>
-      <!-- https://www.evernote.com/shard/s411/sh/a2ff0658-9b64-e28c-2dc4-040b8b56cbd7/56e499b85d58e3ae889c8c26606c6e6f -->
-      <li>7:45: In-class exercise: conversion app</li>
+      <li>7:45: In-class exercise: <a href="https://www.evernote.com/shard/s411/sh/0398b177-b63e-bd5f-8690-278f76eb214b/095778164a6c4cfab73a62412e7d49f4">variable basics</a>, <a href="https://www.evernote.com/shard/s411/sh/a2ff0658-9b64-e28c-2dc4-040b8b56cbd7/56e499b85d58e3ae889c8c26606c6e6f">conversion app</a></li>
       <li>8: break</li>
     </ol>
   </td>
@@ -89,7 +88,8 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>2pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
       <li>3pm: Create your own fork</li>
-      <li>4pm: <a href="https://forms.gle/YasgsqJXVFRqhsHb9">Pop quiz</a>: Terminal and Git</li>
+      <li>4pm: <a href="https://forms.gle/YasgsqJXVFRqhsHb9">Pop quiz</a>: JS, Terminal, Git</li>
+      <li>Optional topic: using the chrome debugger</li>
     </ol>
   </td>
 </tr>
