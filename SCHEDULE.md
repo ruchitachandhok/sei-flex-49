@@ -68,7 +68,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-      <li>9: Install Homebrew and <a href="w01/d1/installfest.md#git">Git</a></li>
+      <li>9: Install <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/w01/d1/installfest.md#homebrew-mac-only">Homebrew</a> and <a href="w01/d1/installfest.md#git">Git</a></li>
     </ol>
   </td>
   <td>
