@@ -39,16 +39,17 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>6:30: Install VSCode</li>
+      <li>6:30 Terminal pop quiz</li>
+      <li>6:40: Install VSCode</li>
       <li>
-        645: <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
+        7: <a href="w01/d2/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
         <ul>
           <li>Variables, types, arithmetic</li>
           <li>input/output: prompt(), console.log()</li>
           <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple I/O</li>
         </ul>
       </li>
-      <li>7:45: In-class exercise: flowchart + code for a temperature conversion app</li>
+      <li>7:45: In-class exercise: flowchart + code for a conversion app (temperature/inches/etc)</li>
       <li>8: break</li>
     </ol>
   </td>
@@ -56,7 +57,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>10: Weekly code reading #1: A professionally done website.</li>
       <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (no params): Defining/calling, and return</a></li>
-      <li>1130: Exercise: Flowchart + Console Mortgage Calculator</li>
+      <li>1130: Exercise: Flowchart + code for ATM machine</li>
       <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
       <li>1245: Exercise: Console RPS</li>
       <li>Lunch 1-2</li>
@@ -72,8 +73,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>8:30: <a href="w01/d2/js-conditions.md">comparison operators, logical operators, if statements (conditions), and more flowcharts</li>
-      <li>9:30: In-class exercise: flowchart + code for ATM machine</li>
+      <li>8:30: <a href="w01/d2/js-conditions.md">decisions/conditions:</a>: comparison operators, logical operators, if statements + flowcharts</li>
+      <li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>
       <li>9:45 <a href="w01/d1/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Basic Git Workflow</a></li>
       <li>10:15: In-class exercise: Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
     </ol>
