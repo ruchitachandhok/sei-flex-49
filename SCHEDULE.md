@@ -39,22 +39,27 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="https://forms.gle/YasgsqJXVFRqhsHb9">Pop quiz</a>: Terminal and Git</li>
-      <li>6:30: 
-        <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
+      <li>6:30: Install VSCode</li>
+      <li>
+        645: <a href="w01/d1/lectures/js-intro-datatypes.md">Intro to Programming and JS</a>:
         <ul>
           <li>Variables, types, arithmetic</li>
           <li>input/output: prompt(), console.log()</li>
           <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple I/O</li>
         </ul>
       </li>
-      <li>8: In-class exercise: flowchart + code for a temperature conversion app</li>
-      <li>8:30: break</li>
+      <li>7:45: In-class exercise: flowchart + code for a temperature conversion app</li>
+      <li>8: break</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w01/d3/js-functions-and-scope.md">10am: Functions Pt. 1 (no params): Defining/calling, and return</a></li>
+      <li>10: Weekly code reading #1: A professionally done website.</li>
+      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (no params): Defining/calling, and return</a></li>
+      <li>1130: Exercise: Flowchart + Console Mortgage Calculator</li>
+      <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
+      <li>1245: Exercise: Console RPS</li>
+      <li>Lunch 1-2</li>
     </ol>
   </td>
 </tr>
@@ -63,23 +68,21 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>9: Install <a href="w01/d1/installfest.md#git">Git</a></li>
-      <li>9:15: <a href="w01/d1/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Simple Git Workflow</a></li>
-      <li>10: In-class exercise: Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>9: <a href="w01/d2/js-conditions.md">comparison operators, logical operators, if statements (conditions), and more flowcharts</li>
-      <li>In-class exercise: flowchart + code for ATM machine</li>
+      <li>8:30: <a href="w01/d2/js-conditions.md">comparison operators, logical operators, if statements (conditions), and more flowcharts</li>
+      <li>9:30: In-class exercise: flowchart + code for ATM machine</li>
+      <li>9:45 <a href="w01/d1/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Basic Git Workflow</a></li>
+      <li>10:15: In-class exercise: Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Weekly code reading #1: A professionally done website.</li>
-      <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
-      <li>Exercise: Console RPS, Console Mortgage Calculator</li>
-      <li>break 1-2</li>
-      <li>2pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow + how to push homework</li>
+      <li>2pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
+      <li>3pm: Create your own fork</li>
+      <li>4pm: <a href="https://forms.gle/YasgsqJXVFRqhsHb9">Pop quiz</a>: Terminal and Git</li>
     </ol>
   </td>
 </tr>
@@ -92,7 +95,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w01/d1/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #1)</strong> <em>(ideal: tonight)</em></li>
+      <li><a href="w01/d1/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #2)</strong> <em>(ideal: tonight)</em></li>
       <li><a href="w01/d1/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a> (optional)</li>
     </ol>
   </td>
