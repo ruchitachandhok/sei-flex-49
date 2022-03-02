@@ -67,7 +67,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-      <li>9: Install <a href="w01/d1/installfest.md#git">Git</a></li>
+      <li>9: Install Homebrew and <a href="w01/d1/installfest.md#git">Git</a></li>
     </ol>
   </td>
   <td>
