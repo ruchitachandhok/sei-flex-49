@@ -80,7 +80,7 @@ Use the recording tracker to help you if you get stuck on labs.
         </ul>
       </li>
       <li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>
-      <li>9:45 <a href="w01/d1/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Basic Git Workflow</a></li>
+      <li>9:45 <a href="w01/d2/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Basic Git Workflow</a></li>
       <li>10:15: In-class exercise: Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
     </ol>
   </td>
