@@ -1,8 +1,8 @@
 # JS Variables, Conditions Stretch Lab
 
-This is a totally optional stretch lab for those who want a bit more javascript. 
+This is a totally optional stretch lab for those who want a bit more javascript, and maybe a bit of CS material. 
 
-Warning: Instructors may underprioritize requests for help with this lab, as it's not part of the SEI fundamentals.
+Warning: Instructors may underprioritize requests for help with this lab, as it's top secret, and not part of the SEI fundamentals. I'm not even sure I remember the answers to some of the harder ones. Basically, you're on your own!
 
 <img src="https://media1.giphy.com/media/uuocoePH1mkVy/200w.gif?cid=82a1493bgn3yvpo81jd0csdwn7aoljden8z5lsy0n3scrzin&rid=200w.gif&ct=g" >
 
