@@ -86,6 +86,8 @@ These are known as <a href="https://www.w3schools.com/js/js_bitwise.asp">bitwise
 
 The following exercises give you an idea.
 
+For more information, I recommend the "Bit manipulation" chapter of cracking the coding interview, or you can see various online resources such as <a href="https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/">this tutorial.</a>
+
 
 1. Write some code to swap the two values below. You may not use a third variable or declare any new variables.
 ```js
