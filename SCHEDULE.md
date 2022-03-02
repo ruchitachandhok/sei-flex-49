@@ -101,8 +101,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w01/d1/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #2)</strong> <em>(ideal: tonight)</em></li>
-      <li><a href="w01/d1/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a> (optional)</li>
+      <li><a href="w01/d2/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #2)</strong> <em>(ideal: tonight)</em></li>
+      <li><a href="w01/d2/labs/stretch/js-stretch-lab.md">Lab: JS Stretch Lab</a> (optional)</li>
     </ol>
   </td>
   <td>
