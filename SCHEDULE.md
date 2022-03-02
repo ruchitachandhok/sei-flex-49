@@ -118,7 +118,11 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-    <li>Coming soon..</li>
+    <li>
+      <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapter: Read the short chapter on "functions"
+      </ol>
+    </li>
   </td>
   <td>
     <li>Coming soon...</li>
