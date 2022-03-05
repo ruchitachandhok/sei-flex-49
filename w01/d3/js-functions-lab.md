@@ -20,7 +20,8 @@ This lab is **a deliverable**.
 
 #### Requirements
 
-<font size="80">Complete at least 13</font> of the exercises on this markdown. You may do more, and you may choose which 13. I recommend going from top to bottom, easier to harder.
+# Complete at least 13
+ of the exercises on this markdown. You may do more, and you may choose which 13. I recommend going from top to bottom, easier to harder.
 
 Be sure to number each function with a comment above it.
 
