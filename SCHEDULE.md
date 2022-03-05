@@ -107,6 +107,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <li>Lab on functions</li>
+    <!-- stretch recursion -->
     <li>Lab on console game</li>
   </td>
 </tr>
