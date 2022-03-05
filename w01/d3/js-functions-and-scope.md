@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/yxikhiY.jpg
 )
-# JavaScript Functions Pt. 1: Functions without parameters & Scope
+# JavaScript Functions
 
-<em>We'll get to functions with parameters tomorrow</em>
+
 
 | Learning Objectives - SWBAT |
 | :--- |
