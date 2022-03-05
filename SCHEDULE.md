@@ -109,6 +109,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <li>Lab on functions</li>
     <!-- stretch recursion -->
     <li>Lab on console game</li>
+    <li>Daily coding challenges #1</li>
   </td>
 </tr>
 <tr>
