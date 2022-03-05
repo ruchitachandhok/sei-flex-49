@@ -57,9 +57,9 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>10: <a href="https://forms.gle/1dqZNja97z5JP6pE7">"If" Pop quiz</a></li>
       <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (procedures): Defining/calling, and scope</a></li>
-      <li>11: Exercise: Flowchart + code for ATM machine</li>
+      <!--<li>11: Exercise: Flowchart + code for ATM machine</li>-->
       <li>1130: Functions Pt. 2- input(params vs. args) and output(return) </li>
-      <li>1215: Exercise: Console RPS</li>
+      <!--<li>1215: Exercise: Console RPS</li>-->
     </ol>
   </td>
 </tr>
@@ -123,11 +123,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapter: Read the short chapter on "functions" in the Module 1 section</li>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> Read the short chapter on "functions" in the Module 1 section</li>
     </ol>
   </td>
   <td>
-    <li>Coming soon...</li>
+    <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapter on "Flexbox" and "JS Objects" in the Module 1 section</li>
+    </ol>
   </td>
  </tr>
 <tr>
@@ -149,7 +151,7 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-    <li>Coming soon..</li>
+    <li>Look ahead at the DOM stuff. The london textbook has a good section. Do as much JS as you possibly can!</li>
   </td>
 </tr>
 </tbody>
