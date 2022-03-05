@@ -55,10 +55,10 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>10: Activity: bug hunt: JS, terminal, git</li>
-      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (procedures): Defining/calling, and return</a></li>
+      <li>10: <a href="https://forms.gle/1dqZNja97z5JP6pE7">"If" Pop quiz</a></li>
+      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (procedures): Defining/calling, and scope</a></li>
       <li>11: Exercise: Flowchart + code for ATM machine</li>
-      <li>1130: Functions Pt. 2 (parameters, and scope) </li>
+      <li>1130: Functions Pt. 2- input(params vs. args) and output(return) </li>
       <li>1215: Exercise: Console RPS</li>
     </ol>
   </td>
@@ -107,7 +107,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <li>Lab on functions</li>
-    <!-- stretch recursion -->
+    <!-- stretch recursion gym -->
     <li>Lab on console game</li>
     <li>Daily coding challenges #1</li>
   </td>
