@@ -55,11 +55,11 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>10: Weekly code reading</li>
-      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (no params): Defining/calling, and return</a></li>
-      <li>1130: Exercise: Flowchart + code for ATM machine</li>
-      <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
-      <li>1245: Exercise: Console RPS</li>
+      <li>10: Activity: bug hunt: JS, terminal, git</li>
+      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (procedures): Defining/calling, and return</a></li>
+      <li>11: Exercise: Flowchart + code for ATM machine</li>
+      <li>1130: Functions Pt. 2 (parameters, and scope) </li>
+      <li>1215: Exercise: Console RPS</li>
     </ol>
   </td>
 </tr>
@@ -85,10 +85,11 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>2pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
-      <li>3pm: Create your own fork</li>
-      <li>4pm: <a href="https://forms.gle/YasgsqJXVFRqhsHb9">Pop quiz</a>: JS, Terminal, Git</li>
-      <li>Optional topic: using the chrome debugger</li>
+      <li>2pm: Intro to HTML5 + exercise</li>
+      <li>3pm: CSS + exercise</li>
+      <li>4pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
+      <li>5pm: Create your own fork of the class repo, to submit today's homework</li>
+      <li>530pm: Optional: Debugging functions Using the chrome debugger</li>
     </ol>
   </td>
 </tr>
