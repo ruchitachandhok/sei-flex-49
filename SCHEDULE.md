@@ -55,12 +55,11 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>10: Weekly code reading #1: A professionally done website.</li>
+      <li>10: Weekly code reading</li>
       <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (no params): Defining/calling, and return</a></li>
       <li>1130: Exercise: Flowchart + code for ATM machine</li>
       <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
       <li>1245: Exercise: Console RPS</li>
-      <li>Lunch 1-2</li>
     </ol>
   </td>
 </tr>
