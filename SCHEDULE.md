@@ -85,8 +85,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>2pm: Intro to HTML5 + exercise</li>
-      <li>3pm: CSS + exercise</li>
+      <li>2pm: <a href="w01/d3/intro-to-html">Intro to HTML5</a> + exercise</li>
+      <li>3pm: <a href="w01/d3/intro-to-css">CSS</a> + exercise</li>
       <li>4pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
       <li>5pm: Create your own fork of the class repo, to submit today's homework</li>
       <li>530pm: Optional: Debugging functions Using the chrome debugger</li>
