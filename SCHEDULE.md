@@ -106,10 +106,11 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-    <li>Lab on functions</li>
-    <!-- stretch recursion gym -->
-    <li>Lab on console game</li>
-    <li>Daily coding challenges #1</li>
+    <ol>
+      <li><a href="w01/d3/js-functions-lab.md">Lab: Functions</a> <strong>(Deliverable #3)</strong></li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/8525def6-867c-1859-8070-57abb94d23e4/ed63f8d9e9c6df4b585329240733824e">Console RPS lab</a> <strong>(Deliverable #4)</strong></li>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-3/30</li>
+    </ol>
   </td>
 </tr>
 <tr>
