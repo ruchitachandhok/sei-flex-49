@@ -1,8 +1,8 @@
 # JS Variables, Conditions Stretch Lab
 
-This is a totally optional stretch lab for those who want a bit more javascript. 
+This is a totally optional stretch lab for those who want a bit more javascript, and maybe a bit of CS material. 
 
-Warning: Instructors may underprioritize requests for help with this lab, as it's not part of the SEI fundamentals.
+Warning: Instructors may underprioritize requests for help with this lab, as it's top secret, and not part of the SEI fundamentals. I'm not even sure I remember the answers to some of the harder ones. Basically, you're on your own!
 
 <img src="https://media1.giphy.com/media/uuocoePH1mkVy/200w.gif?cid=82a1493bgn3yvpo81jd0csdwn7aoljden8z5lsy0n3scrzin&rid=200w.gif&ct=g" >
 
@@ -86,6 +86,8 @@ These are known as <a href="https://www.w3schools.com/js/js_bitwise.asp">bitwise
 
 The following exercises give you an idea.
 
+For more in-depth study, I recommend the "Bit manipulation" chapter of the book "cracking the coding interview" (available on amazon, or i can lend you my copy), or you can look this up on various online resources such as <a href="https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/">this tutorial.</a>
+
 
 1. Write some code to swap the two values below. You may not use a third variable or declare any new variables.
 ```js
@@ -129,3 +131,11 @@ let bigNumber = 54321
 8. Write a function that returns the ith bit of any number n.
 
 9. Write a function that returns the nth digit of any number n.
+
+# Want more? Try some FAANG interview-level bit manipulation questions
+
+The questions below are designed to challenge computer science majors and are asked during very difficult interviews for large companies like google, so they are quite hard for your average coder:
+
+<a href="https://leetcode.com/tag/bit-manipulation/">https://leetcode.com/tag/bit-manipulation/</a>
+
+I recommend only doing easy questions, and sorting by acceptance (90% is better to start with than 10%). Acceptance roughly means 90% of CS grads who attempted this got it right. Medium and hard should only be attempted once you're comfortable with easy ones.

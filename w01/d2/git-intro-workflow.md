@@ -51,15 +51,19 @@ In SEI, you'll get plenty of practice using git, especially during project week 
 
 > IMPORTANT: At some point, you will lose access to the class repo that's hosted on GA's GitHub Enterprise account. Not to worry.  You will of course have all of the materials and your work stored locally. Additionally, at the end of the cohort, you can simply add a new remote that links a repo on your personal GitHub account and push to it - that remote repo will then contain all materials and commits for your labs, practice exercises, code challenges, etc.
 
-For your convenience, there is a git command cheatsheet located in the `resources` section of the class repo. However the following summary of commands will "git" you far:
+For your convenience, there is a git command <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/resources/git_command_cheatsheet_github.pdf">cheatsheet</a> located in the `resources` section of the class repo. However the following summary of commands will "git" you far:
 
 | Command | Purpose |
 |---|---|
-| `git init` | Initializes a local repository. Used in lieu of cloning a GitHub repo. All local repos contain a hidden `.git` directory responsible for holding repo-related data. |
+| `git remote -v` | Tells you which remote repositories (on the cloud) your local copy (working copy) is connected to. |
+| `git clone http://asdf` | Sets up a local copy (working copy) of a project from a remote repository. It's automatically connected to the target remote. |
+| `git init` | Creates a brand new local repository that is not connected to any remotes. Used in lieu of cloning a GitHub repo. All local repos contain a hidden `.git` directory responsible for holding repo-related data. |
 | `git status` | Checks and reports on the status of your repo. It will inform you what changes to tracked (staged) files will be included in next commit, if there are any untracked files that have been added to the project or have changes, etc. |
 | `git add <path>` | Adds an entire directory or individual file (or files using a `*` as a wildcard) to the "staging area" for the next commit. |
 | `git add -A`| Adds all changes within the repo to the staging are for next commit. |
 | `git commit -m "<message>"`| Commits all staged changes to the local repo. The message should be in worded such that it describes what the commit **does**, not what it **did**. For example, "Style nav bar" instead of "Styled nav bar".|
+| `git pull remotename branchname` | `Downloads data from the remote called remotename and branch called branchname (usually master/main if you arent using branches)` |
+| `git push remotename branchname` | `Sends data from your local copy into the remote called remotename and branch called branchname (usually master/main if you arent using branches)` |
 
 This following diagrams the flow of making changes to a repo:
  

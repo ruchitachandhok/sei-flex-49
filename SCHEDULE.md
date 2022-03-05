@@ -39,7 +39,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>6:30 Terminal pop quiz</li>
+      <li>6:30 Terminal <a href="https://forms.gle/nCwCN96TVKUaaEJF9">pop quiz</a></li>
       <li>6:40: Install <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/w01/d1/installfest.md#visual-studio-code">VSCode</a></li>
       <li>
         7: <a href="w01/d2/js-intro-datatypes.md">Intro to Programming and JS</a>:
@@ -49,18 +49,17 @@ Use the recording tracker to help you if you get stuck on labs.
           <li><a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">flowcharts</a> for simple I/O</li>
         </ul>
       </li>
-      <li>7:45: In-class exercise: flowchart + code for a conversion app (temperature/inches/etc)</li>
+      <li>7:45: In-class exercise: <a href="https://www.evernote.com/shard/s411/sh/0398b177-b63e-bd5f-8690-278f76eb214b/095778164a6c4cfab73a62412e7d49f4">variable basics</a>, <a href="https://www.evernote.com/shard/s411/sh/a2ff0658-9b64-e28c-2dc4-040b8b56cbd7/56e499b85d58e3ae889c8c26606c6e6f">conversion app</a></li>
       <li>8: break</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>10: Weekly code reading #1: A professionally done website.</li>
-      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (no params): Defining/calling, and return</a></li>
-      <li>1130: Exercise: Flowchart + code for ATM machine</li>
-      <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
-      <li>1245: Exercise: Console RPS</li>
-      <li>Lunch 1-2</li>
+      <li>10: <a href="https://forms.gle/1dqZNja97z5JP6pE7">"If" Pop quiz</a></li>
+      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (procedures): Defining/calling, and scope</a></li>
+      <li>11: Exercise: Flowchart + code for ATM machine</li>
+      <li>1130: Functions Pt. 2- input(params vs. args) and output(return) </li>
+      <li>1215: Exercise: Console RPS</li>
     </ol>
   </td>
 </tr>
@@ -86,9 +85,11 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>2pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
-      <li>3pm: Create your own fork</li>
-      <li>4pm: <a href="https://forms.gle/YasgsqJXVFRqhsHb9">Pop quiz</a>: Terminal and Git</li>
+      <li>2pm: Intro to HTML5 + exercise</li>
+      <li>3pm: CSS + exercise</li>
+      <li>4pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
+      <li>5pm: Create your own fork of the class repo, to submit today's homework</li>
+      <li>530pm: Optional: Debugging functions Using the chrome debugger</li>
     </ol>
   </td>
 </tr>
@@ -101,12 +102,14 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w01/d2/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #2)</strong> <em>(ideal: tonight)</em></li>
+      <li><a href="w01/d2/labs/js-basics-lab.md">Lab: JS Basics</a> <strong>(Deliverable #2)</strong></li>
     </ol>
   </td>
   <td>
     <li>Lab on functions</li>
+    <!-- stretch recursion gym -->
     <li>Lab on console game</li>
+    <li>Daily coding challenges #1</li>
   </td>
 </tr>
 <tr>
@@ -118,7 +121,9 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-    <li>Coming soon..</li>
+    <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapter: Read the short chapter on "functions" in the Module 1 section</li>
+    </ol>
   </td>
   <td>
     <li>Coming soon...</li>
