@@ -70,13 +70,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>8:30: <a href="w01/d2/js-conditions.md">decisions/conditions</a>:
-        <ul>
-          <li>comparison operators, logical operators</li>
-          <li>if statements + flowcharts</li>
-        </ul>
-      </li>
-      <li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>
+      <li>8:30: <a href="w01/d2/js-conditions.md">decisions/conditions/if statements</a></li>
+      <!--<li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>-->
       <li>9:45 <a href="w01/d2/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Basic Git Workflow</a></li>
       <li>10:15: In-class exercise: Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
     </ol>
