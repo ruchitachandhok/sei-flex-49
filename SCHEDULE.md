@@ -56,10 +56,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>10: <a href="https://forms.gle/1dqZNja97z5JP6pE7">"If" Pop quiz</a></li>
-      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (procedures): Defining/calling, and scope</a></li>
-      <!--<li>11: Exercise: Flowchart + code for ATM machine</li>-->
-      <li>1130: Functions Pt. 2- input(params vs. args) and output(return) </li>
-      <!--<li>1215: Exercise: Console RPS</li>-->
+      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions</a></li>
+      <!--<li>ATM machine exercise</li>-->
     </ol>
   </td>
 </tr>
@@ -87,9 +85,6 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>2pm: <a href="w01/d3/intro-to-html.md">Intro to HTML5</a> + exercise</li>
       <li>3pm: <a href="w01/d3/intro-to-css.md">CSS</a> + exercise</li>
-      <li>4pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
-      <li>5pm: Create your own fork of the class repo, to submit today's homework</li>
-      <li>530pm: Optional: Debugging functions Using the chrome debugger</li>
     </ol>
   </td>
 </tr>
