@@ -112,8 +112,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>flexbox practice game: Flexbox froggy</li>
-      <li>grid practice game: Grid garden</li>
+      <li>flexbox practice game: <a href="https://flexboxfroggy.com/">Flexbox froggy</a></li>
+      <li>grid practice game: <a href="https://cssgridgarden.com/">Grid garden</a></li>
     </ol>
   </td>
   <td>
