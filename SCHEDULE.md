@@ -41,6 +41,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Intro to the DOM</li>
     </ol>
   </td>
 </tr>
@@ -59,6 +60,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>DOM Events</li>
+      <li>Using the chrome debugger</li>
     </ol>
   </td>
 </tr>
@@ -76,6 +79,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>DOM Events Lab</li>
     </ol>
   </td>
 </tr>
