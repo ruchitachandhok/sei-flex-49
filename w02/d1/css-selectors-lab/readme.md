@@ -1,6 +1,6 @@
 # CSS Selectors Lab
 
-## This lab is a deliverable
+## This lab is not a deliverable
 
 ## Learning Goals
 * tag/element selectors
