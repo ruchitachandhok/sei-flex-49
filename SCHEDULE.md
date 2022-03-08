@@ -81,7 +81,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>DOM Events Lab</li>
+      <li>DOM Events Lab  <strong>(Deliverable #6)</strong></li>
     </ol>
   </td>
 </tr>
