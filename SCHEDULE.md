@@ -30,17 +30,14 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
 </tr>
@@ -48,17 +45,14 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
 </tr>
@@ -66,17 +60,14 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
 </tr>
@@ -84,17 +75,14 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>Required Readings before next class</td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
   <td>
     <ol>
-
     </ol>
   </td>
  </tr>
@@ -107,7 +95,6 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <strong>If</strong> you feel comfortable with javascript, pick and choose a couple of these to read:
     <ol>
-
     </ol>
   </td>
   <td>
