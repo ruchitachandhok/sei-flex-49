@@ -56,10 +56,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>10: <a href="https://forms.gle/1dqZNja97z5JP6pE7">"If" Pop quiz</a></li>
-      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (procedures): Defining/calling, and scope</a></li>
-      <li>11: Exercise: Flowchart + code for ATM machine</li>
-      <li>1130: Functions Pt. 2- input(params vs. args) and output(return) </li>
-      <li>1215: Exercise: Console RPS</li>
+      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions</a></li>
+      <!--<li>ATM machine exercise</li>-->
     </ol>
   </td>
 </tr>
@@ -72,24 +70,16 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>8:30: <a href="w01/d2/js-conditions.md">decisions/conditions</a>:
-        <ul>
-          <li>comparison operators, logical operators</li>
-          <li>if statements + flowcharts</li>
-        </ul>
-      </li>
-      <li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>
+      <li>8:30: <a href="w01/d2/js-conditions.md">decisions/conditions/if statements</a></li>
+      <!--<li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>-->
       <li>9:45 <a href="w01/d2/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Basic Git Workflow</a></li>
       <li>10:15: In-class exercise: Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>2pm: Intro to HTML5 + exercise</li>
-      <li>3pm: CSS + exercise</li>
-      <li>4pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
-      <li>5pm: Create your own fork of the class repo, to submit today's homework</li>
-      <li>530pm: Optional: Debugging functions Using the chrome debugger</li>
+      <li>2pm: <a href="w01/d3/intro-to-html.md">Intro to HTML5</a> + exercise</li>
+      <li>3pm: <a href="w01/d3/intro-to-css.md">CSS</a> + exercise</li>
     </ol>
   </td>
 </tr>
@@ -109,7 +99,6 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w01/d3/js-functions-lab.md">Lab: Functions</a> <strong>(Deliverable #3)</strong></li>
       <li><a href="https://www.evernote.com/shard/s411/sh/8525def6-867c-1859-8070-57abb94d23e4/ed63f8d9e9c6df4b585329240733824e">Console RPS lab</a> <strong>(Deliverable #4)</strong></li>
-      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-3/30</li>
     </ol>
   </td>
 </tr>
@@ -123,11 +112,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapter: Read the short chapter on "functions" in the Module 1 section</li>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> Read the short chapter on "functions" in the Module 1 section</li>
     </ol>
   </td>
   <td>
-    <li>Coming soon...</li>
+    <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapter on "Flexbox" and "JS Objects" in the Module 1 section</li>
+    </ol>
   </td>
  </tr>
 <tr>
@@ -149,7 +140,8 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-    <li>Coming soon..</li>
+    <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-3/30</li>
+    <li>Look ahead at the DOM stuff. The london textbook has a good section. Do as much JS as you possibly can!</li>
   </td>
 </tr>
 </tbody>
