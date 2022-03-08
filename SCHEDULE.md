@@ -50,7 +50,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-      <li>Git Pt. 2: Forks (the owner doesn't trust you!), Q&A</li>
+      <li><a href="w01/d2/git-intro-workflow.md#5-trust-issues-when-the-repo-owner-doesnt-trust-you">Git Pt. 2: Forks</a> (the owner doesn't trust you!), Q&A</li>
       <li>Activity: Break this website</li>
     </ol>
   </td>
