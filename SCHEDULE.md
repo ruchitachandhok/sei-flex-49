@@ -30,10 +30,13 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
+      <li>Activity: Break this website</li>
+      <li><a href="w01/d3/intro-to-css.md">CSS Pt. 2</a>: Non-basic selectors, CSS box model</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>JS Objects</li>
     </ol>
   </td>
   <td>
@@ -45,10 +48,13 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
+      <li>Git Pt. 2: Forks (the owner doesn't trust you!)</li>
+      <li>Functions pop quiz</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>CSS Flexbox and Grid</li>
     </ol>
   </td>
   <td>
@@ -60,6 +66,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
+      <li>No required labs, just the optional one below.</li>
     </ol>
   </td>
   <td>
@@ -72,9 +79,10 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
 </tr>
 <tr>
-  <td>Required Readings before next class</td>
+  <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
+    <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapters on "Flexbox" and "JS Objects" in the Module 1 section</li>
     </ol>
   </td>
   <td>
@@ -90,10 +98,10 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Optional Practice / Readings</strong></td>
   <td>
     <ol>
+      <li>Optional CSS Lab. Not a deliverable, but you can put it in your deliverables file in a section marked optional if you'd like</li>
     </ol>
   </td>
   <td>
-    <strong>If</strong> you feel comfortable with javascript, pick and choose a couple of these to read:
     <ol>
     </ol>
   </td>
