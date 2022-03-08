@@ -70,7 +70,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>No required labs</li>
-      <li>CSS selectors Lab (optional) (does not count towards deliverables)</li>
+      <li><a href="w02/d1/css-selectors-lab">CSS selectors Lab</a> (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
