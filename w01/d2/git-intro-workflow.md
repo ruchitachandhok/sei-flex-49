@@ -192,7 +192,7 @@ This would be a great time to get your computer connected to the class repo wher
 
 You will have read-only access to the GA class repo.  However, you most certainly will want to be able to make changes (e.g., add notes, save code exercises, etc).  These changes will be saved to your own personal copy of GA's Student repo - known as a **fork**. 
 
-In the image below, note the nice grey fork between the upstream (which you cannot write to), and the origin (which is your fork/copy) of the repo.
+In the image below, note the <strong>nice grey fork</strong> between the upstream (which you cannot write to), and the origin (which is your fork/copy) of the repo.
 
 <img src="https://i.imgur.com/w871ATo.png">
 
