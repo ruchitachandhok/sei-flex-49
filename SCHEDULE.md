@@ -31,7 +31,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Functions pop quiz</li>
-      <li><a href="w01/d3/intro-to-css.md#4-css-selectors-25-mins">CSS Pt. 2</a>: Non-basic selectors, and the <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model">alternative CSS box model</a> (with <a href="https://css-tricks.com/international-box-sizing-awareness-day/">border-box</a>)</li>
+      <li><a href="w01/d3/intro-to-css.md#4-css-selectors-25-mins">CSS Pt. 2</a>: Non-basic selectors, and the <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model">alternative CSS box model</a> (ie., <a href="https://css-tricks.com/international-box-sizing-awareness-day/">border-box</a>)</li>
     </ol>
   </td>
   <td>
