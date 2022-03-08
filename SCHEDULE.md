@@ -36,6 +36,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Activity: Using the chrome debugger</li>
       <li>JS Objects</li>
     </ol>
   </td>
@@ -61,7 +62,6 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>DOM Events</li>
-      <li>Using the chrome debugger</li>
     </ol>
   </td>
 </tr>
