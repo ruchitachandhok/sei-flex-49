@@ -11,9 +11,114 @@ Use the recording tracker to help you if you get stuck on labs.
 ## Chalkboard Notes: https://docs.google.com/document/d/11A8AZwLCW4gC_lQqoqbtv5YYpzfinU5XAR5QjY0-eDc/edit
 
 # Unit 1
+*Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
+
+### Week 2 (Tues March 8th - Sat March 12th): CSS, Flexbox, DOM
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>First session</strong></td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Labs / Homework</strong></td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td>Required Readings before next class</td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+
+    </ol>
+  </td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <strong>If</strong> you feel comfortable with javascript, pick and choose a couple of these to read:
+    <ol>
+
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+</tr>
+</tbody>
+</table>
 
 ### Week 1 (Tues March 1st - Sat March 5th): JS and Programming Basics
-*Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
 <table>
 <thead>
@@ -140,8 +245,10 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
+    <ol>
     <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-3/30</li>
     <li>Look ahead at the DOM stuff. The london textbook has a good section. Do as much JS as you possibly can!</li>
+    </ol>
   </td>
 </tr>
 </tbody>
