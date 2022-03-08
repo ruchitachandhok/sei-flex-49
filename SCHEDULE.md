@@ -99,6 +99,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>London textbook: reading: <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Control flow: loops</a</li>    
     </ol>
   </td>
  </tr>
@@ -106,17 +107,18 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Optional Practice / Readings</strong></td>
   <td>
     <ol>
-      <li>Frontendmentor.io</li>
+      <li><a href="https://www.frontendmentor.io/challenges?types=free">Frontendmentor.io</a> created by some ex-GA teachers has a lot of frontend challenges (filter by free)</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Flexbox froggy</li>
-      <li>Grid garden</li>
+      <li>flexbox practice game: Flexbox froggy</li>
+      <li>grid practice game: Grid garden</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>Coming soon...</li>
     </ol>
   </td>
 </tr>
