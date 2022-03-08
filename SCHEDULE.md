@@ -70,13 +70,13 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>No required labs</li>
-      <li>Optional CSS Lab. Not a deliverable, but you can put it in your deliverables file in a section marked optional if you'd like</li>
+      <li>CSS selectors Lab (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
     <ol>
       <li>JS objects lab</li>
-      <li>Optional flexbox lab</li>
+      <li>CSS Flexbox lab (optional)</li>
     </ol>
   </td>
   <td>
