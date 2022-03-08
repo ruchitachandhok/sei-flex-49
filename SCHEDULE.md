@@ -92,6 +92,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapters on "The DOM" and "DOM Events" in the Module 1 section</li>
     </ol>
   </td>
   <td>
