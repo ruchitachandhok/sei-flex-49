@@ -66,11 +66,12 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
-      <li>No required labs, just the optional one below.</li>
+      <li>No required labs, just the optional CSS lab below.</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>No required labs, just the optional CSS flexbox lab below.</li>
     </ol>
   </td>
   <td>
