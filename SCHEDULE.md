@@ -11,9 +11,121 @@ Use the recording tracker to help you if you get stuck on labs.
 ## Chalkboard Notes: https://docs.google.com/document/d/11A8AZwLCW4gC_lQqoqbtv5YYpzfinU5XAR5QjY0-eDc/edit
 
 # Unit 1
+*Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
+
+### Week 2 (Tues March 8th - Sat March 12th): CSS, Flexbox, DOM
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>First session</strong></td>
+  <td>
+    <ol>
+      <li>Activity: Break this website</li>
+      <li><a href="w01/d3/intro-to-css.md">CSS Pt. 2</a>: Non-basic selectors, CSS box model</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Activity: Using the chrome debugger</li>
+      <li>JS Objects</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Intro to the DOM</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+      <li>Git Pt. 2: Forks (the owner doesn't trust you!)</li>
+      <li>Functions pop quiz</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>CSS Flexbox and Grid</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>DOM Events</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Labs / Homework</strong></td>
+  <td>
+    <ol>
+      <li>No required labs</li>
+      <li>CSS selectors Lab (optional) (does not count towards deliverables)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>JS objects lab <strong>(Deliverable #5)</strong></li>
+      <li>CSS Flexbox lab (optional)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>DOM Events Lab  <strong>(Deliverable #6)</strong></li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Required Readings before next class</strong></td>
+  <td>
+    <ol>
+    <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapters on "Flexbox" and "JS Objects" in the Module 1 section</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapters on "The DOM" and "DOM Events" in the Module 1 section</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>London textbook: reading: <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Control flow: loops</a</li>    
+    </ol>
+  </td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li><a href="https://www.frontendmentor.io/challenges?types=free">Frontendmentor.io</a> created by some ex-GA teachers has a lot of frontend challenges (filter by free)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>flexbox practice game: Flexbox froggy</li>
+      <li>grid practice game: Grid garden</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Coming soon...</li>
+    </ol>
+  </td>
+</tr>
+</tbody>
+</table>
 
 ### Week 1 (Tues March 1st - Sat March 5th): JS and Programming Basics
-*Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
 <table>
 <thead>
@@ -140,8 +252,10 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
+    <ol>
     <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-3/30</li>
     <li>Look ahead at the DOM stuff. The london textbook has a good section. Do as much JS as you possibly can!</li>
+    </ol>
   </td>
 </tr>
 </tbody>
