@@ -30,8 +30,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>Activity: Break this website</li>
-      <li><a href="w01/d3/intro-to-css.md">CSS Pt. 2</a>: Non-basic selectors, CSS box model</li>
+      <li>Functions pop quiz</li>
+      <li><a href="w01/d3/intro-to-css.md#4-css-selectors-25-mins">CSS Pt. 2</a>: Non-basic selectors, and the <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model">alternative CSS box model</a> (ie., <a href="https://css-tricks.com/international-box-sizing-awareness-day/">border-box</a>)</li>
     </ol>
   </td>
   <td>
@@ -50,8 +50,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-      <li>Git Pt. 2: Forks (the owner doesn't trust you!)</li>
-      <li>Functions pop quiz</li>
+      <li><a href="w01/d2/git-intro-workflow.md#5-trust-issues-when-the-repo-owner-doesnt-trust-you">Git Pt. 2: Forks</a> (the owner doesn't trust you!), Q&A</li>
+      <li>Activity: Break this website</li>
     </ol>
   </td>
   <td>
@@ -70,13 +70,13 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>No required labs</li>
-      <li>CSS selectors Lab (optional) (does not count towards deliverables)</li>
+      <li><a href="w02/d1/css-selectors-lab">CSS selectors Lab</a> (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
     <ol>
       <li>JS objects lab <strong>(Deliverable #5)</strong></li>
-      <li>CSS Flexbox lab (optional)</li>
+      <li>CSS Flexbox lab (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
