@@ -75,7 +75,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>JS objects lab</li>
+      <li>JS objects lab <strong>(Deliverable #5)</strong></li>
       <li>CSS Flexbox lab (optional)</li>
     </ol>
   </td>
