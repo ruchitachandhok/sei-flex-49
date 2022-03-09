@@ -19,11 +19,11 @@ Here are some exercises to give you some basic practice with objects (and more p
   <li><a href="https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_objects1">Basic Objects Practice 1 (W3Schools)</a></li>
 </ul>
 
-## Notes for Exercise 1:
+## Prep for Exercise 1:
 
-Objects are lists of values similar to arrays, except values are identified by keys instead of integers.
+Objects are essentailly a collection of properties: keys (you can think of this much like a variable name) and values (can be a number, a string, or any other legitimate piece of data).
 
-Here is an example:
+Here is an example of an object with two properties:
 
 ```js
 const foodPreferences = {
@@ -32,7 +32,7 @@ const foodPreferences = {
 }
 ```
 
-Observe how we've declared a variable named `pizza` below that holds an object.
+Observe how we've declared a variable named `pizza` below that holds an object with 3 properties.
 
 ```js
 let pizza = {
@@ -45,34 +45,40 @@ let pizza = {
 
 ### Exercise 1:
 
-1. Objects: Declare a variable named after yourself. In this variable, store an object. Give this object at least 3 properties and appropriate values: eg., "name": "alex", mood: happy, age: "getting old", and use `console.log()` to print the entire object to the terminal.
+1. Objects: Declare a variable named after yourself. In this variable, store an object. Give this object at least 3 properties and appropriate values: eg., name: "alex", mood: "happy", age: 75, and use `console.log()` to print the entire object to the terminal.
 
-2. Arrays Review: Now, declare another variable to store an array called `myFavouriteThings`. Give this array at least 3 items, and use `console.log()` to print the entire array to the terminal.
 
-3. Answer this question as a comment: When do we use arrays, and when do we use objects? 
 
-## Notes for Exercise 2: Accessing a Property
+## Prep for Exercise 2: Accessing (getting) a Property
 
-You can access and manipulate object properties –– the keys and values that an object contains –– using a method very similar to arrays.
+You can access and manipulate object properties –– the keys and values that an object contains.
 
-Here's an example using **square brackets**:
+You can use the famous **dot notation** to get a property:
 
 ```js
 const example = {
-  pizza: 'yummy'
+  pizza: 'yummy',
+  anotherProperty: 5,
 }
 
-console.log( example['pizza'] )
+// logging 'yummy' directly
+console.log( example.pizza )
+
+// or alternately using a variable to store the string "yummy" first, then log:
+let pizzaProperty = example.pizza
+console.log(pizzaProperty)
 ```
+
 
 The above code will print the string `'yummy'` to the terminal.
 
-Alternately, you can use **dot notation** to get identical results:
+
+Sometimes, rarely, the key is not a symbol. It could be a string or a number. In those cases, you can access the value using **square brackets**:
 
 ```js
-console.log( example.pizza )
 console.log( example['pizza'] )
 ```
+
 
 The two lines of code above will both return `yummy`.
 
@@ -89,13 +95,10 @@ const product = {
 ```
 
 2. Use `console.log()` to print just the `price` property of the `product` object to the terminal.
-3. Now declare an array called `productNames` that holds at least 3 of your favourite products
-4. Use `console.log()` to print out the first item of the productNames array.
-5. Use `console.log()` to print out the last item of the productNames array. (Hint: instead of doing `productNames[3]` where you have to know the length in advance, try `productNames[productNames.length-1]` so that it will work regardless of the length).
 
-## Notes for Exercise 3: Modifying a property of an object
+## Prep for Exercise 3: Modifying a property of an object
 
-I can change any property in the above product array by doing this:
+I can modify a property in the above product object by doing this:
 ```js
    product.price = 300
 ```
@@ -108,12 +111,15 @@ or this:
 ### Exercise 3
 
 1. Without touching (ie., redeclaring) the above product object from exercise2, use dot notation to change the price property to 0, and console.log just the price property
-2. Similarly, change the name property to become a name of your choosing.
-3. Now, let's practice modifying arrays. Without redeclaring your productNames array from exercise 2, change the first element to be a string of your choosing.
-4. Without redeclaring your productNames array from exercise 3, change the first element to be a string of your choosing.
+2. Similarly, change the `name` property to contain a new string of your choosing.
 
 
-# Optional exercises that won't be marked as we haven't covered loops yet (looping over objects)
+# Submit
+1. <strong>Please do these in a new repl.it</strong> and submit the repl link into your <strong>deliverables</strong> file.
+2. There are some optional exercises you may attempt below if you like, but these will not be marked.
+
+
+# Optional exercises that won't be marked as we haven't covered loops yet: looping over objects
 
 ## Optional Exercise 4: Object Keys
 
