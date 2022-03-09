@@ -30,7 +30,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>Functions pop quiz</li>
+      <li><a href="https://forms.gle/n777qT6ti1FuDiNK8">Functions pop quiz</a></li>
       <li><a href="w01/d3/intro-to-css.md#4-css-selectors-25-mins">CSS Pt. 2</a>: Non-basic selectors, and the <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model">alternative CSS box model</a> (ie., <a href="https://css-tricks.com/international-box-sizing-awareness-day/">border-box</a>)</li>
     </ol>
   </td>
@@ -51,12 +51,12 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w01/d2/git-intro-workflow.md#5-trust-issues-when-the-repo-owner-doesnt-trust-you">Git Pt. 2: Forks</a> (the owner doesn't trust you!), Q&A</li>
-      <li>Activity: Break this website</li>
+      <li>Activity: <a href="https://git.generalassemb.ly/alexanderghose/static_website_code_reading_exercise">Code reading / Git forking exercise</a></li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>CSS Flexbox and Grid</li>
+      <li>CSS Pt. 3: <a href="w02/d2/css-flexbox-grid.md">Flexbox and Grid</a></li>
     </ol>
   </td>
   <td>
@@ -76,7 +76,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>JS objects lab <strong>(Deliverable #5)</strong></li>
-      <li>CSS Flexbox lab (optional) (does not count towards deliverables)</li>
+      <li><a href="w02/d2/css-flexbox-grid-lab">CSS Flexbox and Grid lab</a> (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
@@ -112,8 +112,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>flexbox practice game: Flexbox froggy</li>
-      <li>grid practice game: Grid garden</li>
+      <li>flexbox practice game: <a href="https://flexboxfroggy.com/">Flexbox froggy</a></li>
+      <li>grid practice game: <a href="https://cssgridgarden.com/">Grid garden</a></li>
     </ol>
   </td>
   <td>
