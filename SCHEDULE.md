@@ -37,7 +37,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Activity: <a href="https://git.generalassemb.ly/alexanderghose/static_website_code_reading_exercise">Code reading / Git forking exercise</a></li>
-      <li>JS Objects</li>
+      <li>CSS Pt. 3: <a href="w02/d2/css-flexbox-grid.md">Flexbox and Grid</a></li>
     </ol>
   </td>
   <td>
@@ -56,7 +56,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>CSS Pt. 3: <a href="w02/d2/css-flexbox-grid.md">Flexbox and Grid</a></li>
+      <li><a href="w02/d2/objects.md">JS Objects</a></li>
     </ol>
   </td>
   <td>
@@ -75,7 +75,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>JS objects lab <strong>(Deliverable #5)</strong></li>
+      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
       <li><a href="w02/d2/css-flexbox-grid-lab">CSS Flexbox and Grid lab</a> (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
