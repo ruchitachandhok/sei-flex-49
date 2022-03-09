@@ -36,12 +36,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Activity: Using the chrome debugger</li>
+      <li>Activity: <a href="https://git.generalassemb.ly/alexanderghose/static_website_code_reading_exercise">Code reading / Git forking exercise</a></li>
       <li>JS Objects</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>Activity: Using the chrome debugger</li>
       <li>Intro to the DOM</li>
     </ol>
   </td>
@@ -55,7 +56,6 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Activity: <a href="https://git.generalassemb.ly/alexanderghose/static_website_code_reading_exercise">Code reading / Git forking exercise</a></li>
       <li>CSS Pt. 3: <a href="w02/d2/css-flexbox-grid.md">Flexbox and Grid</a></li>
     </ol>
   </td>
