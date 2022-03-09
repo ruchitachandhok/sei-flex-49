@@ -282,6 +282,8 @@ $ git add -A
 $ git commit -m "Add amazing work..."
 ```
 
+Once you've added, committed, and pushed your work to your fork, you can always verify this via the browser by vistign your profile (top right corner) -> your repositories -> your repo link. And see if your new files are there.
+
 ## Practice: Fork & Clone the Daily Code Challenges Repo
 
 Let's practice forking, cloning and saving work to a repo by setting up and completing today's Daily JS Code Challenge!
