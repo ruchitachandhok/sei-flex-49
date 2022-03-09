@@ -11,8 +11,9 @@
 
 ## Getting started
 
-1. Open the `index.html` file by double clicking
-2. Go to your browser, `cmd-o` (mac) / `ctrl-o` (linux) to open `index.html` in your browser
+1. Navigate to your local copy of the class repo
+2. The assignment instructions are written directly in `index.html`. So, open the `index.html` file in your browser to read the instructions.
+3. 
 
 ## Instructions
 
@@ -30,7 +31,11 @@ First you'll need to link `styles.css` to `index.html`.
 
 ## Submit your assignment
 
-When you're done playing around with this document, submit the link for this folder to the links repo
+Although this not a deliverable, when you're done playing around with this document, if you wish to submit:
+1. push your code to your fork of the classwork repo
+2. Then, navigate using your browser to your fork of the class repo.
+3. Grab the link.
+4. Paste the link into the deliverables repo, you may create an "optional" section and submit it there.
 
 
 ## Stretch: Add web fonts to the page
