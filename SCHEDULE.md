@@ -36,12 +36,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Activity: Using the chrome debugger</li>
+      <li>Activity: <a href="https://git.generalassemb.ly/alexanderghose/static_website_code_reading_exercise">Code reading / Git forking exercise</a></li>
       <li>JS Objects</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>Activity: Using the chrome debugger</li>
       <li>Intro to the DOM</li>
     </ol>
   </td>
@@ -51,7 +52,6 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w01/d2/git-intro-workflow.md#5-trust-issues-when-the-repo-owner-doesnt-trust-you">Git Pt. 2: Forks</a> (the owner doesn't trust you!), Q&A</li>
-      <li>Activity: <a href="https://git.generalassemb.ly/alexanderghose/static_website_code_reading_exercise">Code reading / Git forking exercise</a></li>
     </ol>
   </td>
   <td>
