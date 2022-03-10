@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Lucida Grande";
+    /* --primary-color: red; */
+}
+
+.colin ~ .ruchita { /* select ruchita if ruchita is a sibling that eventually follows colin*/
+    color: orange;
+}
+
+.colin + .ruchita { /* select ruchita if ruchita DIRECTLY follow's colin*/
+    color: blue;
+}
+
+.crazy.super-cool p:hover { /* pseudo-class */
+    color: black;
+    cursor: pointer;
+}
+
+.numbered-class li:first-child {
+    color: yellow;
+}
+
+.numbered-class li { /* descendant selector */
+    border: 1px dotted red;
+    border-radius: 50%;
+}
+
+/* will target "li" that are direct descendant of .num */
+.numbered-class > li {
+    font-size: 20px;
+}
+
+/* .numbered-class {
+    border: 5px dashed green;
+} */
+
+ol > li {
+    color: green;
+}
+
+
+#p1 {
+    background: linear-gradient(red, green); 
+}
+
+.crazy.super-cool { /* select elements with both class*/
+    color: pink;
+}
+
+section[data-name="matt"] {
+    margin-left: 40px;
+}
+a[href="google.com"] {
+    border: 5px solid red;
+}
+
+.crazy {
+
+}
+
+/* select element based on tag AND class */
+span.crazy {
+    color: purple;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    /* color: var(--primary-color) */
+}

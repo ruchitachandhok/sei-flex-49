@@ -11,9 +11,121 @@ Use the recording tracker to help you if you get stuck on labs.
 ## Chalkboard Notes: https://docs.google.com/document/d/11A8AZwLCW4gC_lQqoqbtv5YYpzfinU5XAR5QjY0-eDc/edit
 
 # Unit 1
+*Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
+
+### Week 2 (Tues March 8th - Sat March 12th): CSS, Flexbox, DOM
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>First session</strong></td>
+  <td>
+    <ol>
+      <li><a href="https://forms.gle/n777qT6ti1FuDiNK8">Functions pop quiz</a></li>
+      <li><a href="w01/d3/intro-to-css.md#4-css-selectors-25-mins">CSS Pt. 2</a>: Non-basic selectors, and the <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model">alternative CSS box model</a> (ie., <a href="https://css-tricks.com/international-box-sizing-awareness-day/">border-box</a>)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Activity: <a href="https://git.generalassemb.ly/alexanderghose/static_website_code_reading_exercise">Code reading / Git forking exercise</a></li>
+      <li>CSS Pt. 3: <a href="w02/d2/css-flexbox-grid.md">Flexbox and Grid</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Activity: Using the chrome debugger</li>
+      <li>Intro to the DOM</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+      <li><a href="w01/d2/git-intro-workflow.md#5-trust-issues-when-the-repo-owner-doesnt-trust-you">Git Pt. 2: Forks</a> (the owner doesn't trust you!), Q&A</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w02/d2/objects.md">JS Objects</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>DOM Events</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Labs / Homework</strong></td>
+  <td>
+    <ol>
+      <li>No required labs</li>
+      <li><a href="w02/d1/css-selectors-lab">CSS selectors Lab</a> (optional) (does not count towards deliverables)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
+      <li><a href="w02/d2/css-flexbox-grid-lab">CSS Flexbox and Grid lab</a> (optional) (does not count towards deliverables)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>DOM Events Lab  <strong>(Deliverable #6)</strong></li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Required Readings before next class</strong></td>
+  <td>
+    <ol>
+    <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapters on "Flexbox" and "JS Objects" in the Module 1 section</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapters on "The DOM" and "DOM Events" in the Module 1 section</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>London textbook: reading: <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Control flow: loops</a</li>    
+    </ol>
+  </td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li><a href="https://www.frontendmentor.io/challenges?types=free">Frontendmentor.io</a> created by some ex-GA teachers has a lot of frontend challenges (filter by free)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>flexbox practice game: <a href="https://flexboxfroggy.com/">Flexbox froggy</a></li>
+      <li>grid practice game: <a href="https://cssgridgarden.com/">Grid garden</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Coming soon...</li>
+    </ol>
+  </td>
+</tr>
+</tbody>
+</table>
 
 ### Week 1 (Tues March 1st - Sat March 5th): JS and Programming Basics
-*Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
 <table>
 <thead>
@@ -55,12 +167,9 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>10: Weekly code reading #1: A professionally done website.</li>
-      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions Pt. 1 (no params): Defining/calling, and return</a></li>
-      <li>1130: Exercise: Flowchart + code for ATM machine</li>
-      <li>12pm: Functions Pt. 2 (with parameters): Defining/calling, and return</li>
-      <li>1245: Exercise: Console RPS</li>
-      <li>Lunch 1-2</li>
+      <li>10: <a href="https://forms.gle/1dqZNja97z5JP6pE7">"If" Pop quiz</a></li>
+      <li>1030: <a href="w01/d3/js-functions-and-scope.md">Functions</a></li>
+      <!--<li>ATM machine exercise</li>-->
     </ol>
   </td>
 </tr>
@@ -73,23 +182,16 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>8:30: <a href="w01/d2/js-conditions.md">decisions/conditions</a>:
-        <ul>
-          <li>comparison operators, logical operators</li>
-          <li>if statements + flowcharts</li>
-        </ul>
-      </li>
-      <li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>
+      <li>8:30: <a href="w01/d2/js-conditions.md">decisions/conditions/if statements</a></li>
+      <!--<li>9:30: In-class exercise: flowchart + Console Mortgage Calculator</li>-->
       <li>9:45 <a href="w01/d2/git-intro-workflow.md">Git Pt. 1: Owner Trusts me: Basic Git Workflow</a></li>
       <li>10:15: In-class exercise: Make your file in <a href="https://git.generalassemb.ly/sei-toronto/sei-49-hw">homework repo</a> (eg., "alex.md")</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>2pm: Git Pt. 2: Owner Doesn't Trust me: Git Forking Workflow</li>
-      <li>3pm: Create your own fork</li>
-      <li>4pm: <a href="https://forms.gle/YasgsqJXVFRqhsHb9">Pop quiz</a>: JS, Terminal, Git</li>
-      <li>Optional topic: using the chrome debugger</li>
+      <li>2pm: <a href="w01/d3/intro-to-html.md">Intro to HTML5</a> + exercise</li>
+      <li>3pm: <a href="w01/d3/intro-to-css.md">CSS</a> + exercise</li>
     </ol>
   </td>
 </tr>
@@ -106,8 +208,10 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-    <li>Lab on functions</li>
-    <li>Lab on console game</li>
+    <ol>
+      <li><a href="w01/d3/js-functions-lab.md">Lab: Functions</a> <strong>(Deliverable #3)</strong></li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/8525def6-867c-1859-8070-57abb94d23e4/ed63f8d9e9c6df4b585329240733824e">Console RPS lab</a> <strong>(Deliverable #4)</strong></li>
+    </ol>
   </td>
 </tr>
 <tr>
@@ -120,11 +224,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> JS chapter: Read the short chapter on "functions" in the Module 1 section</li>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a> Read the short chapter on "functions" in the Module 1 section</li>
     </ol>
   </td>
   <td>
-    <li>Coming soon...</li>
+    <ol>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read the short chapter on "Flexbox" and "JS Objects" in the Module 1 section</li>
+    </ol>
   </td>
  </tr>
 <tr>
@@ -146,7 +252,10 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-    <li>Coming soon..</li>
+    <ol>
+    <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-3/30</li>
+    <li>Look ahead at the DOM stuff. The london textbook has a good section. Do as much JS as you possibly can!</li>
+    </ol>
   </td>
 </tr>
 </tbody>
