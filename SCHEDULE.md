@@ -42,7 +42,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Activity: Using the chrome debugger</li>
+      <li><a href="w02/d2/objects.md">JS Objects</a></li>
       <li>Intro to the DOM</li>
     </ol>
   </td>
@@ -56,12 +56,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w02/d2/objects.md">JS Objects</a></li>
+      <li>CSS Grid (cont'd)</li>
     </ol>
   </td>
   <td>
     <ol>
       <li>DOM Events</li>
+      <li>Activity: Using the chrome debugger</li>
     </ol>
   </td>
 </tr>
@@ -75,12 +76,12 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
       <li><a href="w02/d2/css-flexbox-grid-lab">CSS Flexbox and Grid lab</a> (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
       <li>DOM Events Lab  <strong>(Deliverable #6)</strong></li>
     </ol>
   </td>
