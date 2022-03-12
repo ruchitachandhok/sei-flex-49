@@ -11,7 +11,7 @@ This lab does something that is not very typical of real websites but demonstrat
 
 > Note:  Several of the tasks in this lab would be better done upfront in the markup or CSS instead of using JS, however the goal of this lab is to provide practice modifying the DOM using JS. In your projects, if the HTML or CSS is known in advance and/or static (unchanging), code it in HTML and CSS!
 
-### This lab is NOT a deliverable.
+### This lab is a deliverable.
 
 ## Setup
 
@@ -130,7 +130,7 @@ Add a class of `flex-around` to `topMenuEl`.
 
 <img src="https://i.imgur.com/tzYjw8n.png">
 
-#### Task 3.0
+#### Task 3.0 (optional)
 
 Copy the following data structure to the top of **script.js**:
 
@@ -144,7 +144,7 @@ var menuLinks = [
 ];
 ```
 
-#### Task 3.1
+#### Task 3.1 (optional)
 
 Write a loop to iterate over the entire `menuLinks` array and for each "link" object:
 
