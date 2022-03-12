@@ -88,13 +88,17 @@ This lab does something that is not very typical of real websites but demonstrat
 
 #### Task 1.0
 
-Select and cache the `<main>` element in a variable named `mainEl`.
+Select and cache the `<main>` element in a variable named `mainEl`. Console.log this to verify that you have succeeded in caching the object.
+
+**Hint:** (you may use document.querySelector or document.getElementById)
 
 #### Task 1.1
 
 Set the background color of `mainEl` to the value stored in the `--main-bg` CSS custom property.
 
 **Hint:** Assign a string that uses the CSS `var()` function like this:<br>`'var(--main-bg)'`
+
+(If that is too tricky, just set the background color to "#4a4e4d". Modify the style property of your mainEl variable.)
 
 #### Task 1.2
 
@@ -130,7 +134,7 @@ Add a class of `flex-around` to `topMenuEl`.
 
 <img src="https://i.imgur.com/tzYjw8n.png">
 
-#### Task 3.0 (optional)
+#### Task 3.0 (optional - as we haven't covered arrays yet)
 
 Copy the following data structure to the top of **script.js**:
 
@@ -144,7 +148,7 @@ var menuLinks = [
 ];
 ```
 
-#### Task 3.1 (optional)
+#### Task 3.1 (optional - as we haven't covered arrays yet)
 
 Write a loop to iterate over the entire `menuLinks` array and for each "link" object:
 
