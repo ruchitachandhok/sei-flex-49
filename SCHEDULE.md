@@ -42,8 +42,9 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Activity: Using the chrome debugger</li>
-      <li>Intro to the DOM</li>
+      <li><a href="w02/d2/objects.md">JS Objects</a></li>
+      <li>Work on objects lab</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md">Intro to the DOM</a></li>
     </ol>
   </td>
 </tr>
@@ -56,12 +57,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w02/d2/objects.md">JS Objects</a></li>
+      <li>CSS Grid (cont'd)</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>DOM Events</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/dom-events.md">DOM Events Pt. 1</a> & Click-based games!</li>
+      <li>Activity: <a href="https://developer.chrome.com/docs/devtools/javascript/">Using the chrome debugger</a></li>
     </ol>
   </td>
 </tr>
@@ -75,13 +77,16 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
       <li><a href="w02/d2/css-flexbox-grid-lab">CSS Flexbox and Grid lab</a> (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>DOM Events Lab  <strong>(Deliverable #6)</strong></li>
+      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
+      <li><a href="w02/d3/dom-access-lab-1.md">DOM Access Lab</a> (optional)</li>
+      <li><a href="w02/d3/dom-events-lab-1.md">DOM Events Lab</a> <strong>(Deliverable #6)</strong></li>
+      <li><a href="w02/d3/dom-events-stretch-lab.md">Dom Events "Menu" Lab</a> (optional)</li>
+      <!-- <li><a href="w03/d3/tic-tac-toe">Tic Tac Toe (once we've covered loops)</a></li> -->
     </ol>
   </td>
 </tr>
@@ -118,7 +123,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Coming soon...</li>
+      </li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read about SASS, CSS Frameworks, CSS Animation</li>
+      <li><a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a></li>
     </ol>
   </td>
 </tr>
