@@ -43,7 +43,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w02/d2/objects.md">JS Objects</a></li>
-      <li>Intro to the DOM</li>
+      <li>Work on objects lab</li>
+      <li><a href="w02/d3/dom-intro.md">Intro to the DOM</a></li>
     </ol>
   </td>
 </tr>
@@ -61,8 +62,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>DOM Events</li>
-      <li>Activity: Using the chrome debugger</li>
+      <li><a href="w02/d3/dom-events.md">DOM Events</a> & Click-based games!</li>
+      <li>Activity: <a href="https://developer.chrome.com/docs/devtools/javascript/">Using the chrome debugger</a></li>
     </ol>
   </td>
 </tr>
@@ -82,7 +83,9 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
-      <li>DOM Events Lab  <strong>(Deliverable #6)</strong></li>
+      <li>DOM Access Lab (optional)</li>
+      <li>DOM Events Lab <strong>(Deliverable #6)</strong></li>
+      <li>Dom Events "Menu" Lab (optional)</li>
     </ol>
   </td>
 </tr>
@@ -119,7 +122,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Coming soon...</li>
+      </li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read about SASS, CSS Frameworks, CSS Animation</li>
     </ol>
   </td>
 </tr>
