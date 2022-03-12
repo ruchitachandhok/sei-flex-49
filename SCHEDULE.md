@@ -84,7 +84,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
       <li><a href="w02/d3/dom-access-lab-1.md">DOM Access Lab</a> (optional)</li>
-      <li><a href="w02/d3/dom-events-lab-1.md">DOM Events Lab</a> <strong>(Deliverable #6)</strong></li>
+      <li><a href="w02/d3/dom-events-lab-1.md">DOM Events Lab 1</a> <strong>(Deliverable #6)</strong></li>
       <li><a href="w02/d3/dom-events-stretch-lab.md">Dom Events "Menu" Lab</a> (optional)</li>
       <!-- <li><a href="w03/d3/tic-tac-toe">Tic Tac Toe (once we've covered loops)</a></li> -->
     </ol>
