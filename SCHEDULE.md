@@ -44,7 +44,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w02/d2/objects.md">JS Objects</a></li>
       <li>Work on objects lab</li>
-      <li><a href="w02/d3/dom-intro.md">Intro to the DOM</a></li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md">Intro to the DOM</a></li>
     </ol>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w02/d3/dom-events.md">DOM Events</a> & Click-based games!</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/dom-events.md">DOM Events Pt. 1</a> & Click-based games!</li>
       <li>Activity: <a href="https://developer.chrome.com/docs/devtools/javascript/">Using the chrome debugger</a></li>
     </ol>
   </td>
