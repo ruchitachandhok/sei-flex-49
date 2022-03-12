@@ -83,9 +83,10 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
-      <li>DOM Access Lab (optional)</li>
-      <li>DOM Events Lab <strong>(Deliverable #6)</strong></li>
-      <li>Dom Events "Menu" Lab (optional)</li>
+      <li><a href="w02/d3/dom-access-lab-1.md">DOM Access Lab</a> (optional)</li>
+      <li><a href="w02/d3/dom-events-lab-1.md">DOM Events Lab</a> <strong>(Deliverable #6)</strong></li>
+      <li><a href="w02/d3/dom-events-stretch-lab.md">Dom Events "Menu" Lab</a> (optional)</li>
+      <!-- <li><a href="w03/d3/tic-tac-toe">Tic Tac Toe (once we've covered loops)</a></li> -->
     </ol>
   </td>
 </tr>
@@ -123,6 +124,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       </li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read about SASS, CSS Frameworks, CSS Animation</li>
+      <li><a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a></li>
     </ol>
   </td>
 </tr>
