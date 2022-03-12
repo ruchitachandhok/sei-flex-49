@@ -11,7 +11,7 @@ This lab does something that is not very typical of real websites but demonstrat
 
 > Note:  Several of the tasks in this lab would be better done upfront in the markup or CSS instead of using JS, however the goal of this lab is to provide practice modifying the DOM using JS. In your projects, if the HTML or CSS is known in advance and/or static (unchanging), code it in HTML and CSS!
 
-### This lab is a deliverable.
+### This lab is NOT a deliverable.
 
 ## Setup
 
