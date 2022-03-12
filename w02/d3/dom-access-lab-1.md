@@ -94,11 +94,9 @@ Select and cache the `<main>` element in a variable named `mainEl`. Console.log 
 
 #### Task 1.1
 
-Set the background color of `mainEl` to the value stored in the `--main-bg` CSS custom property.
+Set the background color of `mainEl` to "#4a4e4d". 
 
-**Hint:** Assign a string that uses the CSS `var()` function like this:<br>`'var(--main-bg)'`
-
-(If that is too tricky, just set the background color to "#4a4e4d". Modify the style property of your mainEl variable.)
+(Hint: modify the style property of your mainEl variable.)
 
 #### Task 1.2
 
