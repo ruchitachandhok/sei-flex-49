@@ -11,7 +11,7 @@ This lab does something that is not very typical of real websites but demonstrat
 
 > Note:  Several of the tasks in this lab would be better done upfront in the markup or CSS instead of using JS, however the goal of this lab is to provide practice modifying the DOM using JS. In your projects, if the HTML or CSS is known in advance and/or static (unchanging), code it in HTML and CSS!
 
-### This lab is NOT a deliverable.
+### This lab is a deliverable.
 
 ## Setup
 
@@ -88,13 +88,15 @@ This lab does something that is not very typical of real websites but demonstrat
 
 #### Task 1.0
 
-Select and cache the `<main>` element in a variable named `mainEl`.
+Select and cache the `<main>` element in a variable named `mainEl`. Console.log this to verify that you have succeeded in caching the object.
+
+**Hint:** (you may use document.querySelector or document.getElementById)
 
 #### Task 1.1
 
-Set the background color of `mainEl` to the value stored in the `--main-bg` CSS custom property.
+Set the background color of `mainEl` to "#4a4e4d". 
 
-**Hint:** Assign a string that uses the CSS `var()` function like this:<br>`'var(--main-bg)'`
+(Hint: modify the style property of your mainEl variable.)
 
 #### Task 1.2
 
@@ -130,7 +132,7 @@ Add a class of `flex-around` to `topMenuEl`.
 
 <img src="https://i.imgur.com/tzYjw8n.png">
 
-#### Task 3.0
+#### Task 3.0 (optional - as we haven't covered arrays yet)
 
 Copy the following data structure to the top of **script.js**:
 
@@ -144,7 +146,7 @@ var menuLinks = [
 ];
 ```
 
-#### Task 3.1
+#### Task 3.1 (optional - as we haven't covered arrays yet)
 
 Write a loop to iterate over the entire `menuLinks` array and for each "link" object:
 

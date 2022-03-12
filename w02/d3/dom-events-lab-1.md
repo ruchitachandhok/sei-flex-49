@@ -11,7 +11,8 @@ In the _DOM Events_ lesson we saw how to run a function, i.e., an event listener
 
 ## Submission
 
-This lab consists of 3 tasks. Each task should have a separate link in your deliverables file as there will be 2 repl.it links (for tasks1 and 2), and 1 github link (for task 3).
+This lab consists of 3 tasks. Each task should have a separate link in your deliverables file, pointing to your fork:
+![image](https://media.git.generalassemb.ly/user/29550/files/3f6a6800-a1ea-11ec-9d47-b09a382c5c89)
 
 <br>
 
@@ -23,20 +24,40 @@ In this lab, you will be building two mini-projects using DOM events (and also a
 
 <br>
 
+# Setup for each task below
+
+For each of the 3 tasks below, do NOT use repl.it. Instead:
+
+0. `cd` to your local copy of the fork of the course repo to some appopriate location - eg., documents/sei-flex-49/w02/d3
+1. create a new folder within, eg., a task1/ folder
+2. open up your newly created folder in VSCode within your local copy of the course repository.
+3. create a file called index.html and put in some boilerplate html code- a head, body, etc. 
+4. Make a js file called script.js
+5. Link your javascript file to the HTML by putting the following line just above the closing `</body>` tag in your html:
+```html
+<script defer src="script.js">
+```
+6. Test that your javascript file is correctly linked by putting an ```alert("test!")``` as the first line of the js.
+7. Open the HTML file with your browser. If you see the alert, the html and js files are linked. If you don't see the alert, double check that you linked the files correctly.
+8. When you're done all your work, push this to your local fork of the course repository (ie., add, commit, and push to origin not upstream). When you finish the steps below, you will grab this link for your deliverables file.
+
+
 # Task 1 (Click Counter)
 
 ## Objective:
 
-The goal is to make a click counter that goes up when you click the button. It should look something like this.
+The task is to: 
+1. make a click counter that goes up when you click the button. It should look something like the image below.
+2. prior to writing your code, kindly create a flowchart using any tool you prefer, to plan out the code. This is a required part of your submission. Put the flowchart into a google doc and post the link in your deliverables file alongside the link to the code.
 
 <img src="preview_click_counter.PNG" /> 
 
-Feel free to use CSS styling to make it look prettier!
+Optionally, feel free to use CSS styling to make it look prettier!
 
 If you do need any hints, feel free to consult the hints below:
 
 ## Step 1. Setup the UI: 
-1. For this lab, create a new repl.it and call it "Dom Events Task 1"
+1. Follow the "setup" instructions above to setup a index.html and a script.js in your local copy of your fork of sei.
 2. Replace the body of the html file with:
 ```html
   <body>
@@ -91,10 +112,12 @@ Use Javascript to dynamically affect your web page.
 
 ### Step 1. Setup
 
-1. For this task, create a new repl.it and call it "Dom Events Task 2: Free play".
+1. For this task, create a folder called dom_events_lab_free_play/ in your fork of the class repo
+2. Follow the "setup" instructions above to setup a index.html and a script.js in your local copy of your fork of sei.
 
 ### Step 2. Task
 
+0. create a flowchart representing what you want your code to do and post this to a google doc - and upload this to your deliverables as well
 1. <strong>HTML:</strong>Add some elements to the HTML page. Anything you like: some images, buttons, inputs, whatever it is that makes you happy!
 2. <strong>JS/DOM:</strong>Using your knowledge of the DOM, write some javascript code such that <strong>clicking on something</strong> on this page (eg., one of your buttons) causes <strong>something else</strong> on this page to change. For example:
 - you may add an event listener to your image so that clicking on it changes the "src" attribute and changes to another image,
@@ -109,6 +132,7 @@ Use Javascript to dynamically affect your web page.
 ## Objective:
 
 The goal is to make a morse code translator on your local computer using VSCode - it should look something like this: <img src="preview_morse_code.PNG" />
+As always, I will ask you to also create a flowchart representing what you want your code to do and post this to a google doc - and upload this to your deliverables as well
 
 If you do need any hints, feel free to consult the hints below:
 
@@ -131,7 +155,7 @@ If you do need any hints, feel free to consult the hints below:
 ```
 5. Test that your javascript file is correctly linked by putting an ```alert("test!")``` as the first line of the js.
 6. Open the HTML file with your browser. If you see the alert, the html and js files are linked. If you don't see the alert, double check that you linked the files correctly.
-7. Push this to your local fork of the course repository (ie., add, commit, and push to origin not upstream). When you finish the steps below, you will grab this link for your deliverables file.
+7. When you're done, push this to your local fork of the course repository (ie., add, commit, and push to origin not upstream). When you finish the steps below, you will grab this link for your deliverables file.
   
 ## Step 2: Organize the JS
 1. In your js file, organize your code by adding the following comments:
