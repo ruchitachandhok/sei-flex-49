@@ -102,13 +102,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Read our guide to building a browser game</li>
+      <li>Read our <a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a> in prep for TTT</li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Read our guide to building a browser game</li>
+      <li>Read our <a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a> in prep for P1</li>
     </ol>
   </td>
  </tr>
