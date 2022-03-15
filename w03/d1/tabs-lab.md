@@ -1,5 +1,8 @@
 Practice your DOM skills a bit more!
 
+## this lab is not a deliverable 
+
+
 # Task 1: Tabs
 
 
