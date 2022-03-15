@@ -38,7 +38,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Loops</a>Pt. 1: While loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Loops</a> Pt. 1: While loops</li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/arrays.md">Arrays</a>: Pt. 1</li>
     </ol>
   </td>
