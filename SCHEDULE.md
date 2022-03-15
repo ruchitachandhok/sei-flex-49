@@ -54,8 +54,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
-      <li>Lab time</li>
-      <li>Mortgage calculator optional DOM activity</li>
+      <li>Exercise: Mortgage calculator</li>
     </ol>
   </td>
   <td>
