@@ -13,6 +13,127 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
+### Week 3: Simple DOM Apps, responsive design, loops and arrays
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>First session</strong></td>
+  <td>
+    <ol>
+      <li>Finish DOM: Event Delegation: Evt.target</li>
+      <li>Exercise: Hamburger menu</li>
+      <li>Responsive Design</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Arrays and While Loops: Pt. 1</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Arrow functions and 'this'</li>
+      <li>Loops and Arrays Pt. 2: Counting, finding</li>
+      <li>Exercise: le bonhomme pendu</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+      <li>Audio</li>
+      <li>Lab time</li>
+      <li>Mortgage calculator optional DOM activity</li>
+      <li>ATM activity optional DOM activity</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Arrays, Loops, and the DOM (selecting many dom elements, etc.)</li>
+      <li>RPS</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Loops: accumulating(summing), transforming</li>
+      <li>Exercise: marbles</li>
+      <li>More arrays, loops, and DOM games</li>
+      <li>Array iterator methods (if we can)</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Labs / Homework</strong></td>
+  <td>
+    <ol>
+      <li>Media queries lab (optional)</li>
+      <li>Tabs/card flip lab (optional)</li>
+      <li>IKEA stretch lab (stretch section)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Breadcrumbs lab (optional)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>TTT</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Required Readings before next class</strong></td>
+  <td>
+    <ol>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: control flow: loops, arrays</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Read our guide to building a browser game</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Read our guide to building a browser game</li>
+    </ol>
+  </td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li>Try SEI code challenge #4-10/30</li>
+      <li>London textbook: responsive CSS, html5 Audio</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI code challenge #4-10/30</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI code challenge #4-10/30</li>
+    </ol>
+  </td>
+</tr>
+</tbody>
+</table>
+
 ### Week 2 (Tues March 8th - Sat March 12th): CSS, Flexbox, DOM
 
 <table>
