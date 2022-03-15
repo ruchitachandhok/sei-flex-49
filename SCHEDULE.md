@@ -38,7 +38,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrays and While Loops: Pt. 1</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Loops</a> Pt. 1: While loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/arrays.md">Arrays</a>: Pt. 1</li>
     </ol>
   </td>
   <td>
@@ -54,13 +55,12 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
-      <li>Lab time</li>
-      <li>Mortgage calculator optional DOM activity</li>
+      <li>Exercise: Mortgage calculator</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Arrays, Loops, and the DOM (selecting many dom elements, etc.)</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
       <li>RPS</li>
     </ol>
   </td>
@@ -69,7 +69,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>Loops: accumulating(summing), transforming</li>
       <li>Exercise: marbles</li>
       <li>More arrays, loops, and DOM games</li>
-      <li>Array iterator methods (if we can)</li>
+      <li>Array iterator methods (time-permitting)</li>
     </ol>
   </td>
 </tr>
@@ -77,13 +77,14 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
-      <li>Media queries lab (optional)</li>
+      <li><a href="w03/d1/media-queries-lab.md">Media queries lab</a> (optional)</li>
       <li>Tabs/card flip lab (optional)</li>
       <li>IKEA stretch lab (stretch section)</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>Arrays and loops lab 1 <strong>(Deliverable #8)</strong></li>
       <li>Breadcrumbs lab (optional)</li>
     </ol>
   </td>
@@ -102,13 +103,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Read our guide to building a browser game</li>
+      <li>Read our <a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a> in prep for TTT</li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Read our guide to building a browser game</li>
+      <li>Read our <a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a> in prep for P1</li>
     </ol>
   </td>
  </tr>
@@ -116,19 +117,19 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Optional Practice / Readings</strong></td>
   <td>
     <ol>
-      <li>Try SEI code challenge #4-10/30</li>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
       <li>London textbook: responsive CSS, html5 Audio</li>
       <li><a href="https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/">Bit more advanced DOM readings from smashing magazine</a></li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Try SEI code challenge #4-10/30</li>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Try SEI code challenge #4-10/30</li>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
     </ol>
   </td>
 </tr>
