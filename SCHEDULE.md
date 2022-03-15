@@ -67,7 +67,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Loops: accumulating(summing), transforming</li>
-      <li>Exercise: </li>
+      <li>Exercise: marbles</li>
       <li>More arrays, loops, and DOM games</li>
       <li>Array iterator methods (if we can)</li>
     </ol>
