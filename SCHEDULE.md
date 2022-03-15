@@ -90,7 +90,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>TTT</li>
+      <li>TTT Lab</li>
     </ol>
   </td>
 </tr>
