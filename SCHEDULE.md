@@ -103,7 +103,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Read our <a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a> in prep for TTT</li>
+      <li><strong>Make sure you can use a while loop</strong> to: sum an array, find if an element exists in it, count all instances of something in the array, etc. This is an absolutely fundamental and crucial coding skill</li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
     </ol>
   </td>
@@ -125,11 +125,13 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Practice "Easy" and "Medium" questions on Edabit --- particularly with loops and arrays</li>
     </ol>
   </td>
   <td>
     <ol>
       <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Another, deeper explanation of '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
     </ol>
   </td>
 </tr>
