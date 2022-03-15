@@ -32,9 +32,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Code reading activity: <a href="https://www.evernote.com/shard/s411/sh/22d8cd5d-dc27-c368-427b-711bb7262ed3/6cf5e6bd6b69d9078e626c37d1725015">Connect 4 DOM game</a></li>
       <li>Finish DOM: <a href="w03/d1/dom-events.md#event-delegation">Event Delegation</a>: Evt.target</li>
-      <!--<li>Exercise: ATM machine</li>-->
-      <li><a href="w03/d1/media-queries-responsive-design.md">Responsive Design</a></li>
-      <li>Exercise: Responsive Hamburger menu</li>
+      <li>Exercise: Plan + code up <a href="w03/d2/rock-paper-scissors">RPS</a></li>
     </ol>
   </td>
   <td>
@@ -55,6 +53,9 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
+      <!--<li>Exercise: ATM machine</li>-->
+      <li><a href="w03/d1/media-queries-responsive-design.md">Responsive Design</a></li>
+      <li>Exercise: Responsive Hamburger menu</li>
       <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
       <!--<li>Exercise: Mortgage calculator</li>-->
     </ol>
@@ -62,7 +63,6 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
-      <li>Exercise: <a href="w03/d2/rock-paper-scissors">RPS</a></li>
     </ol>
   </td>
   <td>
