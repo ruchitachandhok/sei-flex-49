@@ -108,7 +108,7 @@ Use the recording tracker to help you if you get stuck on labs.
           <li>sum an array,</li>
           <li>find if an element exists in it, </li>
           <li>count all instances of something in the array,</li> 
-          <li>etc. This is an absolutely fundamental and crucial coding skill</li>
+          <li>count all the odd numbers, etc. These are fundamental and crucial coding skills.</li>
         </ol>
       </li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
