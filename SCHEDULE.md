@@ -44,7 +44,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrow functions and 'this'</li>
+      <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
       <li>Loops and Arrays Pt. 2: Counting, finding</li>
       <li>Exercise: le bonhomme pendu</li>
     </ol>
