@@ -84,6 +84,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Arrays and loops lab</li>
       <li>Breadcrumbs lab (optional)</li>
     </ol>
   </td>
