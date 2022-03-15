@@ -30,18 +30,20 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
+      <li>Finish DOM: Event Delegation: Evt.target</li>
       <li>Exercise: Hamburger menu</li>
       <li>Responsive Design</li>
     </ol>
   </td>
   <td>
     <ol>
-
+      <li>Arrays and Iteration (while loop)</li>
     </ol>
   </td>
   <td>
     <ol>
-
+      <li>Loops: Counting, summing, finding, transforming, 2D</li>
+      <li>Array iterator methods</li>
     </ol>
   </td>
 </tr>
@@ -51,20 +53,19 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Audio</li>
       <li>Lab time</li>
-      <!--
       <li>Mortgage calculator optional DOM activity</li>
       <li>ATM activity optional DOM activity</li>
-      -->
     </ol>
   </td>
   <td>
     <ol>
-
+      <li>Arrays, Loops, and the DOM (selecting many dom elements, etc.)</li>
+      <li>RPS</li>
     </ol>
   </td>
   <td>
     <ol>
-
+      <li>More arrays, loops, and DOM games</li>
     </ol>
   </td>
 </tr>
@@ -78,12 +79,12 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-
+      <li>TTT</li>
     </ol>
   </td>
   <td>
     <ol>
-
+      
     </ol>
   </td>
 </tr>
@@ -101,7 +102,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-
+      <li>Read our guide to building a browser game</li>
     </ol>
   </td>
  </tr>
