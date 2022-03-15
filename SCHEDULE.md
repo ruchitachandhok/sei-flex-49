@@ -30,7 +30,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>Finish DOM: Event Delegation: Evt.target</li>
+      <li>Finish DOM: <a href="w03/d1/dom-events.md#event-delegation">Event Delegation</a>: Evt.target</li>
       <li>Exercise: Hamburger menu</li>
       <li>Responsive Design</li>
     </ol>
