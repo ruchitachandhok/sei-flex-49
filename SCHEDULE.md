@@ -13,7 +13,7 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
-### Week 3: Simple DOM Apps, Responsive design, loops and arrays
+### Week 3: Simple DOM Apps, responsive design, loops and arrays
 
 <table>
 <thead>
