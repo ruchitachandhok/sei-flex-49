@@ -98,7 +98,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-
+      <li>Read our guide to building a browser game</li>
     </ol>
   </td>
   <td>
