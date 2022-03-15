@@ -30,7 +30,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-
+      <li>Exercise: Hamburger menu</li>
+      <li>Responsive Design</li>
     </ol>
   </td>
   <td>
@@ -48,7 +49,12 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-
+      <li>Audio</li>
+      <li>Lab time</li>
+      <!--
+      <li>Mortgage calculator optional DOM activity</li>
+      <li>ATM activity optional DOM activity</li>
+      -->
     </ol>
   </td>
   <td>
@@ -66,7 +72,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
-
+      <li>Media queries lab (optional)</li>
+      <li>IKEA stretch lab (stretch section)</li>
     </ol>
   </td>
   <td>
