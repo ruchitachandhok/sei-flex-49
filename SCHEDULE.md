@@ -30,9 +30,10 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>Finish DOM: Event Delegation: Evt.target</li>
+      <li>Finish DOM: <a href="w03/d1/dom-events.md#event-delegation">Event Delegation</a>: Evt.target</li>
+      <li>Exercise: ATM machine</li>
+      <li><a href="w03/d1/media-queries-responsive-design.md">Responsive Design</a></li>
       <li>Exercise: Hamburger menu</li>
-      <li>Responsive Design</li>
     </ol>
   </td>
   <td>
@@ -52,10 +53,9 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
-      <li>Audio</li>
+      <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
       <li>Lab time</li>
       <li>Mortgage calculator optional DOM activity</li>
-      <li>ATM activity optional DOM activity</li>
     </ol>
   </td>
   <td>
@@ -97,7 +97,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: control flow: loops, arrays</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the "control flow" page about loops, and read the page about "arrays"</li>
     </ol>
   </td>
   <td>
@@ -118,6 +118,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Try SEI code challenge #4-10/30</li>
       <li>London textbook: responsive CSS, html5 Audio</li>
+      <li><a href="https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/">Bit more advanced DOM readings from smashing magazine</a></li>
     </ol>
   </td>
   <td>
