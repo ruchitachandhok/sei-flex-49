@@ -97,7 +97,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
-
+      <li>London textbook arrays and loops</li>
     </ol>
   </td>
   <td>
