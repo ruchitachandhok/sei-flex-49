@@ -52,6 +52,7 @@ As always...
 3. `git push -u origin master` (the first push), then just `git push` from then on thanks to the `-u` option.
  
 ## Minimum Requirements
+- A flowchart detailing all of the steps that the computer will do in global space, and in individual functions. Use appropriate shapes such as parallelograms for input/output and diamonds for conditions and appopriate arrows to show direction of control flow, loops, etc. (for slightly more experienced developers, pseudocode is an acceptable alternative as well)
 - Display an empty tic-tac-toe board when the page is initially displayed.
 - A player can click on the nine cells to make a move.
 - Every click will alternate between marking an `X` and `O`.
