@@ -1,4 +1,4 @@
-```js
+
 /*----- app's state (variables) -----*/
 let playerTurn, winner;
 score2 = 0;
@@ -262,5 +262,3 @@ render();
 //   DOMboard.appendChild(row);
 // });
 // function init() {}
-
-```
