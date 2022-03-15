@@ -56,7 +56,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
-      <li>Exercise: Mortgage calculator</li>
+      <!--<li>Exercise: Mortgage calculator</li>-->
     </ol>
   </td>
   <td>
