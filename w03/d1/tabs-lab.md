@@ -1,6 +1,6 @@
 Practice your DOM skills a bit more!
 
-# Task:
+# Task 1: Tabs
 
 
 1. Make it so that clicking on Tab 1 shows 3 cards.
@@ -10,7 +10,9 @@ Practice your DOM skills a bit more!
 
 # Task 2: Card Flip
 
+1. Make it so that clicking on the `>` makes the card flip and clicking on the X makes it flip back 
 
+Hints:
 1. Give every card a div denoting the front and a div denoting the back. 
 2. Make it such that if you apply a class of "show" to the div, it will (in theory) make the "back" of the card show up:
 
