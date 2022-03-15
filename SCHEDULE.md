@@ -80,7 +80,6 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w03/d1/media-queries-lab.md">Media queries lab</a> (optional)</li>
       <li><a href="w03/d1/tabs-lab.md">Tabs/card flip</a> lab (optional)</li>
-      <li>IKEA stretch lab (stretch section)</li>
     </ol>
   </td>
   <td>
