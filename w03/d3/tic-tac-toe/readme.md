@@ -52,6 +52,7 @@ As always...
 3. `git push -u origin master` (the first push), then just `git push` from then on thanks to the `-u` option.
  
 ## Minimum Requirements
+- A flowchart detailing all of the steps that the computer will do in global space, and in individual functions. Use appropriate shapes such as parallelograms for input/output and diamonds for conditions and appopriate arrows to show direction of control flow, loops, etc. (for slightly more experienced developers, pseudocode is an acceptable alternative as well)
 - Display an empty tic-tac-toe board when the page is initially displayed.
 - A player can click on the nine cells to make a move.
 - Every click will alternate between marking an `X` and `O`.
@@ -77,11 +78,17 @@ As always...
 - Wire up your click event listener(s). Using a single listener with event bubbling is recommended but not required.
 - Lots of little functions!
 
-### Pseudocode
+## Flowchart or Pseudocode Required
 
-Pseudocode is a detailed description of what an application must do, written in natural language instead of a particular programming language.
+You guys know by now that I am a big fan of <strong>flowcharting</strong>. For this task, you are required to create a flowchart and upload it to a google doc and link that as well as part of your submission.
 
-Well-written pseudocode should be easily translated into actual code.
+Basic flowchart symbols and explanations can be found <a href="https://technovationchallenge.org/curriculum/coding-15-flowcharts/#learn">here</a>.
+
+### Explanation of Pseudocode
+
+For those of us who have a little bit more experience, I will also permit <strong>pseudocode</strong>, which is a detailed description of what an application must do, where you write out the steps the computer will do but written in natural language instead of a particular programming language.-- so the steps will be like "store the user input in a variable" and "then call the calculateScore function" instead of `let userInput = prompt("Guess a number")` or `calculateScore()`
+
+Well-written pseudocode should be easily translateable into actual code.
 
 The best way to get started is to start with the "big picture" of what the app needs to do:
 
