@@ -38,7 +38,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrays and While Loops: Pt. 1</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Loops</a>Pt. 1: While loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/arrays.md">Arrays</a>: Pt. 1</li>
     </ol>
   </td>
   <td>
@@ -59,7 +60,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrays, Loops, and the DOM (selecting many dom elements, etc.)</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
       <li>RPS</li>
     </ol>
   </td>
