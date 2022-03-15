@@ -98,7 +98,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the "control flow" page about loops, and read the page about "arrays"</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the "control flow" page about loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the page about "arrays"</li>
     </ol>
   </td>
   <td>
