@@ -106,7 +106,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><strong>Make sure you can use a while loop</strong> to do things like: 
         <ol>
           <li>sum an array,</li>
-          <li>find if an element exists in it, <li>
+          <li>find if an element exists in it, </li>
           <li>count all instances of something in the array,</li> 
           <li>etc. This is an absolutely fundamental and crucial coding skill</li>
         </ol>
