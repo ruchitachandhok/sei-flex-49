@@ -37,13 +37,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrays and Iteration (while loop)</li>
+      <li>Arrays and While Loops: Pt. 1</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Loops: Counting, summing, finding, transforming, 2D</li>
-      <li>Array iterator methods</li>
+      <li>Arrow functions and 'this'</li>
+      <li>Loops and Arrays Pt. 2: Counting, summing, finding, transforming, 2D</li>
     </ol>
   </td>
 </tr>
@@ -66,6 +66,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>More arrays, loops, and DOM games</li>
+      <li>Array iterator methods (if we can)</li>
     </ol>
   </td>
 </tr>
