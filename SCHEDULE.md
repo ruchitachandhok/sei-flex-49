@@ -55,7 +55,6 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <!--<li>Exercise: ATM machine</li>-->
       <li><a href="w03/d1/media-queries-responsive-design.md">Responsive Design</a></li>
-      <li>Exercise: Responsive Hamburger menu</li>
       <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
       <!--<li>Exercise: Mortgage calculator</li>-->
     </ol>
@@ -79,6 +78,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w03/d1/media-queries-lab.md">Media queries lab</a> (optional)</li>
+      <li><a href="w03/d1/hamburger-task.md">Hamburger/popup lab</a> (optional)</li>
       <li><a href="w03/d1/tabs-lab.md">Tabs/card flip</a> lab (optional)</li>
     </ol>
   </td>
