@@ -84,13 +84,12 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>TTT</li>
       <li>Breadcrumbs lab (optional)</li>
     </ol>
   </td>
   <td>
     <ol>
-      
+      <li>TTT</li>
     </ol>
   </td>
 </tr>
