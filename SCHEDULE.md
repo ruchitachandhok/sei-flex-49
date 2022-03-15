@@ -61,7 +61,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
-      <li>RPS</li>
+      <li>Exercise: <a href="w03/d2/rock-paper-scissors">RPS</a></li>
     </ol>
   </td>
   <td>
