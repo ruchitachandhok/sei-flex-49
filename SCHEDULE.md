@@ -97,12 +97,13 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
-      <li>London textbook arrays and loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: control flow: loops, arrays</li>
     </ol>
   </td>
   <td>
     <ol>
       <li>Read our guide to building a browser game</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
     </ol>
   </td>
   <td>
@@ -116,6 +117,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Try SEI code challenge #4-10/30</li>
+      <li>London textbook: responsive CSS, html5 Audio</li>
     </ol>
   </td>
   <td>
