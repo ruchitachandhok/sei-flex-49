@@ -84,7 +84,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrays and loops lab 1<strong>(Deliverable #8)</strong></li>
+      <li>Arrays and loops lab 1 <strong>(Deliverable #8)</strong></li>
       <li>Breadcrumbs lab (optional)</li>
     </ol>
   </td>
