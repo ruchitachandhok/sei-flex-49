@@ -118,6 +118,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Try SEI code challenge #4-10/30</li>
       <li>London textbook: responsive CSS, html5 Audio</li>
+      <li><a href="https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/">Bit more advanced DOM readings from smashing magazine</a></li>
     </ol>
   </td>
   <td>
