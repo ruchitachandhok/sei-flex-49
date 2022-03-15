@@ -43,7 +43,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Arrow functions and 'this'</li>
-      <li>Loops and Arrays Pt. 2: Counting, summing, finding, transforming, 2D</li>
+      <li>Loops and Arrays Pt. 2: Counting, finding</li>
+      <li>Exercise: le bonhomme pendu</li>
     </ol>
   </td>
 </tr>
@@ -65,6 +66,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Loops: accumulating(summing), transforming</li>
+      <li>Exercise: </li>
       <li>More arrays, loops, and DOM games</li>
       <li>Array iterator methods (if we can)</li>
     </ol>
