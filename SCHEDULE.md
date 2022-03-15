@@ -44,7 +44,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrow functions and 'this'</li>
+      <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
       <li>Loops and Arrays Pt. 2: Counting, finding</li>
       <li>Exercise: le bonhomme pendu</li>
     </ol>
@@ -90,7 +90,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>TTT</li>
+      <li>TTT Lab</li>
     </ol>
   </td>
 </tr>
@@ -103,7 +103,14 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Read our <a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a> in prep for TTT</li>
+      <li><strong>Make sure you can use a while loop</strong> to do things like: 
+        <ol>
+          <li>sum an array,</li>
+          <li>find if an element exists in it, </li>
+          <li>count all instances of something in the array,</li> 
+          <li>count all the odd numbers, etc. These are fundamental and crucial coding skills.</li>
+        </ol>
+      </li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
     </ol>
   </td>
@@ -125,11 +132,13 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Practice "Easy" and "Medium" questions on Edabit --- particularly with loops and arrays</li>
     </ol>
   </td>
   <td>
     <ol>
       <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Another, deeper explanation of '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
     </ol>
   </td>
 </tr>
