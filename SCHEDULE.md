@@ -78,6 +78,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Media queries lab (optional)</li>
+      <li>Tabs/card flip lab (optional)</li>
       <li>IKEA stretch lab (stretch section)</li>
     </ol>
   </td>
