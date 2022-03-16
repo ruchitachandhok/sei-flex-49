@@ -22,9 +22,11 @@ You don't need to complete all of these, but <strong>you must complete at least 
 
 ## Part 1: Basic array operations, Basic while loops, and Finding things within an array
 
-Copy the exercises below into the **script.js** file and code away!
-Tip: console.log after every variable declaration to see what's going on.
-Tip 2: For loop code, log every step of the loop
+For Part 1, copy the exercises below into the **script.js** file and code away!
+
+**Beginner Tip**: console.log after every variable declaration to see what is going on in the computer's brain, ideally with a useful message prior to the log, so you can distinguish one console.log from another.
+
+**Beginner Tip 2**: When debugging loop code, log every step of the loop or run it through a debugger https://developer.chrome.com/docs/devtools/javascript/
 
 ```js
 
@@ -125,10 +127,9 @@ In the same vein as above, complete the following exercises, which involve more 
 1. Using the same prices array as above, use another `for of` loop to calculate the product of all the numbers in the array. (Hint: declare a product variable before the loop)
 2. Print out the product to the console.
 
-**Loops Exercise 2.5: try something fun!**
+**Loops Exercise 2.5: try something fun! (optional) **
 1. Declare an array of some kind - eg., an array of animals? an array of fruits? an array of arrays?
 2. Think about some kind of operation you'd like to do on the array, and try to implement it using any of the loop structures we've learned.
-
 
 **Exercise 2.6 (optional) (challenging) **
 1. Redo exercises 2.3 and 2.4 using the `reduce` array iterator method. We'll be studying this in more detail next week.
