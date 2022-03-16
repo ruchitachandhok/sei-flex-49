@@ -85,13 +85,14 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Arrays and loops lab 1 <strong>(Deliverable #8)</strong></li>
-      <li>Breadcrumbs lab (optional)</li>
+      <li><a href="w03/d2/loops-lab-1.md">Arrays and loops lab 1</a> <strong>(Deliverable #8)</strong></li>
+      <li><a href="w03/d2/loops-stretch.md">Loops stretch lab</a> (optional)</li>
     </ol>
   </td>
   <td>
     <ol>
       <li><a href="w03/d3/tic-tac-toe">TTT Lab</a> <strong>(Deliverable #9)</strong></li>
+      <li>Breadcrumbs lab (optional)</li>
     </ol>
   </td>
 </tr>
