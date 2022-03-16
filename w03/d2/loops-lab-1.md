@@ -20,7 +20,7 @@ This lab is **a DELIVERABLE**.
 
 You don't need to complete all of these, but <strong>you must complete at least 10 of these exercises.</strong> I would strongly encourage you to attempt as many as possible though.
 
-## Part 0: Two exercises on Basic array operations
+# Part 0: Basic array operations
 
 For Part 0 and Part 1, copy the exercises below into the **script.js** file and code away!
 
@@ -44,7 +44,7 @@ let myArray = [1, 3, 2, 5, 24, 6, 2]
 */
 ```
 
-## Part 1: Five Exercises on Basic while loops, and Finding things within an array
+# Part 1: Basic while loops, and Finding things within an array
 
 **Beginner Loops Tip 1**: It can be helpful to use a pen and paper to draw a diagram depicting the loop condition prior to coding, like this diagram depicting how to write a loop that keeps printing the numbers from 0 to 5:
 
@@ -107,7 +107,7 @@ Loops Exercise 4: do we have soup?
   
 ```
 
-# Loops Lab Pt. 2: Five exercises on Counting things, and Summing things
+# Part. 2: Five exercises on Counting things, and Summing things
 
 In the same vein as above, complete the following exercises, which involve more very common operations on arrays using loops.
 
