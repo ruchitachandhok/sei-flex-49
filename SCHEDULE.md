@@ -30,10 +30,9 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
+      <li>Code reading activity: <a href="https://www.evernote.com/shard/s411/sh/22d8cd5d-dc27-c368-427b-711bb7262ed3/6cf5e6bd6b69d9078e626c37d1725015">Connect 4 DOM game</a></li>
       <li>Finish DOM: <a href="w03/d1/dom-events.md#event-delegation">Event Delegation</a>: Evt.target</li>
-      <li>Exercise: ATM machine</li>
-      <li><a href="w03/d1/media-queries-responsive-design.md">Responsive Design</a></li>
-      <li>Exercise: Hamburger menu</li>
+      <li>Exercise: Plan + code up <a href="w03/d2/rock-paper-scissors">RPS</a></li>
     </ol>
   </td>
   <td>
@@ -54,14 +53,15 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
+      <!--<li>Exercise: ATM machine</li>-->
+      <li><a href="w03/d1/media-queries-responsive-design.md">Responsive Design</a></li>
       <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
-      <li>Exercise: Mortgage calculator</li>
+      <!--<li>Exercise: Mortgage calculator</li>-->
     </ol>
   </td>
   <td>
     <ol>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
-      <li>RPS</li>
     </ol>
   </td>
   <td>
@@ -78,8 +78,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w03/d1/media-queries-lab.md">Media queries lab</a> (optional)</li>
-      <li>Tabs/card flip lab (optional)</li>
-      <li>IKEA stretch lab (stretch section)</li>
+      <li><a href="w03/d1/hamburger-task.md">Hamburger/popup lab</a> (optional)</li>
+      <li><a href="w03/d1/tabs-lab.md">Tabs/card flip</a> lab (optional)</li>
     </ol>
   </td>
   <td>
@@ -98,7 +98,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the "control flow" page about loops, and read the page about "arrays"</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the "control flow" page about loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the page about "arrays"</li>
     </ol>
   </td>
   <td>
@@ -106,7 +107,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><strong>Make sure you can use a while loop</strong> to do things like: 
         <ol>
           <li>sum an array,</li>
-          <li>find if an element exists in it, </li>
+          <li>find if an element, eg., 7, exists in an array and output true/false, </li>
           <li>count all instances of something in the array,</li> 
           <li>count all the odd numbers, etc. These are fundamental and crucial coding skills.</li>
         </ol>
