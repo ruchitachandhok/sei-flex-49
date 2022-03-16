@@ -36,13 +36,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Warmup: <a href="w03/d2/rock-paper-scissors">RPS</a></li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Loops</a> Pt. 1: While loops</li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/arrays.md">Arrays</a>: Pt. 1</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>Warmup: <a href="w03/d3/rock-paper-scissors">RPS</a></li>
       <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
       <li>Loops and Arrays Pt. 2: Counting, finding</li>
       <li>Exercise: le bonhomme pendu</li>
