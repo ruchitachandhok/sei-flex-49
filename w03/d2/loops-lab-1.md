@@ -107,7 +107,7 @@ Loops Exercise 4: do we have soup?
   
 ```
 
-# Part. 2: Five exercises on Counting things, and Summing things
+# Part. 2: Counting things, and Summing things
 
 In the same vein as above, complete the following exercises, which involve more very common operations on arrays using loops.
 
