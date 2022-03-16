@@ -32,11 +32,11 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Code reading activity: <a href="https://www.evernote.com/shard/s411/sh/22d8cd5d-dc27-c368-427b-711bb7262ed3/6cf5e6bd6b69d9078e626c37d1725015">Connect 4 DOM game</a></li>
       <li>Finish DOM: <a href="w03/d1/dom-events.md#event-delegation">Event Delegation</a>: Evt.target</li>
-      <li>Exercise: Plan + code up <a href="w03/d2/rock-paper-scissors">RPS</a></li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>Warmup: <a href="w03/d2/rock-paper-scissors">RPS</a></li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Loops</a> Pt. 1: While loops</li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/arrays.md">Arrays</a>: Pt. 1</li>
     </ol>
