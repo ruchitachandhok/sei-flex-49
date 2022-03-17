@@ -40,7 +40,7 @@ let myArray = [1, 3, 2, 5, 24, 6, 2]
 
 /* Arrays Exercise 3: Insert and delete
   - 1. Use the .push() array method to insert another number into 'myArray' above, and print out the resulting array
-  - 2. Use the .slice() method to remove the first number, and print out the resulting array. (Slice is confusing as it does several things although in practice it's more often used just to delete an item from an array. You can find help <a href="https://www.w3schools.com/jsref/jsref_splice.asp">here</a> and <a href="https://www.freecodecamp.org/news/javascript-splice-how-to-use-the-splice-js-array-method/">here</a>
+  - 2. Use the .splice() method to remove the first number, and print out the resulting array. (Splice is confusing as it does several things although in practice it's more often used just to delete an item from an array. You can find help <a href="https://www.w3schools.com/jsref/jsref_splice.asp">here</a> and <a href="https://www.freecodecamp.org/news/javascript-splice-how-to-use-the-splice-js-array-method/">here</a>
 */
 ```
 
