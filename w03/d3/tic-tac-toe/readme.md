@@ -33,7 +33,7 @@ Submit the link to your repo using the Deliverable Submission form linked to in 
 
 	<img src="https://i.imgur.com/KMm8Zq5.png">
 	
-4. Ensure that you're in your `~/code` folder then clone the repo:
+4. Ensure that you're not in another git repository (eg., not in the classwork repo -- nested repos are bad!), and then clone your new repo:
 
 	```sh
 	git clone <paste the repo's URL here>
