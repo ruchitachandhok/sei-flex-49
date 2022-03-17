@@ -69,7 +69,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>Loops: accumulating(summing), transforming</li>
       <li>Exercise: marbles</li>
       <li>More arrays, loops, and DOM games</li>
-      <li>Array iterator methods (time-permitting)</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/array-methods.md">Array iterator methods</a> (time-permitting)</li>
     </ol>
   </td>
 </tr>
