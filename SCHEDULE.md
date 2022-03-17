@@ -43,8 +43,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Warmup: <a href="w03/d3/rock-paper-scissors">RPS</a></li>
-      <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
-      <li>Loops and Arrays Pt. 2: Counting, finding</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
+      <li>Exercise: big-arrow right</li>
       <li>Exercise: le bonhomme pendu</li>
     </ol>
   </td>
@@ -61,8 +61,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
-      <li>Exercise: big-arrow right</li>
+      <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
     </ol>
   </td>
   <td>
