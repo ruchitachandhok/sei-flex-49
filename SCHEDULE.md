@@ -42,7 +42,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Preamble: P1 planning materials due next Sat</li>
+      <li>Preamble: <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/tree/master/project-1">Project 1</a> planning materials due next Sat</li>
       <li>Intro to <a href="w02/d3/guide-to-building-a-browser-game.md">building a browser game</a> as prep for P1</li>
       <li>Warmup: <a href="w03/d3/rock-paper-scissors">RPS</a></li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">More DOM</a>: select an array of elements and loop over</li>
