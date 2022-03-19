@@ -20,11 +20,17 @@ Upon loading, the UI should look something like the following wireframe:
 
 <img src="https://i.imgur.com/Agh4bdE.png">
 
-Upon clicking the **Rock, Paper, Scissors... Go!** button, there will be a small display that counts down 3, 2, 1...:
+## challenge
+
+(optional) (challenge) Upon clicking the **Rock, Paper, Scissors... Go!** button, there will be a small display that counts down 3, 2, 1...:
 
 <img src="https://i.imgur.com/xYE9rv1.png">
 
 After the countdown finishes, the scores will be updated; and if there's a winner, that symbol will be rendered with a grey border.
+
+## Flowchart
+
+A flowchart you may use can be found <a href="https://drive.google.com/file/d/12ZG8Rric6ClJsVO4Appy4BAi3wVeyi7K/view?usp=sharing">here</a>
 
 ## Setup
 
