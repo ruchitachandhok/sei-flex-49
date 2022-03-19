@@ -30,7 +30,7 @@ After the countdown finishes, the scores will be updated; and if there's a winne
 
 ## Flowchart
 
-A flowchart you may use can be found <a href="https://drive.google.com/file/d/12ZG8Rric6ClJsVO4Appy4BAi3wVeyi7K/view?usp=sharing">here</a>
+A flowchart you may use to understand what to put in global scope vs. other functions can be found <a href="https://drive.google.com/file/d/12ZG8Rric6ClJsVO4Appy4BAi3wVeyi7K/view?usp=sharing">here</a>
 
 ## Setup
 
