@@ -42,8 +42,10 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Preamble: P1 planning materials due next Sat</li>
+      <li>Intro to <a href="w02/d3/guide-to-building-a-browser-game.md">building a browser game</a> as prep for P1</li>
       <li>Warmup: <a href="w03/d3/rock-paper-scissors">RPS</a></li>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">DOM</a>: select an array of elements and loop over</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">More DOM</a>: select an array of elements and loop over</li>
       <li>Exercise: big-arrow right</li>
       <li>Exercise: le bonhomme pendu</li>
     </ol>
@@ -66,10 +68,9 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Loops: accumulating(summing), transforming</li>
-      <li>Exercise: marbles</li>
-      <li>More arrays, loops, and DOM games</li>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/array-methods.md">Array iterator methods</a> (time-permitting)</li>
+      <li>Loops vs. <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/array-methods.md">array methods</a>: Finding, accumulating(summing,etc.), transforming</li>
+      <li><a href="w03/d3/array-iterator-methods.md">More array iterator methods</a> (optional extra reading)</li>
+      <li>Exercise: another DOM game</li>
     </ol>
   </td>
 </tr>
@@ -91,6 +92,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w03/d3/tic-tac-toe">TTT Lab</a> <strong>(Deliverable #9)</strong></li>
+      <li><a href="w03/d3/array-methods-lab.md">Array methods lab (optional)</a></li>
       <li>Breadcrumbs lab (optional)</li>
     </ol>
   </td>
