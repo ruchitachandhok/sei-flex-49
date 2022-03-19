@@ -63,14 +63,14 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
+      Lab time
     </ol>
   </td>
   <td>
     <ol>
       <li>Loops vs. <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/array-methods.md">array methods</a>: Finding, accumulating(summing,etc.), transforming</li>
       <li><a href="w03/d3/array-iterator-methods.md">More array iterator methods</a> (optional extra reading)</li>
-      <li>Exercise: another DOM game</li>
+      <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
     </ol>
   </td>
 </tr>
