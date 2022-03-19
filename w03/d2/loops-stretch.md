@@ -4,7 +4,7 @@
 
 2. Print out 10 lines with one asterisk in the first line, two asterisks in the second line, three asterisks in the third line
 
-3. Output the sum of the product of all numbers from 1-9 with all the other numbers from 1-9 - eg., 1*1 + 1*2 + 1*3 + ... + 2*1 + 2*2 + ... + 9*9
+3. Output the sum of the product of all numbers from 1-9 with all the other numbers from 1-9 - eg., 1\*1 + 1\*2 + 1\*3 + ... + 2\*1 + 2\*2 + ... + 9\*9
 
 4. https://leetcode.com/problems/water-bottles/
 

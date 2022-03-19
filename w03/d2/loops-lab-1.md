@@ -40,7 +40,7 @@ let myArray = [1, 3, 2, 5, 24, 6, 2]
 
 /* Arrays Exercise 3: Insert and delete
   - 1. Use the .push() array method to insert another number into 'myArray' above, and print out the resulting array
-  - 2. Use the .slice() method to remove the first number, and print out the resulting array. (Slice is confusing as it does several things although in practice it's more often used just to delete an item from an array. You can find help <a href="https://www.w3schools.com/jsref/jsref_splice.asp">here</a> and <a href="https://www.freecodecamp.org/news/javascript-splice-how-to-use-the-splice-js-array-method/">here</a>
+  - 2. Use the .splice() method to remove the first number, and print out the resulting array. (Splice is confusing as it does several things although in practice it's more often used just to delete an item from an array. You can find help <a href="https://www.w3schools.com/jsref/jsref_splice.asp">here</a> and <a href="https://www.freecodecamp.org/news/javascript-splice-how-to-use-the-splice-js-array-method/">here</a>
 */
 ```
 
@@ -52,8 +52,9 @@ let myArray = [1, 3, 2, 5, 24, 6, 2]
 
 **Beginner Loops Tip 2**: It can also be helpful to use a pen and paper to write out a "trace table" for the loop and write out each of the values of each variable **per iteration**.
 
-![image](https://user-images.githubusercontent.com/24878576/158700886-2053cb49-62b1-4428-b209-2ff916a4ec0e.png)
+<img src="https://user-images.githubusercontent.com/24878576/158700886-2053cb49-62b1-4428-b209-2ff916a4ec0e.png" width="300">
 
+For Part 1, copy the exercises below into the **script.js** file and code away!
 
 ```js
 
@@ -109,7 +110,7 @@ Loops Exercise 4: do we have soup?
 
 # Part. 2: Counting things, and Summing things
 
-In the same vein as above, complete the following exercises, which involve more very common operations on arrays using loops.
+For Part 2, read and complete the following exercises into your script.js file. Counting and Summing are very common operations on arrays using loops.
 
 **Exercise 2.1: Counting strings**
 
@@ -139,7 +140,7 @@ In the same vein as above, complete the following exercises, which involve more 
 
 ## Part 3: Trace tables
 
-# Do at least one of the following.
+# Do at least ONE (1) of the following 5 questions.
 ### You may do more but one is required.
 
 These below are exercises on "Trace tables" and helping you figure out "what the heck is the following code doing?"
@@ -202,14 +203,14 @@ i--;
 }
 ```
 
-## Part 4: totally optional stuff
+# Part 4 (optional): totally optional stuff
 
-**Loops Exercise 3.1: try something fun! (optional) **
+**Loops Exercise 4.1: try something fun! (optional) **
 1. Declare an array of some kind - eg., an array of animals? an array of fruits? an array of arrays?
 2. Think about some kind of operation you'd like to do on the array, and try to implement it using any of the loop structures we've learned.
 
-**Exercise 3 (optional) (challenging) **
-1. Redo exercises 2.3 and 2.4 using the `reduce` array iterator method. We'll be studying this in more detail next week.
+**Exercise 4.2 (optional) (challenging) **
+1. Redo exercises 2.3 and 2.4 using the `reduce` array iterator method. We'll be studying this and other array methods in more detail next week.
 
 
 
