@@ -92,6 +92,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Big O notation</li>
     </ol>
   </td>
   <td>
