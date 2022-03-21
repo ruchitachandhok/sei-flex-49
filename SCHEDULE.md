@@ -30,12 +30,12 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>classes and object-oriented programming I: concept)</li>
+      <li>object-oriented programming, classes, Pt. I: concepts</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>classes and object-oriented programming II: syntax</li>
+      <li>classes and OOP Pt. II: syntax</li>
     </ol>
   </td>
   <td>
