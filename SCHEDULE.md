@@ -13,7 +13,7 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
-### Week 4: Object-oriented programming, more loops and arrays, timers, jQuery,
+### Week 4: Object-oriented programming, more loops and arrays, timers & asynchronous programming, jQuery,
 
 <table>
 <thead>
@@ -53,7 +53,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>js timers, automatic render functions</li>
+      <li>js timers, asynchronous programs</li>
+      <li>exercise: a self-updating render function</li>
     </ol>
   </td>
   <td>
