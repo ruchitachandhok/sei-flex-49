@@ -33,8 +33,8 @@ Lastly, in addition to presenting your projects next Friday, you will be require
 	☐ A basic <a href="https://balsamiq.com/assets/learn/articles/account-setup-wireframe.png">wireframe</a> of your "main" game screen. (<a href="https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/">More about wireframes</a>)
 
 	☐ <a href="https://preview.redd.it/1niqyahx7gh51.png?auto=webp&s=c845f634c1a15a7acb856f7b1ca8d874be66ee92">Pseudocode</a> or <a href="https://wcs.smartdraw.com/flowchart/img/programming-flowchart-even-odd-number.png?bn=15100111791">Flowchart</a> for the overall game play. 
-			- (<a href="https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/building-algorithms/a/expressing-an-algorithm">More on flowcharts/pseudocode</a>) 
-			- (<a href="https://drive.google.com/file/d/12ZG8Rric6ClJsVO4Appy4BAi3wVeyi7K/view">Sample flowchart for a simple Rock-Paper-Scissors</a> game)
+		- (<a href="https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/building-algorithms/a/expressing-an-algorithm">More on flowcharts/pseudocode</a>)
+		- (<a href="https://drive.google.com/file/d/12ZG8Rric6ClJsVO4Appy4BAi3wVeyi7K/view">Sample flowchart for a simple Rock-Paper-Scissors</a> game)
 
 ### Presentation - Next Friday:
 
