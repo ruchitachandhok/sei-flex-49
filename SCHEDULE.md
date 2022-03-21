@@ -30,14 +30,17 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
+      <li>classes and object-oriented programming I: concept)</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>classes and object-oriented programming II: syntax</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>jQuery</li>
     </ol>
   </td>
 </tr>
@@ -45,14 +48,17 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Second session</strong></td>
   <td>
     <ol>
+      <li>for loops and arrays: basic interview questions</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>js timers, render functions</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li><strong>Project 1 planning materials due</strong></li>
     </ol>
   </td>
 </tr>
