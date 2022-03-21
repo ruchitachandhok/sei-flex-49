@@ -59,6 +59,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><strong>Project 1 planning materials due</strong></li>
+      <li>Big O notation</li>
     </ol>
   </td>
 </tr>
@@ -66,14 +67,20 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
+      <li>classes lab 1 (optional)</li>
+      <li>classes lab 2 (optional)</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>design patterns lab (very optional) (very stretch)</li>
+      <li>callbacks lab (optional)</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>jQuery lab (optional)</li>
+      <li><strong>All Unit 1 deliverables due</strong>\*</li>
     </ol>
   </td>
 </tr>
@@ -89,6 +96,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Work on Project 1</li>
     </ol>
   </td>
  </tr>
