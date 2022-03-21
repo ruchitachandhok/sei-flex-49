@@ -30,7 +30,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>object-oriented programming, classes, Pt. I: concepts</li>
+      <li>classes and object-oriented programming Pt. I: concepts</li>
     </ol>
   </td>
   <td>
