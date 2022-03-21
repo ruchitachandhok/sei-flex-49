@@ -80,7 +80,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>jQuery lab (optional)</li>
-      <li><strong>All Unit 1 deliverables due</strong>\*</li>
+      <li><strong>All Unit 1 deliverables due</strong>*</li>
     </ol>
   </td>
 </tr>
