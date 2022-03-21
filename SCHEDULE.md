@@ -53,7 +53,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>js timers, render functions</li>
+      <li>js timers, automatic render functions</li>
     </ol>
   </td>
   <td>
@@ -88,6 +88,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
+      <li>the js event loop</li>
+      <li>timers</li>
     </ol>
   </td>
   <td>
