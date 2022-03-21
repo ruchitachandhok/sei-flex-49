@@ -13,6 +13,105 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
+### Week 4: Object-oriented programming, more loops and arrays, timers, jQuery,
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>First session</strong></td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Labs / Homework</strong></td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Required Readings before next class</strong></td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>London textbook: responsive CSS, html5 Audio</li>
+      <li><a href="https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/">Bit more advanced DOM readings from smashing magazine</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Practice "Easy" and "Medium" questions on Edabit --- particularly with loops and arrays</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Another, deeper explanation of '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
+    </ol>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
 ### Week 3: Simple DOM Apps, responsive design, loops and arrays
 
 <table>
