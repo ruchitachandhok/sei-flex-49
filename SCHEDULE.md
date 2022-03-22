@@ -30,25 +30,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>classes and object-oriented programming Pt. I: concepts</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>classes and OOP Pt. II: syntax</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>jQuery</li>
-    </ol>
-  </td>
-</tr>
-<tr>
-  <td><strong>Second session</strong></td>
-  <td>
-    <ol>
-      <li>for loops and arrays: basic interview questions</li>
+      <li><a href="w04/d1/js-classes.md">classes</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming">object-oriented programming</a> Pt. I: concepts</li>
     </ol>
   </td>
   <td>
@@ -60,6 +42,26 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><strong>Project 1 planning materials due</strong></li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+      <li>classes and OOP Pt. II: syntax</li>
+      <li>labs / project planning materials</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>the '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
+      <li>jQuery</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Git branching</li>
       <li>Big O notation</li>
     </ol>
   </td>
@@ -69,18 +71,18 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>classes lab 1 (optional)</li>
-      <li>classes lab 2 (optional)</li>
+      <li><a href="w04/d1/js-classes-lab.md">classes lab 2</a> (optional)</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li>jQuery lab (optional)</li>
       <li>design patterns lab (very optional) (very stretch)</li>
       <li>callbacks lab (optional)</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>jQuery lab (optional)</li>
       <li><strong>All Unit 1 deliverables due</strong>*</li>
     </ol>
   </td>
@@ -109,7 +111,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
-      <li>London textbook: responsive CSS, html5 Audio</li>
+      <li>London textbook: </li>
       <li><a href="https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/">Bit more advanced DOM readings from smashing magazine</a></li>
     </ol>
   </td>
@@ -122,7 +124,6 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
-      <li>Another, deeper explanation of '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
     </ol>
   </td>
 </tr>
