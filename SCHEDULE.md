@@ -50,7 +50,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>classes and OOP Pt. II: syntax</li>
-      <li>labs / project planning materials</li>
+      <li>work on labs / project planning materials</li>
     </ol>
   </td>
   <td>
