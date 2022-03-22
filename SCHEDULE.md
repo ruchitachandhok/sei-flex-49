@@ -30,25 +30,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>First session</strong></td>
   <td>
     <ol>
-      <li>classes and object-oriented programming Pt. I: concepts</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>classes and OOP Pt. II: syntax</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>jQuery</li>
-    </ol>
-  </td>
-</tr>
-<tr>
-  <td><strong>Second session</strong></td>
-  <td>
-    <ol>
-      <li>for loops and arrays: basic interview questions</li>
+      <li><a href="w04/d1/js-classes.md">classes</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming">object-oriented programming</a> Pt. I: concepts</li>
     </ol>
   </td>
   <td>
@@ -60,6 +42,25 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><strong>Project 1 planning materials due</strong></li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+      <li>classes and OOP Pt. II: syntax</li>
+      <li>labs / project planning materials</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>jQuery</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Git branching</li>
       <li>Big O notation</li>
     </ol>
   </td>
