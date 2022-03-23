@@ -35,8 +35,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>js timers, asynchronous programs</li>
-      <li>exercise: a self-updating render function</li>
+       <li>the '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
+      <li>js timers, asynchronous programs, and callbacks</li>
     </ol>
   </td>
   <td>
@@ -55,8 +55,9 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>the '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
-      <li>jQuery</li>
+      <li>8-9 work on labs / project planning materials</li>
+      <li>9-930 lunch</li>
+      <li>last hour: jQuery</li>
     </ol>
   </td>
   <td>
