@@ -79,7 +79,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w04/d2/jquery-lab.md">jQuery lab</a> (optional)</li>
-      <li>design patterns lab (very optional) (very stretch)</li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/90ee0503-eeed-97fe-4cb8-d5b02c7c2ae6/9d3a9cc90361d37743518da333706ec7">design patterns lab</a> (very optional) (very stretch)</li>
       <li><a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/w04/d2/js-callbacks-and-timers.md#7-further-study">callbacks lab: traffic light switcher</a> (optional)</li>
     </ol>
   </td>
