@@ -35,7 +35,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>the '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
+      <li>the '<a href="w04/d2/this-keyword.md">this</a>' keyword</li>
       <li><a href="w04/d2/js-callbacks-and-timers.md">js timers, asynchronous programs</a>, and callbacks</li>
     </ol>
   </td>
