@@ -37,6 +37,23 @@ class Muggle {
     }
 }
 
+// 3. creating a specific instance of Wizard
+//    (object)
+//    ----we use the "new" keyword
+let wizard1 = new Wizard("Ron", "Gryffindorf")
+//wizard1.hairColor = "red"
+//wizard1.faint()
+
+// 3 (again)
+let wizard2 = new Wizard("Voldemort", "Slytherin")
+//wizard2.hairColor = "blue"
+wizard2.kill(wizard1)
+
+let human1 = new Muggle("Prime Minister of England")
+
+wizard2.kill(human1)
+
+// --- inheritance --- //
 // 6. we can create a SUBCLASS (inherits all attributes/methods of parent)
 class Animagus extends Wizard {
     /** NOTE: constructor needs at least as many params */
@@ -55,20 +72,3 @@ class Animagus extends Wizard {
 
 let animagus1 = new Animagus("Matt", "Gryffindorf", "cat")
 console.log(animagus1)
-
-// 3. creating a specific instance of Wizard
-//    (object)
-//    ----we use the "new" keyword
-let wizard1 = new Wizard("Ron", "Gryffindorf")
-//wizard1.hairColor = "red"
-//wizard1.faint()
-
-// 3 (again)
-let wizard2 = new Wizard("Voldemort", "Slytherin")
-//wizard2.hairColor = "blue"
-wizard2.kill(wizard1)
-
-let human1 = new Muggle("Prime Minister of England")
-
-wizard2.kill(human1)
-
