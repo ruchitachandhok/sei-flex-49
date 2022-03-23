@@ -50,7 +50,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>classes and OOP Pt. II: syntax</li>
-      <li>labs / project planning materials</li>
+      <li>work on labs / project planning materials</li>
     </ol>
   </td>
   <td>
@@ -70,8 +70,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs / Homework</strong></td>
   <td>
     <ol>
-      <li>classes lab 1 (optional)</li>
-      <li><a href="w04/d1/js-classes-lab.md">classes lab 2</a> (optional)</li>
+      <li><a href="w04/d1/js-classes-lab.md">classes lab 1</a> (optional)</li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/ee7126f3-240a-418d-b090-95ce0681b9f8/db48a38012a15065eca5f8036824ce92">classes lab 2</a> (optional) (stretch)</li>
     </ol>
   </td>
   <td>
@@ -91,8 +91,8 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Required Readings before next class</strong></td>
   <td>
     <ol>
-      <li>the js event loop</li>
-      <li>timers</li>
+      <li><a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en">the js event loop</a> (video)</li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/setTimeout">setTimeout</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/API/setInterval">setInterval</a> asynchronous functions</li>
     </ol>
   </td>
   <td>
