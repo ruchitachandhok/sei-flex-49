@@ -80,7 +80,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w04/d2/jquery-lab.md">jQuery lab</a> (optional)</li>
       <li>design patterns lab (very optional) (very stretch)</li>
-      <li>callbacks lab (optional)</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/w04/d2/js-callbacks-and-timers.md#7-further-study">callbacks lab: traffic light switcher</a> (optional)</li>
     </ol>
   </td>
   <td>
