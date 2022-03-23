@@ -57,7 +57,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>8-9 work on labs / project planning materials</li>
       <li>9-930 lunch</li>
-      <li>last hour: jQuery</li>
+      <li>jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a></li>
     </ol>
   </td>
   <td>
@@ -78,9 +78,9 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>jQuery lab (optional)</li>
-      <li>design patterns lab (very optional) (very stretch)</li>
-      <li>callbacks lab (optional)</li>
+      <li><a href="w04/d2/jquery-lab.md">jQuery lab</a> (optional)</li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/90ee0503-eeed-97fe-4cb8-d5b02c7c2ae6/9d3a9cc90361d37743518da333706ec7">design patterns lab</a> (very optional) (very stretch)</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/w04/d2/js-callbacks-and-timers.md#7-further-study">callbacks lab: traffic light switcher</a> (optional)</li>
     </ol>
   </td>
   <td>

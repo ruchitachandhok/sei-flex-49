@@ -59,9 +59,9 @@ This lab **is optional**.
 
 	- AAU, I want to be able to remove an individual skill one at a time in case I make a mistake.
 
-## Deliverable
+## Not a Deliverable
 
-When completed, please slack the link to your GitHub repo to your instructors. 
+It's not necesasry to submit this, but for your own tracking, if you like, you may post the link in the "optional" section of yoru deliverables files. 
 
 ## Bonus
 
