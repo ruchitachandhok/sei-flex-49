@@ -37,6 +37,25 @@ class Muggle {
     }
 }
 
+// 6. we can create a SUBCLASS (inherits all attributes/methods of parent)
+class Animagus extends Wizard {
+    /** NOTE: constructor needs at least as many params */
+    /**       as superclass */
+    constructor(name, house, animal) {
+        /** subclasses need to call the SUPER method */
+        /** ... which basically calls the SUPERCLASS constructor */
+        super(name, house)
+        this.animal = animal
+    }
+
+    shapeshift() {
+        console.log("i'm turning into a", this.animal)
+    }
+}
+
+let animagus1 = new Animagus("Matt", "Gryffindorf", "cat")
+console.log(animagus1)
+
 // 3. creating a specific instance of Wizard
 //    (object)
 //    ----we use the "new" keyword
