@@ -63,7 +63,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Chrome debugger</li>
-      <li>Git branching</li>
+      <li>Git branching & rolling back</li>
       <li>Big O notation</li>
     </ol>
   </td>
