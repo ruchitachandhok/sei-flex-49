@@ -62,7 +62,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Chrome debugger</li>
+      <li><a href="https://developer.chrome.com/docs/devtools/javascript/">Chrome debugger</a></li>
       <li>Git: rolling back</li>
       <li>Big O notation</li>
     </ol>
