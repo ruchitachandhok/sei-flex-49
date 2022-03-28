@@ -62,8 +62,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Git: <a href="https://www.evernote.com/shard/s411/sh/44fbbe88-6e5f-be79-094e-addae00f854f/f6e994929d2fad9d48223078d0a94ce6">rolling back to a previous hash</a></li>
       <li><a href="https://developer.chrome.com/docs/devtools/javascript/">Chrome debugger</a></li>
-      <li>Git: rolling back</li>
       <li>Big O notation</li>
     </ol>
   </td>
