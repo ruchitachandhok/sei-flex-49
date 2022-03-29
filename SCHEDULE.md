@@ -13,6 +13,262 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
+### Week 4: Object-oriented programming, more loops and arrays, timers & asynchronous programming, jQuery,
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>First session</strong></td>
+  <td>
+    <ol>
+      <li><a href="w04/d1/js-classes.md">classes</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming">object-oriented programming</a> Pt. I: concepts</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>the '<a href="w04/d2/this-keyword.md">this</a>' keyword</li>
+      <li><a href="w04/d2/js-callbacks-and-timers.md">js timers, asynchronous programs</a>, and callbacks</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><strong>Project 1 planning materials due</strong></li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+      <li>classes and OOP Pt. II: syntax</li>
+      <li>work on labs / project planning materials</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>8-9 work on labs / project planning materials</li>
+      <li>9-930 lunch</li>
+      <li>jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Git: <a href="https://www.evernote.com/shard/s411/sh/44fbbe88-6e5f-be79-094e-addae00f854f/f6e994929d2fad9d48223078d0a94ce6">rolling back to a previous hash</a></li>
+      <li><a href="https://developer.chrome.com/docs/devtools/javascript/">Chrome debugger</a></li>
+      <li>Big O notation</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Labs / Homework</strong></td>
+  <td>
+    <ol>
+      <li><a href="w04/d1/js-classes-lab.md">classes lab 1</a> (optional)</li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/ee7126f3-240a-418d-b090-95ce0681b9f8/db48a38012a15065eca5f8036824ce92">classes lab 2</a> (optional) (stretch)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w04/d2/jquery-lab.md">jQuery lab</a> (optional)</li>
+      <li><a href="https://www.evernote.com/shard/s411/sh/90ee0503-eeed-97fe-4cb8-d5b02c7c2ae6/9d3a9cc90361d37743518da333706ec7">design patterns lab</a> (very optional) (very stretch)</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/blob/master/w04/d2/js-callbacks-and-timers.md#7-further-study">callbacks lab: traffic light switcher</a> (optional)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><strong>All Unit 1 deliverables due</strong>*</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Required Readings before next class</strong></td>
+  <td>
+    <ol>
+      <li><a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en">the js event loop</a> (video)</li>
+      <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/setTimeout">setTimeout</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/API/setInterval">setInterval</a> asynchronous functions</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Big O notation</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Work on Project 1</li>
+    </ol>
+  </td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>London textbook: </li>
+      <li><a href="https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/">Bit more advanced DOM readings from smashing magazine</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Practice "Easy" and "Medium" questions on Edabit --- particularly with loops and arrays</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+    </ol>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+### Week 3: Simple DOM Apps, responsive design, loops and arrays
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>First session</strong></td>
+  <td>
+    <ol>
+      <li>Code reading activity: <a href="https://www.evernote.com/shard/s411/sh/22d8cd5d-dc27-c368-427b-711bb7262ed3/6cf5e6bd6b69d9078e626c37d1725015">Connect 4 DOM game</a></li>
+      <li>Finish DOM: <a href="w03/d1/dom-events.md#event-delegation">Event Delegation</a>: Evt.target</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/control-flow.md#loops">Loops</a> Pt. 1: While loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/arrays.md">Arrays</a>: Pt. 1</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Preamble: <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/tree/master/project-1">Project 1</a> planning materials due next Sat</li>
+      <li>Intro to <a href="w02/d3/guide-to-building-a-browser-game.md">building a browser game</a> as prep for P1</li>
+      <li>Browser game practice: <a href="w03/d3/rock-paper-scissors">RPS</a></li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md#interacting-with-the-dom">More DOM</a>: select an array of elements and loop over</li>
+      <li>Exercise: big-arrow right</li>
+      <li>Exercise: le bonhomme pendu</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Second session</strong></td>
+  <td>
+    <ol>
+      <!--<li>Exercise: ATM machine</li>-->
+      <li><a href="w03/d1/media-queries-responsive-design.md">Responsive Design</a></li>
+      <li><a href="w03/d1/playing-audio.md">Playing Audio</a></li>
+      <!--<li>Exercise: Mortgage calculator</li>-->
+    </ol>
+  </td>
+  <td>
+    <ol>
+      Lab time
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Loops vs. <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/array-methods.md">array methods</a>: Finding, accumulating(summing,etc.), transforming</li>
+      <li><a href="w03/d3/array-iterator-methods.md">More array iterator methods</a> (optional extra reading)</li>
+      <li><a href="w03/d3/arrow-functions.md">Arrow functions</a> and '<a href="w03/d3/this-keyword.md">this</a>' keyword</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Labs / Homework</strong></td>
+  <td>
+    <ol>
+      <li><a href="w03/d1/media-queries-lab.md">Media queries lab</a> (optional)</li>
+      <li><a href="w03/d1/hamburger-task.md">Hamburger/popup lab</a> (optional)</li>
+      <li><a href="w03/d1/tabs-lab.md">Tabs/card flip</a> lab (optional)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w03/d2/loops-lab-1.md">Arrays and loops lab 1</a> <strong>(Deliverable #8)</strong></li>
+      <li><a href="w03/d2/loops-stretch.md">Loops stretch lab</a> (optional)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w03/d3/tic-tac-toe">TTT Lab</a> <strong>(Deliverable #9)</strong></li>
+      <li><a href="w03/d3/array-methods-lab.md">Array methods lab (optional)</a></li>
+      <li>Breadcrumbs lab (optional)</li>
+    </ol>
+  </td>
+</tr>
+<tr>
+  <td><strong>Required Readings before next class</strong></td>
+  <td>
+    <ol>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the "control flow" page about loops</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: read the page about "arrays"</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><strong>Make sure you can use a while loop</strong> to do things like: 
+        <ol>
+          <li>sum an array,</li>
+          <li>find if an element, eg., 7, exists in an array and output true/false, </li>
+          <li>count all instances of something in the array,</li> 
+          <li>count all the odd numbers, etc. These are fundamental and crucial coding skills.</li>
+        </ol>
+      </li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">London textbook</a>: array methods</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Read our <a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a> in prep for P1</li>
+    </ol>
+  </td>
+ </tr>
+<tr>
+  <td><strong>Optional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>London textbook: responsive CSS, html5 Audio</li>
+      <li><a href="https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/">Bit more advanced DOM readings from smashing magazine</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Practice "Easy" and "Medium" questions on Edabit --- particularly with loops and arrays</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Try SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #4-10/30</li>
+      <li>Another, deeper explanation of '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
+    </ol>
+  </td>
+</tr>
+</tbody>
+</table>
+
 ### Week 2 (Tues March 8th - Sat March 12th): CSS, Flexbox, DOM
 
 <table>
@@ -42,8 +298,9 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Activity: Using the chrome debugger</li>
-      <li>Intro to the DOM</li>
+      <li><a href="w02/d2/objects.md">JS Objects</a></li>
+      <li>Work on objects lab</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/the-dom.md">Intro to the DOM</a></li>
     </ol>
   </td>
 </tr>
@@ -56,12 +313,13 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w02/d2/objects.md">JS Objects</a></li>
+      <li>CSS Grid (cont'd)</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>DOM Events</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/dom-events.md">DOM Events Pt. 1</a> & Click-based games!</li>
+      <li>Activity: <a href="https://developer.chrome.com/docs/devtools/javascript/">Using the chrome debugger</a></li>
     </ol>
   </td>
 </tr>
@@ -75,13 +333,16 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
       <li><a href="w02/d2/css-flexbox-grid-lab">CSS Flexbox and Grid lab</a> (optional) (does not count towards deliverables)</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>DOM Events Lab  <strong>(Deliverable #6)</strong></li>
+      <li><a href="w02/d2/objects-lab.md">JS objects short lab</a> <strong>(Deliverable #5)</strong></li>
+      <li><a href="w02/d3/dom-access-lab-1.md">DOM Access Lab</a> <strong>(Deliverable #6)</strong></li>
+      <li><a href="w02/d3/dom-events-lab-1.md">DOM Events Lab 1</a> <strong>(Deliverable #7)</strong></li>
+      <li><a href="w02/d3/dom-events-stretch-lab.md">Dom Events "Menu" Lab</a> (optional)</li>
+      <!-- <li><a href="w03/d3/tic-tac-toe">Tic Tac Toe (once we've covered loops)</a></li> -->
     </ol>
   </td>
 </tr>
@@ -118,7 +379,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Coming soon...</li>
+      <li>London <a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/SUMMARY.md">textbook</a>: Read about SASS, CSS Frameworks, CSS Animation</li>
+      <li><a href="w02/d3/guide-to-building-a-browser-game.md">Guide to building a browser game</a></li>
     </ol>
   </td>
 </tr>

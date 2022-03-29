@@ -6,7 +6,7 @@
 
 Your task is to recreate the design of this Supply site.
 
-This lab **is a deliverable**
+This lab **is not a deliverable**
 
 ![](mockup.png)
 
