@@ -13,6 +13,66 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
+### Week 5 (Week 28)
+
+<a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+    
+<!--
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Day 1</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> Work on Project 1 </td>
+  <td>
+    Work on Project 1 
+  </td>
+  <td>
+    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a>
+  </td>
+  <td> Work on Project 1 </td>
+  <td> Project 1 Presentations </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> Work on Project 1 </td>
+  <td>
+    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+  </td>
+  <td> Work on Project 1 </td>
+  <td>
+    Outcomes from 1:45pm - 3:45pm <br/><br/>
+    <a href="computer-science/02-cs-recursion">Recursion Problems</a>
+  </td>
+  <td> Project 1 Assessment </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 1 </td>
+  <td> Project 1 </td>
+  <td>
+    <a href="https://my.generalassemb.ly/activities/773">MyGA - Recursion (attempt exercises)</a>
+  </td>
+  <td> Project 1 </td>
+  <td> Review Unit 1 & Finish Labs / Project 1</td>
+</tr>
+
+</tbody>
+</table>
+-->
+
 ### Week 4: Object-oriented programming, more loops and arrays, timers & asynchronous programming, jQuery,
 
 <table>
@@ -35,7 +95,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>the '<a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-01/this.md">this</a>' keyword</li>
+      <li>the '<a href="w04/d2/this-keyword.md">this</a>' keyword</li>
       <li><a href="w04/d2/js-callbacks-and-timers.md">js timers, asynchronous programs</a>, and callbacks</li>
     </ol>
   </td>
@@ -62,8 +122,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Chrome debugger</li>
-      <li>Git branching</li>
+      <li>Git: <a href="https://www.evernote.com/shard/s411/sh/44fbbe88-6e5f-be79-094e-addae00f854f/f6e994929d2fad9d48223078d0a94ce6">rolling back to a previous hash</a></li>
+      <li><a href="https://developer.chrome.com/docs/devtools/javascript/">Chrome debugger</a></li>
       <li>Big O notation</li>
     </ol>
   </td>
