@@ -16,8 +16,8 @@ Use the recording tracker to help you if you get stuck on labs.
 ### Week 5 (Week 28): Project 1 week
 
 <ol>
-    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
-    <a href="w05/d2/deploy-ghpages.md">Deploy to GitHub Pages</a>
+    <li><a href="computer-science/01-cs-big-o-notation">Big O Notation</a></li>
+    <li><a href="w05/d2/deploy-ghpages.md">Deploy to GitHub Pages</a></li>
 </ol>
     
 <!--
