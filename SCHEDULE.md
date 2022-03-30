@@ -13,9 +13,12 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
-### Week 5 (Week 28)
+### Week 5 (Week 28): Project 1 week
 
-<a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+<ol>
+    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+    <a href="w05/d2/deploy-ghpages.md">Deploy to GitHub Pages</a>
+</ol>
     
 <!--
 <table>
