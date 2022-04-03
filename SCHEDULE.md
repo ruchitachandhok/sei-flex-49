@@ -13,6 +13,69 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
+### Week 5 (Week 28): Project 1 week
+
+<ol>
+    <li><a href="computer-science/01-cs-big-o-notation">Big O Notation</a></li>
+    <li><a href="w05/d2/deploy-ghpages.md">Deploy to GitHub Pages</a></li>
+</ol>
+    
+<!--
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Day 1</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td> Work on Project 1 </td>
+  <td>
+    Work on Project 1 
+  </td>
+  <td>
+    <a href="w03/d2/deploy-ghpages.md">Deploy to GitHub Pages</a>
+  </td>
+  <td> Work on Project 1 </td>
+  <td> Project 1 Presentations </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td> Work on Project 1 </td>
+  <td>
+    <a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+  </td>
+  <td> Work on Project 1 </td>
+  <td>
+    Outcomes from 1:45pm - 3:45pm <br/><br/>
+    <a href="computer-science/02-cs-recursion">Recursion Problems</a>
+  </td>
+  <td> Project 1 Assessment </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td> Project 1 </td>
+  <td> Project 1 </td>
+  <td>
+    <a href="https://my.generalassemb.ly/activities/773">MyGA - Recursion (attempt exercises)</a>
+  </td>
+  <td> Project 1 </td>
+  <td> Review Unit 1 & Finish Labs / Project 1</td>
+</tr>
+
+</tbody>
+</table>
+-->
+
 ### Week 4: Object-oriented programming, more loops and arrays, timers & asynchronous programming, jQuery,
 
 <table>

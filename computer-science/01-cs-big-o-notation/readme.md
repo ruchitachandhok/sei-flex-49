@@ -7,7 +7,8 @@ This lesson covers the basics of Big O notation.
 
 There are two components to this lesson:
 1. [myGA module: Big O Notation](https://my.generalassemb.ly/activities/511)
-2. In-Class Exercise: [Analyzing Algorithms](BigOExercise.md)
+2. (if the above doesn't work, try this:) <a href="https://my.generalassemb.ly/software-engineering-immersive-7d-63378/software-engineering-immersive-class-work-3f70d8/units/algorithms/lessons/big-o-notation-612789">Big O Notation MyGA Link 2</a>
+3. In-Class Exercise: [Analyzing Algorithms](BigOExercise.md)
 
 ## Learning Objectives
 By the end of this lesson, you'll be able to:
