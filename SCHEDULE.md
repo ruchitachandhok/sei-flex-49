@@ -16,8 +16,8 @@ Use the recording tracker to help you if you get stuck on labs.
 ### Week 6: Project week 2/2
 
 <ol>
-    <li>Tues: <a href="computer-science/02-cs-recursion">Recursion</a> and Git Pt.4: Git Diff</li>
-    <li>Weds: jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a></li>
+<!--    <li>Tues: <a href="computer-science/02-cs-recursion">Recursion</a> and Git Pt.4: Git Diff</li>
+    <li>Weds: jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a></li> -->
     <li>Sat: <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/tree/master/project-1">Project 1</a> presentations due Sat + Unit 1 quiz</li>
 </ol>
 
