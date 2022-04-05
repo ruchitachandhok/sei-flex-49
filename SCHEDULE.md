@@ -13,7 +13,17 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
-### Week 5 (Week 28): Project 1 week
+### Week 6: Project week 2/2
+
+<ol>
+    <li>Git Pt. 4: Diff</li>
+    <li><a href="computer-science/02-cs-recursion">Recursion</a></li>
+    <li>jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a></li>
+    <li></li>
+</ol>
+
+
+### Week 5: Project week 1/2
 
 <ol>
     <li><a href="computer-science/01-cs-big-o-notation">Big O Notation</a></li>
