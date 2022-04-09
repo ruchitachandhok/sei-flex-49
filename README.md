@@ -23,8 +23,8 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 - Holidays:
 	- Saturday, April 16th (Easter weekend)
 	- Saturday, May 21st (Victoria Day weekend)
-	- Saturday, June 25th
-	- Saaturday, July 30th
+	- Saturday, July 2nd (Canada Day weekend)
+	- Saaturday, July 30th (Civic Holiday Weekend)
 
 ### 2. Link to Zoom Room, and Recording Tracker
 

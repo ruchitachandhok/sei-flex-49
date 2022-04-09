@@ -13,9 +13,22 @@ Use the recording tracker to help you if you get stuck on labs.
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
-### Week 5 (Week 28)
+### Week 6: Project 1 week 2/2
 
-<a href="computer-science/01-cs-big-o-notation">Big O Notation</a>
+<ol>
+<!--    <li>On your own: <a href="computer-science/02-cs-recursion">Recursion</a> and Git Pt.4: Git Diff</li> -->
+    <li>On your own: jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a> -- <a href="w04/d2/jquery-lab.md">jQuery lab</a> (optional)</li>
+    <li>Weds: <a href="computer-science/02-cs-recursion">Recursion</a></li>
+    <li>Sat: <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/tree/master/project-1">Project 1</a> presentations due Sat + Unit 1 quiz</li>
+</ol>
+
+
+### Week 5: Project 1 week 1/2
+
+<ol>
+    <li><a href="computer-science/01-cs-big-o-notation">Big O Notation</a></li>
+    <li><a href="w05/d2/deploy-ghpages.md">Deploy to GitHub Pages</a></li>
+</ol>
     
 <!--
 <table>
