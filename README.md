@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/XseXU8J.png" width="900">
+ <img src="https://i.imgur.com/XseXU8J.png" width="900">
 
 # Welcome to General Assembly Toronto SEI!
 
