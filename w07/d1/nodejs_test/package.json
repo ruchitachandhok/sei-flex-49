@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "random-number": "^0.0.9"
+  }
+}
