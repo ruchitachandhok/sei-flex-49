@@ -18,11 +18,11 @@ Use the recording tracker to help you if you get stuck on labs.
 <thead>
 <tr>
   <td></td>
-  <th>Tues/Weds</th>
-  <th>Sat</th>
-  <th>Tues/Weds</th>
-  <th>Sat</th>
-  <th>Sat</th>
+  <th>Wk7 Tues</th>
+  <th>Wk7 Weds</th>
+  <th>Wk8 Tues</th>
+  <th>Wk8 Weds</th>
+  <th>Wk8 Sat</th>
 </tr>
 </thead>
 <tbody>
