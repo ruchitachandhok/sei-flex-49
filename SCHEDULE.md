@@ -12,7 +12,7 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 2
 
-### Week 7 and 8
+### Week 7 (Apr 12 & 13) --- No class Sat!
 
 <table>
 <thead>
