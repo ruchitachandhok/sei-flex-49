@@ -20,9 +20,9 @@ Use the recording tracker to help you if you get stuck on labs.
   <td></td>
   <th>Wk7 Tues</th>
   <th>Wk7 Weds</th>
-  <th>Wk8 Tues</th>
+<!--   <th>Wk8 Tues</th>
   <th>Wk8 Weds</th>
-  <th>Wk8 Sat</th>
+  <th>Wk8 Sat</th> -->
 </tr>
 </thead>
 <tbody>
@@ -42,7 +42,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w07/d2/ejs.md">Dynamic EJS Templates</a>: Basic Intro</li>
     </ol>
   </td>
-  <td>
+<!--   <td>
     <ol>
       <li>Peer Code Review of Deliverables 2 and 3</li>
       <li><a href="w07/d3/urlparams.md">Working with URL Parameters: "show"/"detail" functionality</a></li>
@@ -61,7 +61,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li>Peer Code Review: Deliverables 4,5,6,7</li>
       <li><a href="w07/d5/forms-and-middleware-2-update-delete/forms-and-middleware.md#what-is-middleware">Creating Forms Part II:</a> Middleware + "update" and "delete"</li>
     </ol>
-  </td>
+  </td> -->
 </tr>
 
 <tr>
@@ -75,22 +75,6 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w07/d2/intro-to-express.md#dynamic-templating-using-ejs">EJS Pt.2</a>: Render "index" page from array of objects</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w07/d3/express-routers-controllers">Express MVC Part I:</a> Dedicated Routers, Models, review "show" functionality</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w07/d4/express-routers-controllers">Express MVC Part II</a>: Controllers</li>
-      <li><a href="w07/d4/forms-and-middleware">Express: Forms Part I:</a> "create" functionality</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w01/d1/installfest.md#installing-mongodb">Install MongoDB and Compass</a></li>
     </ol>
   </td>
 </tr>
@@ -108,24 +92,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w07/d2/express-intro-lab.md">Express "Index page" Lab</a> <strong>(Deliverable #3)</strong></li>
     </ol>
   </td>
-  <td>
-    <ol>
-      <li><a href="w07/d3/url-params-lab">URL Params Lab</a><strong>(Deliverable #4)</strong></li>
-      <li><a href="w07/d3/express-dev-skills-lab">Dev Skills Lab part 1</a> <strong>(Deliverable #5)</strong></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w07/d4/dev-skills-lab-part-2.md">Dev Skills Lab part 2</a> <strong>(Deliverable #6)</strong></li>
-      <li><a href="w07/d4/form-lab">Contact Form Lab</a> <strong>(Deliverable #7)</strong></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li><a href="w07/d5/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(Deliverable #8)</strong></li>
-      <li>Optional NodeJS stretch lab (if all 7 delivs complete)</li>
-    </ol>
-  </td>
+
 </tr>
 
 <tr>
@@ -141,23 +108,6 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w07/d2/guide-to-add-feature-to-web-app.md">Review: Guide to Add Features to Web App</a></li>
       <li><a href="https://ncoughlin.com/posts/express-route-parameters/">External resource on URL Parameters</a></li>
       <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #8/30</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #9/30</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #10/30</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>Prep for databases: MongoDB/mongoose</li>
-      <li>Start brainstorming <a href="project-2">Project 2</a></li>
-      <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #11-#15/30</li>
     </ol>
   </td>
 </tr>
