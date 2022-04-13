@@ -37,7 +37,6 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w07/d1/intro-fullstack-http.md">Intro to Fullstack</a>: HTTP REQuest & RESponse</li>
       <li><a href="w07/d1/intro-to-express.md">"Express" webserver Pt. 1</a>: route handlers, static ejs</a></li>
       <li>Using the <a href="w07/d1/express-generator.md">express generator</a></li>
     </ol>
