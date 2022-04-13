@@ -93,6 +93,6 @@ Status: <%= status %>
 
 You do: 
 
-Try to create a page that displays the number of times this webpage has been created.
+Try to create a page that displays the number of times this webpage has been visited ("hit counters" were all the rage <a href="https://www.google.com/search?q=90s+hit+counters&tbm=isch&ved=2ahUKEwjD4YK_opH3AhWTqHIEHT7cCIEQ2-cCegQIABAA&oq=90s+hit+counters&gs_lcp=CgNpbWcQA1CSD1iOEGCxEWgAcAB4AIABUogBtgKSAQE0mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=0OBWYsO5C5PRytMPvrijiAg&bih=695&biw=1374">in the 90s</a>).
 
 We will go over the answers together after a few minutes.
