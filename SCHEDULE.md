@@ -33,6 +33,21 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w01/d1/installfest.md#nodejs">Install NodeJS</a></li>
       <li><a href="w07/d1/intro-to-node.md">NodeJS</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w07/d1/intro-fullstack-http.md">Intro to Fullstack</a>: HTTP REQuest & RESponse</li>
+      <li><a href="w07/d1/intro-to-express.md">"Express" webserver Pt. 1</a>: route handlers, static ejs</a></li>
+      <li>Using the <a href="w07/d1/express-generator.md">express generator</a></li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <ol>
       <li><a href="w07/d1/intro-fullstack-http.md">Intro to Fullstack</a>: HTTP REQuest & RESponse</li>
     </ol>
   </td>
@@ -40,40 +55,6 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Peer Code Review of Deliverable 1</li>
       <li><a href="w07/d2/ejs.md">Dynamic EJS Templates</a>: Basic Intro</li>
-    </ol>
-  </td>
-<!--   <td>
-    <ol>
-      <li>Peer Code Review of Deliverables 2 and 3</li>
-      <li><a href="w07/d3/urlparams.md">Working with URL Parameters: "show"/"detail" functionality</a></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>A runthrough of "create" without using controllers</li>
-      <li>Lunch 12:45 - 1:45</li>
-      <li>Outcomes 1:45 - 3:45</li>
-    </ol>
-  </td>
-  <td>
-    <ol>
-      <li>Attend SEI final presentations</li>
-      <li>Peer Code Review: Deliverables 4,5,6,7</li>
-      <li><a href="w07/d5/forms-and-middleware-2-update-delete/forms-and-middleware.md#what-is-middleware">Creating Forms Part II:</a> Middleware + "update" and "delete"</li>
-    </ol>
-  </td> -->
-</tr>
-
-<tr>
-  <td><strong>Afternoon</strong></td>
-  <td>
-    <ol>
-      <li><a href="w07/d1/intro-to-express.md">"Express" webserver Pt. 1</a>: route handlers, static ejs</a></li>
-      <li>Using the <a href="w07/d1/express-generator.md">express generator</a></li>
-    </ol>
-  </td>
-  <td>
-    <ol>
       <li><a href="w07/d2/intro-to-express.md#dynamic-templating-using-ejs">EJS Pt.2</a>: Render "index" page from array of objects</li>
     </ol>
   </td>
@@ -83,11 +64,12 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs</strong></td>
   <td>
     <ol>
-      <li><a href="w07/d1/static-ejs-lab.md">Static E-commerce server</a> <strong>(Deliverable #1)</strong></li>
+      <li>Practice imports/exports on nodeJS (optional)</li>
     </ol>
   </td>
   <td>
     <ol>
+      <li><a href="w07/d1/static-ejs-lab.md">Static E-commerce server</a> <strong>(Deliverable #1)</strong></li>
       <li><a href="w07/d2/ejs-lab/ejs-lab.md">EJS Lab</a> <strong>(Deliverable #2)</strong></li>
       <li><a href="w07/d2/express-intro-lab.md">Express "Index page" Lab</a> <strong>(Deliverable #3)</strong></li>
     </ol>
