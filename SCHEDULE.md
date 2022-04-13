@@ -52,7 +52,6 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>Peer Code Review of Deliverable 1</li>
       <li><a href="w07/d2/ejs.md">Dynamic EJS Templates</a>: Basic Intro</li>
       <li><a href="w07/d2/intro-to-express.md#dynamic-templating-using-ejs">EJS Pt.2</a>: Render "index" page from array of objects</li>
     </ol>
