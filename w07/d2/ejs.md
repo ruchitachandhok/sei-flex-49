@@ -40,7 +40,7 @@ More examples:
 
 ### 1. Embedding javascript statements in an EJS File <% %>
 
-In an EJS File, you can write any amount of javascript statements you would like within `<% %>` brackets.
+In an EJS File, you can write any amount of javascript statements you would like within `<% %>` ejs scriptlet brackets.
 For example:
 
 ```js
