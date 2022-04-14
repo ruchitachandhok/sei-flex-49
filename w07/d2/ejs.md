@@ -12,7 +12,7 @@ We've looked at how EJS allows us to render a static HTML file.
 
 This is great, but not scaleable.
 
-A websites like amazon has thousands of HTML pages corresponding to millions of products. Are they manually creating a separate file for each of these?
+A website like amazon has thousands of HTML pages corresponding to millions of products. Are they manually creating a separate file for each of these?
 What about spotify, which has thousands of song pages, or album pages. Are they manually creating an HTML file for each of these web pages?
 
 Of course not. They are using dynamic templates.
@@ -21,9 +21,10 @@ Of course not. They are using dynamic templates.
 
 #### Question: What is the difference between a javascript statement, and a javascript expression, and what are some examples?
 
-Answer: 
-- a javascript statement <strong>does</strong> something (eg., declare a variable, a looping statement which "does" something a few times, an "if" statement which does something based on some condition, a function definition which defines a function)
-- a javascript expression <strong>is</strong> something (ie., it evaluates to <strong>a single value</strong>. Examples: the number 5, the value 5+5, the value "hello", a function call like getRandomNumber() if it returns a number
+One Answer: expressions are values, statements are instructions not hard values.
+- a javascript expression <strong>is</strong> or evaluates to a hard value (ie., it evaluates to <strong>a single value</strong>. Examples: the number 5, the value 5+5, the string value "hello", or a function call like getRandomNumber() that returns a number
+- a javascript statement is an instruction / a sentence / a verb that is not a single hard value., (eg., let x = 5 is not an expression but it's an instruction to the computer to declare a variable. A looping statement which "does" something a few times is not a hard value: it's a set of commands. An "if" statement which does something based on some condition isn't a hard value but a command. A function definition which defines a function )
+
 
 More examples:
 
@@ -95,4 +96,4 @@ You do:
 
 Try to create a page that displays the number of times this webpage has been visited ("hit counters" were all the rage <a href="https://www.google.com/search?q=90s+hit+counters&tbm=isch&ved=2ahUKEwjD4YK_opH3AhWTqHIEHT7cCIEQ2-cCegQIABAA&oq=90s+hit+counters&gs_lcp=CgNpbWcQA1CSD1iOEGCxEWgAcAB4AIABUogBtgKSAQE0mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=0OBWYsO5C5PRytMPvrijiAg&bih=695&biw=1374">in the 90s</a>).
 
-We will go over the answers together after a few minutes.
+We will go over the answers together in class.
