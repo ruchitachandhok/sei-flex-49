@@ -69,7 +69,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li><a href="w07/d1/static-ejs-lab.md">Static E-commerce server</a> <strong>(Deliverable #1)</strong></li>
       <li><a href="w07/d2/ejs-lab/ejs-lab.md">EJS Lab</a> <strong>(Deliverable #2)</strong></li>
-      <li><a href="w07/d2/express-intro-lab.md">Express "Index page" Lab</a> <strong>(Deliverable #3)</strong></li>
+      <!--<li><a href="w07/d2/express-intro-lab.md">Express "Index page" Lab</a> <strong>(Deliverable #3)</strong></li>-->
     </ol>
   </td>
 
