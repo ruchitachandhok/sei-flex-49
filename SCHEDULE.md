@@ -101,6 +101,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="https://ncoughlin.com/posts/express-route-parameters/">External resource on URL Parameters</a></li>
+      <li>What is RESTful routing? What are some examples of RESTful vs non-RESTful routes?</li>
     </ol>
   </td>
   <td>
