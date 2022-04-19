@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fortune": "^5.5.18",
+    "random-number": "^0.0.9",
+    "whatever": "^6000.0.0"
+  }
+}

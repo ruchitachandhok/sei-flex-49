@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Here is my list of todos:<br><br>
+    <% for(let todo of todoArray) {%>
+        <a href="/todos/<%= todo.id %>">
+            <%= todo.id %> - 
+            <%= todo.todo %>
+        </a>
+         <br>
+    <% } %>
+
+    <br>
+
+    <form method="POST" action="/todos/submit">
+        Add a Todo: <input name="userTodo" /><br>
+        Done? <input name="status" /><br>
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>

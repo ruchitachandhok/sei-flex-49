@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <% console.log("i am a statement") %>
+
+    Welcome to Spotify.<br>
+ <!-- here, you put the -->
+ <!-- PROPERTY inside that obj -->
+    Artist: <%= name %><br>
+
+    <% if(listeners > 20000) { %>
+        <div class="green">
+    <% } else { %>
+        <div class="red">
+    <% } %>
+            Monthly Listeners: <%= listeners %>
+        </div>
+    
+    <img src="<%= image %>" width="200" />
+</body>
+</html>
