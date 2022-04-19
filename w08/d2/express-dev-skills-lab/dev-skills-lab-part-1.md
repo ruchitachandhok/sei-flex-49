@@ -36,6 +36,10 @@ An "index" page from a previous student, Cindy:
 
 - <a href="https://user-images.githubusercontent.com/24878576/121421380-1a378900-c93c-11eb-9d7e-f8913f5347cb.png">Cindy's Pt.3</a> (this one was <a href="https://user-images.githubusercontent.com/24878576/121421786-874b1e80-c93c-11eb-9b4c-8170bf2af134.png">responsive</a> which is totally not required!). Here we see Cindy's <strong>index</strong> page and clicking on the "details" link would show her details page.
 
+A "show" page from another previous student, Ryan:
+
+
+
 <strong>Note:</strong>
 - Keep in mind we just need "index" and "show"/"details" functionality for this lab (dev skills pt.1)
 - "Add skill" is pt. 2 (tomorrow).
