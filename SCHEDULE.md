@@ -36,12 +36,12 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w04/d3/urlparams.md">Working with URL Parameters: "show"/"detail" functionality</a></li>
+      <li><a href="w08/d2/urlparams.md">Working with URL Parameters: "show"/"detail" functionality</a></li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w04/d3/express-routers-controllers">Express MVC Part I:</a> Dedicated Routers, Models, review "show" functionality</li>
+      <li><a href="w08/d3/express-routers-controllers">Express MVC Part I:</a> Dedicated Routers, Models, review "show" functionality</li>
       <li>A runthrough of "create" without using controllers</li>
     </ol>
   </td>
@@ -61,8 +61,8 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w04/d4/express-routers-controllers">Express MVC Part II</a>: Controllers</li>
-      <li><a href="w04/d4/forms-and-middleware">Express: Forms Part I:</a> "create" functionality</li>
+      <li><a href="w08/d3/express-routers-controllers">Express MVC Part II</a>: Controllers</li>
+      <li><a href="w08/d3/forms-and-middleware">Express: Forms Part I:</a> "create" functionality</li>
     </ol>
   </td>
 </tr>
@@ -76,15 +76,15 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w04/d3/url-params-lab">URL Params Lab</a><strong>(Deliverable #3)</strong></li>
-      <li><a href="w04/d3/express-dev-skills-lab">Dev Skills Lab part 1</a> <strong>(Deliverable #4)</strong></li>
+      <li><a href="w08/d2/url-params-lab">URL Params Lab</a><strong>(Deliverable #3)</strong></li>
+      <li><a href="w08/d2/express-dev-skills-lab">Dev Skills Lab part 1</a> <strong>(Deliverable #4)</strong></li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w04/d4/dev-skills-lab-part-2.md">Dev Skills Lab part 2</a> <strong>(Deliverable #5)</strong></li>
-      <li><a href="w04/d4/form-lab">Contact Form Lab</a> <strong>(Deliverable #6)</strong></li>
-      <li><a href="w04/d5/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(Deliverable #7)</strong></li>
+      <li><a href="w08/d3/dev-skills-lab-part-2.md">Dev Skills Lab part 2</a> <strong>(Deliverable #5)</strong></li>
+      <li><a href="w08/d3/form-lab">Contact Form Lab</a> <strong>(Deliverable #6)</strong></li>
+      <li><a href="w08/d3/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(will be assigned next week)</strong></li>
       <li>Optional NodeJS stretch lab (if all 7 delivs complete)</li>
     </ol>
   </td>
