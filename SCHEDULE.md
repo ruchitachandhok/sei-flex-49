@@ -61,10 +61,6 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-    </ol>
-  </td>
-  <td>
-    <ol>
       <li><a href="w04/d4/express-routers-controllers">Express MVC Part II</a>: Controllers</li>
       <li><a href="w04/d4/forms-and-middleware">Express: Forms Part I:</a> "create" functionality</li>
     </ol>
