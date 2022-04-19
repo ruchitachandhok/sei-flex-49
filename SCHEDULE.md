@@ -12,6 +12,111 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 2
 
+### Week 8 (Apr 19 - 23)
+
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <ol>
+      <li>Exercise: Looping over an array of objects</li>
+      <li><a href="w07/d2/ejs.md">Dynamic EJS Templates</a>: Basic Intro</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w04/d3/urlparams.md">Working with URL Parameters: "show"/"detail" functionality</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w04/d3/express-routers-controllers">Express MVC Part I:</a> Dedicated Routers, Models, review "show" functionality</li>
+      <li>A runthrough of "create" without using controllers</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/intro-to-express.md#dynamic-templating-using-ejs">EJS Pt.2</a>: Render "index" page from array of objects</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Lab time</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w04/d4/express-routers-controllers">Express MVC Part II</a>: Controllers</li>
+      <li><a href="w04/d4/forms-and-middleware">Express: Forms Part I:</a> "create" functionality</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Labs</strong></td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/ejs-lab/ejs-lab.md">EJS Lab</a> <strong>(Deliverable #2)</strong></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w04/d3/url-params-lab">URL Params Lab</a><strong>(Deliverable #3)</strong></li>
+      <li><a href="w04/d3/express-dev-skills-lab">Dev Skills Lab part 1</a> <strong>(Deliverable #4)</strong></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w04/d4/dev-skills-lab-part-2.md">Dev Skills Lab part 2</a> <strong>(Deliverable #5)</strong></li>
+      <li><a href="w04/d4/form-lab">Contact Form Lab</a> <strong>(Deliverable #6)</strong></li>
+      <li><a href="w04/d5/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(Deliverable #7)</strong></li>
+      <li>Optional NodeJS stretch lab (if all 7 delivs complete)</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Additional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/guide-to-add-feature-to-web-app.md">Review: Guide to Add Features to Web App</a></li>
+      <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-12/30</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="https://ncoughlin.com/posts/express-route-parameters/">External resource on URL Parameters</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Prep for databases: Read up on MongoDB/mongoose</li>
+    </ol>
+  </td>
+</tr>
+
+</tbody>
+</table>
+
 ### Week 7 (Apr 12 & 13) --- No class Sat!
 
 <table>
@@ -20,8 +125,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td></td>
   <th>Wk7 Tues</th>
   <th>Wk7 Weds</th>
-<!--   <th>Wk8 Tues</th>
-  <th>Wk8 Weds</th>
+<!--
   <th>Wk8 Sat</th> -->
 </tr>
 </thead>
