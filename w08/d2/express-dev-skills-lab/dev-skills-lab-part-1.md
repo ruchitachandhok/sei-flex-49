@@ -2,7 +2,7 @@
 
 
 # Express Lab
-# My Dev Skills - Part 1
+# My Dev Skills - Part 1: "index" and "show"
 ---
 
 ## Intro
@@ -13,13 +13,16 @@ Now it's time to practice by doing the very same thing, but for a different data
 
 ##### This lab is a Deliverable
 
-## Exercises
+## Setup
 
 The goal of the lab is to put in a rep doing everything that you did during the _Express - Routers & Controllers_ lesson:
 
 - Scaffold a new app named `express-dev-skills` using express generator.
 
 - Be sure to create an array of "fake" data representing some of your awesome developer skills. The specific properties describing a skill object is up to you! 
+
+
+# Tasks:
 
 - Implement **index** functionality for the `skills` resource (ie., list of all skills)
 
