@@ -2,7 +2,7 @@
 
 
 # Express Lab
-# My Dev Skills - Part 2
+# My Dev Skills - Part 2: CREATE
 ---
 
 ## Intro
@@ -17,9 +17,11 @@ to perform a **Create** data operation in an Express application.
 This lab builds upon the `express-dev-skills` project you created in the _My Dev Skills - Part 1_ lab where the **Read** data operation was implemented.
 
 
-## Exercises
+## Setup
 
 The goal of the lab is to do put in a rep doing everything that you did during the _Express - Middleware_ lesson by adding the following functionality to the `express-dev-skills` project:
+
+## Tasks
 
 1. Display an _Add Skill_ link on the **index** view that when clicked, displays a **new** view that displays a form for entering a new Dev Skill.
 
