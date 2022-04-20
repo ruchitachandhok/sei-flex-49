@@ -22,25 +22,26 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
-// a reference to all the todo-db.js exports
-const todoFile = require('./data/todo-db.js')
-let todos = todoFile.getAll()
-
-// route handler for GET /todos
-app.get('/todos', function(req,res) {
-  let obj = {
-    my_todos : todos
-  }
-  res.render('todo-index.ejs', obj)
-})
-
-const moviesFile = require('./data/netflix-db.js')
-
-app.get('/movies', function(req,res) {
-  res.render('movie-index.ejs', {
-    movies: moviesFile.movies
+// a route handler
+//  - if someone on the internet GET /home 
+//  - then i will respond with '<h1>Welcome to my homepage guize</h1>'
+app.get('/home', function(req,res) {
+  let pokemon_list_from_db = [
+    {id: "1", name: "raichu"},
+    {id: "2", name: "pikachu"},
+    {id: "3", name: "jigglypuff"},
+    {id: "4", name:"snorlax"},
+    {id: "5", name:"bulbasaur"},
+  ]
+  
+  res.render('homepage.ejs', {
+    pokemon_list_from_db: pokemon_list_from_db,
   })
 })
+
+
+
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
