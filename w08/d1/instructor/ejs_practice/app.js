@@ -13,7 +13,6 @@ var app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
-// middleware section (ie., server plugins)
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -23,12 +22,30 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
-// route handlers here
+let counter = 0;
+
+// a route handler
+//  - if someone on the internet GET /home 
+//  - then i will respond with '<h1>Welcome to my homepage guize</h1>'
 app.get('/home', function(req,res) {
-   //res.send("Welcome to my homepage")
-   
-   res.render('home.ejs', {})
+  // 1. get data from database
+  let x = 7;
+  let name = "bob"
+  counter++;
+
+  let arr = ["gabe", "tatyana", "erol", "ryanne"]
+  let obj = {name: "colin",status: "chillin"};
+  
+  res.render('homepage.ejs', {
+    counter: counter,
+    x: x,
+    name: name,
+    arr: arr,
+    obj: obj,
+  })
 })
+
+
 
 
 
