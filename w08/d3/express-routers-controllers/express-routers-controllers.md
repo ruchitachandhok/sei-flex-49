@@ -263,6 +263,12 @@ Options:
 	app.use('/users', usersRouter);
 	```
 
+- Note: although express does it this way, if you find it simpler, we can also combine lines 7 and 22, or lines 8 and 23 in this way:
+
+```js
+app.use('/products', require('./routes/products.js'));
+```
+
 - It's **important** to realize that the path in `app.use` is **combined** with the path specified on the router objects...
 
 ---
