@@ -41,7 +41,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li><a href="w08/d3/express-routers-controllers">Express MVC Part I:</a> Dedicated Routers, Models, review "show" functionality + runthrough of "create" without using controllers</li>
+      <li><a href="w08/d3/express-routers-controllers">Express MVC Part I:</a> Dedicated Routers, Models, review "show" functionality + learn forms (without using controllers)</li>
     </ol>
   </td>
 </tr>
