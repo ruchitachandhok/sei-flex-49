@@ -84,7 +84,7 @@ Use the recording tracker to help you if you get stuck on labs.
       <li><a href="w08/d3/dev-skills-lab-part-2.md">Dev Skills Lab part 2</a> <strong>(Deliverable #5)</strong></li>
       <li><a href="w08/d3/form-lab">Contact Form Lab</a> <strong>(Deliverable #6)</strong></li>
       <li><a href="w08/d3/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(will be assigned next week)</strong></li>
-      <li>Optional NodeJS stretch lab (if all 7 delivs complete)</li>
+      <li>Ask me for the optional NodeJS stretch lab (if all 7 delivs complete)</li>
     </ol>
   </td>
 </tr>
