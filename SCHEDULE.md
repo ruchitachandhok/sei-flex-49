@@ -98,7 +98,7 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
-    <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-02/mongoose-models.md">London textbook: CRUD operations with Mongoose  + Promises</a></li>
+    <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook: CRUD operations with Mongoose  + Promises</a></li>
     <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
 </td>
