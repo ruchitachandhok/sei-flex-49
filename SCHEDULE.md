@@ -12,6 +12,108 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 2
 
+### Week 9 (Apr 26 - 31)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <ol>
+      <li><a href="w09/d1/forms-and-middleware-2-update-delete/forms-and-middleware.md#what-is-middleware">Creating Forms Part II:</a> Middleware + "update" and "delete"</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w09/d2/mongodb-intro.md">Intro to MongoDB</a></li>
+      <li><a href="w09/d2/mongoose-intro">Intro to mongoose</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <ol>
+      <li><a href="w01/d1/installfest.md#installing-mongodb">Install MongoDB and Compass</a></li>
+    </ol>
+  </td>
+<td>
+  <ol>
+    <li><a href="w09/d2/js-promises">Promises</a> (vs. Callbacks vs. Async/Await)</li>
+    <li>P2 reqs posted</li>
+  </ol>
+</td>
+<td>
+  <ol>
+    <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a></li>
+  </ol>
+</td>
+</tr>
+
+<tr>
+  <td><strong>Labs</strong></td>
+  <td>
+    <ol>
+      <li><a href="w09/d1/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(Deliverable #7)</strong></li>
+      <li>Optional NodeJS stretch lab (if all 7 delivs complete)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w09/d2/mongoose-flights-lab-part-1.md">Mongoose Flights Pt. 1</a> <strong>(Deliverable #8)</strong> (important!) (<-- prioritize this lab)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w09/d3/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 </a>           <strong>(Deliverable #9)</strong> (important! <-- prioritize this lab)</strong></li>
+<li><a href="w09/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(Deliverable #10)</strong></li>
+      <li><a href="w09/d3/own-risk-labs">Five Node/express stretch labs</a> (optional) (stretch/at your own risk - no help will be provided)</li>
+    </ol>
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Additional Practice / Readings</strong></td>
+<td>
+  <ol>
+    <li><a href="https://coursework.vschool.io/mongoose-crud/">Read: Doing CRUD on your DB with Mongoose</a></li>
+    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+<td>
+  <ol>
+    <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook: CRUD operations with Mongoose  + Promises</a></li>
+    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+<td>
+  <ol>
+    <li><a href="w09/d3/optional/hw-realtime-chat-lab">Socket.io Realtime Chat Lab</a> (optional)</li>
+    <li>Brainstorm ideas for Project 2 - MEN stack web app</li>
+    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+</tr>
+
+</tbody>
+</table>
+
 ### Week 8 (Apr 19 - 23)
 
 
