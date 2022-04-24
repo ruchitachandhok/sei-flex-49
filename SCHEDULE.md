@@ -81,7 +81,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w05/d2/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 </a>           <strong>(Deliverable #9)</strong> (important! <-- prioritize this lab)</strong></li>
-<li><a href="w05/d3/mongoose-flights-lab-part-3.md">Flights Lab Pt. 3</a> <strong>(Deliverable #10)</strong></li>
+<li><a href="w05/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(Deliverable #10)</strong></li>
       <li><a href="w05/d2/own-risk-labs">Five Node/express stretch labs</a> (optional) (at your own risk - no help will be provided)</li>
     </ol>
   </td>
