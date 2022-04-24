@@ -98,13 +98,14 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
-    <li><a href="https://git.generalassemb.ly/sei-toronto/sei-extra-review-notes/blob/master/module-02/mongoose-models.md">CRUD operations with Mongoose  + Promises</a></li>
+    <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-02/mongoose-models.md">London textbook: CRUD operations with Mongoose  + Promises</a></li>
     <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
 </td>
 <td>
   <ol>
     <li><a href="w05/d1/optional/hw-realtime-chat-lab">Socket.io Realtime Chat Lab</a> (optional)</li>
+    <li>Brainstorm ideas for Project 2 - MEN stack web app</li>
     <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
 </td>
