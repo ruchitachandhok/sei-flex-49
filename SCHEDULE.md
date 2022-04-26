@@ -40,6 +40,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      <li>Introduce <a href="project-2">P2</a></li>
       <li><a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
     </ol>
   </td>
