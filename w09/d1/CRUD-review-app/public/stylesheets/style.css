@@ -1,0 +1,51 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+
+.cards {
+  color: black;
+  max-width: 1300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 50px;
+  margin: 10px;
+  padding: 5px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid grey;
+  background-color: white;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.card:hover {
+  background-color: grey;
+  color: cornflowerblue;
+}
+
+
+.small-text {
+  font-size:xx-small;
+}
+
+.underline {
+  text-decoration: underline;
+}
