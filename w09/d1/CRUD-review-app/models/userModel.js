@@ -12,6 +12,10 @@ let users = [
     {id: "9", name: "tatyana", mood: "smiling", friends:[]},
 ]
 
+function create(incoming_obj) {
+    users.push(incoming_obj)
+}
+
 function getAll() {
     return users;
 }
@@ -28,4 +32,5 @@ function getUserObjectFromId(userIdFromURL) {
 module.exports = {
     getAll,
     getUserObjectFromId,
+    create,
 }
