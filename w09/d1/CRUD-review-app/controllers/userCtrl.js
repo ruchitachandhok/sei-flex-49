@@ -40,7 +40,21 @@ function deleteUser(req,res) {
     res.redirect('/users')
 }
 
+function edit(req,res) {
+    let wildCardValue = req.params.id;
+    let obj = UserModel.getUserObjectFromId(wildCardValue)
+    res.render('users-edit.ejs', { obj: obj })
+}
+
+function update(req,res) {
+    let wildcard = req.params.id;
+    UserModel.updateUser(wildcard, req.body)
+    res.redirect('/users/' + req.params.id)
+}
+
 module.exports = {
+    update,
+    edit,
     index,
     newUserForm,
     show,
