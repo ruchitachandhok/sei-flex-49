@@ -640,7 +640,7 @@ Movie.create({title: req.body.title, releaseYear: req.body.releaseYear, mpaaRati
 
 ### Callback syntax vs. Async-await syntax
 
-A newer, more modern way to do the "create" would be like so, using async-await syntax, which is a bit easier to read:
+A newer, more modern way to do the "create" would be like so, using async-await syntax, which is a bit easier to read. Modern Node code makes extensive use of async/await and Promises to do this sort of thing. Slightly older code uses callback functions.
 
 ```js
 async function create(req,res) {
