@@ -590,9 +590,14 @@ We're going to be using our `Movie` model, so we need to require it at the top:
 const Movie = require('../models/movie');
 ```
 
-
 Now let's write the code that will use the `Movie` Model to create the movie submitted by the form - we'll review it as we type it...
 
+
+<details>
+	<summary>
+		Callback syntax
+	</summary>
+	
 ```js
 function create(req, res) {
   // convert nowShowing's checkbox of nothing or "on" to boolean
@@ -637,6 +642,12 @@ Note also that although here we are directly storing the req.body object into ou
 ```js
 Movie.create({title: req.body.title, releaseYear: req.body.releaseYear, mpaaRating:req.body.mpaaRating}, function(err, movie) {
 ```
+	
+</details>
+
+
+
+
 
 ### Callback syntax vs. Async-await syntax
 
