@@ -10,9 +10,9 @@
     Edit a user:<br>
     <form method="POST" action="/users/<%= obj.id %>/?_method=PUT">
         Enter your new name:<br>
-        <input name="name_input" placeholder="<%= obj.name %>" /><br>
+        <input name="name_input" placeholder="<%= obj.name %>" value="<%= obj.name %>" /><br>
         Enter your new mood:<br>
-        <input name="mood_input" placeholder="<%= obj.mood %>" /><br>
+        <input name="mood_input" placeholder="<%= obj.mood %>" value="<%= obj.mood %>" /><br>
         <button type="submit">Submit</button>
     </form>
 </body>
