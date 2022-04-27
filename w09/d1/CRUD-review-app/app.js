@@ -3,6 +3,7 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+let methodOverride = require('method-override');
 
 var indexRouter = require('./routes/index');
 
@@ -16,12 +17,13 @@ app.set('view engine', 'ejs');
 // - intercept the request, and do stuff
 // - and then pass the request along
 app.use(logger('dev'));
+app.use(methodOverride('_method'));
 app.use(express.json());
-app.use(function(req,res,next) {
-  console.log("hello i am a middlware")
-  // must call this otherwise request ends here
-  next();
-});
+// app.use(function(req,res,next) {
+//   console.log("hello i am a middlware")
+//   // must call this otherwise request ends here
+//   next();
+// });
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));

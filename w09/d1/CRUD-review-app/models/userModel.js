@@ -12,6 +12,15 @@ let users = [
     {id: "9", name: "tatyana", mood: "smiling", friends:[]},
 ]
 
+function deleteUserFromId(wildCardId) {
+    for (let i=0; i < users.length; i++) {
+        if (wildCardId == users[i].id) {
+            users.splice(i,1)
+            return;
+        }
+    }
+}
+
 function create(incoming_obj) {
     users.push(incoming_obj)
 }
@@ -33,4 +42,5 @@ module.exports = {
     getAll,
     getUserObjectFromId,
     create,
+    deleteUserFromId,
 }

@@ -33,9 +33,17 @@ function create(req,res) {
     res.send('tyvm')
 }
 
+function deleteUser(req,res) {
+    let userIdFromWildcard = req.params.id;
+    UserModel.deleteUserFromId(userIdFromWildcard);
+    // remove the item from the database
+    res.redirect('/users')
+}
+
 module.exports = {
     index,
     newUserForm,
     show,
-    create, // always be exporting
+    create, // always be exporting 
+    deleteUser,
 }

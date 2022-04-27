@@ -10,5 +10,10 @@
     Details for user:
     <%= userObj.name %><br>
     <%= userObj.mood %>
+
+    <form action="/users/<%= userObj.id %>?_method=DELETE" 
+        method="POST">
+        <button>delete</button>
+    </form>
 </body>
 </html>
