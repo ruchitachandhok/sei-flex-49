@@ -1,4 +1,4 @@
-const res = require('express/lib/response');
+// const res = require('express/lib/response');
 let UserModel = require('../models/userModel.js');
 
 function index(req,res) {
