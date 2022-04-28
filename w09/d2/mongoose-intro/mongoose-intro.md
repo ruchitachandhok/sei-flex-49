@@ -647,7 +647,7 @@ Movie.create({title: req.body.title, releaseYear: req.body.releaseYear, mpaaRati
 </details>
 
 
-<details>
+<details open>
 	<summary>
 		Async-await syntax
 	</summary>
