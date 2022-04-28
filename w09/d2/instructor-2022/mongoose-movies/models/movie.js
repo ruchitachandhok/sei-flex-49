@@ -11,5 +11,5 @@ const movieSchema = new Schema({
 // { title: "Titanic", year: 1997, mpaaRating: "PG", cast: ["Leo", "Kate"]}
 // { title: "Pokemon", year: 1999, mpaaRating: "G", cast: ["Ash", "Pika"]}
 
-let movieModel = mongoose.model('Movie', movieSchema)
+let movieModel = mongoose.model('Movie', movieSchema) // specify collection name here
 module.exports = movieModel;
