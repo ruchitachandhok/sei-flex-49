@@ -1,14 +1,23 @@
 // importing model soon
+let MovieModel = require('../models/movie.js')
 
-const movieModel = require("../models/movie")
-const { modelName } = require("../models/movie")
+async function index(req,res) {
+    let movies = await MovieModel.find();
+    //console.log("movies", movies)
+    res.render('movies-index.ejs', {
+        movies
+    })
+}
+
+//async function show(req,res) {
+    // let movie = await MovieModel.findById(wildcard);
+//}
 
 function newMovie(req,res) {
     //res.send('here is a form:')
     res.render('new.ejs')
 }
 
-let MovieModel = require('../models/movie.js')
 
 async function create(req,res) {
     console.log(req.body)
@@ -26,4 +35,5 @@ async function create(req,res) {
 module.exports = {
     newMovie,
     create,
+    index,
 }

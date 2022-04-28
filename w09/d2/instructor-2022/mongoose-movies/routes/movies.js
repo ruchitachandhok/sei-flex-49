@@ -4,9 +4,8 @@ var router = express.Router();
 let movieCtrl = 
  require('../controllers/movieCtrl.js')
 
-// renders the form. GET /movies/new
-router.get('/new', movieCtrl.newMovie);
-// handles POST /movies
-router.post('/', movieCtrl.create)
+router.get('/', movieCtrl.index) // GET /movies
+router.get('/new', movieCtrl.newMovie); // renders the form. GET /movies/new
+router.post('/', movieCtrl.create) // handles POST /movies
 
 module.exports = router;

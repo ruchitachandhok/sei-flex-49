@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+  <title>Mongoose Movies</title>
+</head>
+<body>
+  <h1>Movie List</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Release Year</th>
+        <th>Rating</th>
+        <th>Cast</th>
+        <th>Now Showing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% for (let i=0; i < movies.length; i++) { %>
+        <tr>
+          <td><%= movies[i].title %></td>
+          <td><%= movies[i].releaseYear %></td>
+          <td><%= movies[i].mpaaRating %></td>
+        </tr>
+     <%  } %>
+    </tbody>
+  </table>
+</body>
+</html>
