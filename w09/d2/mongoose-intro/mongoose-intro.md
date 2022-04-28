@@ -582,7 +582,7 @@ function create(req, res) {
 }
 ```
 
-#### Step 5 - Code the controller action/method
+#### Step 5 - Code the "create" controller action/method
 
 We're going to be using our `Movie` model, so we need to require it at the top:
 
@@ -592,6 +592,13 @@ const Movie = require('../models/movie');
 
 Now let's write the code that will use the `Movie` Model to create the movie submitted by the form - we'll review it as we type it...
 
+### Callback syntax vs. Async-await syntax
+
+<details>
+	<summary>
+		Callback syntax
+	</summary>
+	
 ```js
 function create(req, res) {
   // convert nowShowing's checkbox of nothing or "on" to boolean
@@ -636,6 +643,36 @@ Note also that although here we are directly storing the req.body object into ou
 ```js
 Movie.create({title: req.body.title, releaseYear: req.body.releaseYear, mpaaRating:req.body.mpaaRating}, function(err, movie) {
 ```
+	
+</details>
+
+
+<details>
+	<summary>
+		Async-await syntax
+	</summary>
+
+A newer, more modern way to do the "create" would be like so, using async-await syntax, which is a bit easier to read. Modern Node code makes extensive use of async/await and Promises to do this sort of thing. Slightly older code uses callback functions.
+
+```js
+async function create(req,res) {
+    await MovieModel.create({
+        title: req.body.title,
+        releaseYear: req.body.releaseYear,
+        mpaaRating: req.body.mpaaRating,
+    })
+    res.redirect('/')
+}
+```
+
+Note that we typically surround this code with try-catch blocks to handle errors, and will get to this in later lessons (feel free to look this up if you are interested though!).
+
+</details>
+
+
+
+
+
 
 Questions?
 

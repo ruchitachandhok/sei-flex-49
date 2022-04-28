@@ -367,6 +367,10 @@ The above command also ensures that the MongoDB engine runs after restarting you
 
 More info about installing MongoDB using Homebrew can be found [here](https://github.com/mongodb/homebrew-brew).
 
+## SEcondly, install mongodb compass (db visualizer for mongodb):
+
+https://www.mongodb.com/try/download/compass?tck=docs_compass
+
 
 **For Linux:**
 Follow instructions [here](https://docs.mongodb.com/manual/administration/install-on-linux/)
