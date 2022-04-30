@@ -41,9 +41,9 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li>Minor change re:flights lab</li>
+      <li>Interview practice</li>
       <li>Introduce <a href="project-2">P2</a></li>
-      <li><a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
-      <li>Explain <a href="w09/d2/js-promises">Promises</a> (vs. Callbacks vs. Async/Await)</li> using
+      <li>1-to-many Relationships: <a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
     </ol>
   </td>
 </tr>
@@ -62,7 +62,8 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
-    <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a></li>
+    <li>Asynchronous programming: callbacks vs. <a href="w09/d2/js-promises">Promises</a> (vs. async-await)</li>
+    <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a> (time-permitting)</li>
   </ol>
 </td>
 </tr>
@@ -83,7 +84,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td>
     <ol>
       <li><a href="w09/d3/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 </a>           <strong>(Deliverable #9)</strong> (important! <-- prioritize this lab)</strong></li>
-<li><a href="w09/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(Deliverable #10)</strong></li>
+<li><a href="w09/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(will be assigned next week)</strong></li>
       <li><a href="w09/d3/own-risk-labs">Five Node/express stretch labs</a> (optional) (stretch/at your own risk - no help will be provided)</li>
     </ol>
   </td>
