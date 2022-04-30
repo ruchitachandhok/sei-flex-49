@@ -336,17 +336,42 @@
 <br>
 
 - Here's the `create` function used to add a _review_ to a _movie_:
+
+<details>
+	<summary>Callback syntax</summary>
 	
-	```js
-	function create(req, res) {
-	  Movie.findById(req.params.id, function(err, movie) {
-	    movie.reviews.push(req.body);
-	    movie.save(function(err) {
-	      res.redirect(`/movies/${movie._id}`);
-	    });
-	  });
-	}
-	```
+```js
+function create(req, res) {
+  Movie.findById(req.params.id, function(err, movie) {
+    movie.reviews.push(req.body);
+    movie.save(function(err) {
+      res.redirect(`/movies/${movie._id}`);
+    });
+  });
+}
+```
+</details>
+
+<details open>
+	<summary>Async-await syntax</summary>
+	
+```js
+async function create(req,res) {
+    try {
+        // console.log("id",req.params.id) // can be useful to log the wildcard as a sanity check.
+        const movie = await Movie.findById(req.params.id)   // 1. query the db BY ID (ie., query USING THE ID) the movie obj that our user is trying to review
+        movie.reviews.push({
+            content: req.body.content,
+            rating: req.body.rating,
+        })                   				   // 2. push the subdocument into the array (temporary - not saved)
+        await movie.save(); 			 	   // 3. save the new movie doc into mongoDB
+        res.redirect(`/movies/${movie._id}`);
+    } catch(err) {
+        res.send('there was an error')
+    }
+}
+```
+</details>
 
 - As you can see, we simply push in an object that's compatible with the embedded document's schema, call `save` on the parent doc, and redirect to wherever makes sense for the app.
 
