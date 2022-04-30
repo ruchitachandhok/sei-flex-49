@@ -42,7 +42,7 @@ Use the recording tracker to help you if you get stuck on labs.
     <ol>
       <li>Minor change re:flights lab</li>
       <li>Interview practice</li>
-      <li>Introduce <a href="project-2">P2</a></li>
+      <li>Introduce <a href="project-2">Project 2</a></li>
       <li>1-to-many Relationships: <a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
     </ol>
   </td>
