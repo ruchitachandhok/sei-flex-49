@@ -107,6 +107,7 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
+    <li>Understanding <a href="https://www.youtube.com/watch?v=wB9tIg209-8">non-blocking IO</a> in NodeJS</li>
     <li><a href="w09/d3/optional/hw-realtime-chat-lab">Socket.io Realtime Chat Lab</a> (optional)</li>
     <li>Brainstorm ideas for Project 2 - MEN stack web app</li>
     <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
