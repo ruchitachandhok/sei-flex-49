@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+div {
+  border: 2px solid red;
+  height: 50px;
+  width: 50px;
+  background-color: chocolate;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+a {
+  color: #00B7FF;
+}

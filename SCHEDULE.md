@@ -10,20 +10,311 @@ Use the recording tracker to help you if you get stuck on labs.
 
 ## Chalkboard Notes: https://docs.google.com/document/d/11A8AZwLCW4gC_lQqoqbtv5YYpzfinU5XAR5QjY0-eDc/edit
 
+# Unit 2
+
+### Week 9 (Apr 26 - 31)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <ol>
+      <li><a href="w09/d1/forms-and-middleware-2-update-delete/forms-and-middleware.md#what-is-middleware">Creating Forms Part II:</a> Middleware + "update" and "delete"</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w01/d1/installfest.md#installing-mongodb">Install MongoDB and Compass</a></li>
+      <li><a href="w09/d2/mongodb-intro.md">Intro to MongoDB</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Minor change re:flights lab</li>
+      <li>Interview practice</li>
+      <li>Introduce <a href="project-2">Project 2</a></li>
+      <li>1-to-many Relationships: <a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <ol>
+      Lab time
+    </ol>
+  </td>
+<td>
+  <ol>
+    <li><a href="w09/d2/mongoose-intro">Intro to mongoose</a></li>
+  </ol>
+</td>
+<td>
+  <ol>
+    <li>Asynchronous programming: callbacks vs. <a href="w09/d2/js-promises">Promises</a> (vs. async-await)</li>
+    <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a> (time-permitting)</li>
+  </ol>
+</td>
+</tr>
+
+<tr>
+  <td><strong>Labs</strong></td>
+  <td>
+    <ol>
+      <li><a href="w09/d1/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(Deliverable #7)</strong></li>
+      <li>Optional NodeJS stretch lab (if all 7 delivs complete)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w09/d2/mongoose-flights-lab-part-1.md">Mongoose Flights Pt. 1</a> <strong>(Deliverable #8)</strong> (important!) (<-- prioritize this lab)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w09/d3/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 </a>           <strong>(Deliverable #9)</strong> (important! <-- prioritize this lab)</strong></li>
+<li><a href="w09/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(will be assigned next week)</strong></li>
+      <li><a href="w09/d3/own-risk-labs">Five Node/express stretch labs</a> (optional) (stretch/at your own risk - no help will be provided)</li>
+    </ol>
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Additional Practice / Readings</strong></td>
+<td>
+  <ol>
+    <li><a href="https://coursework.vschool.io/mongoose-crud/">Read: Doing CRUD on your DB with Mongoose</a></li>
+    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+<td>
+  <ol>
+    <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook: CRUD operations with Mongoose  + Promises</a></li>
+    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+<td>
+  <ol>
+    <li><a href="w09/d3/optional/hw-realtime-chat-lab">Socket.io Realtime Chat Lab</a> (optional)</li>
+    <li>Brainstorm ideas for Project 2 - MEN stack web app</li>
+    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+### Week 8 (Apr 19 - 23)
+
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <ol>
+      <li>Exercise: Looping over an array of objects</li>
+      <li><a href="w07/d2/ejs.md">Dynamic EJS Templates</a>: Basic Intro</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w08/d2/urlparams.md">Working with URL Parameters: "show"/"detail" functionality</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w08/d3/express-routers-controllers">Express MVC Part I:</a> Dedicated Routers, Models, review "show" functionality + learn forms (without using controllers)</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/intro-to-express.md#dynamic-templating-using-ejs">EJS Pt.2</a>: Render "index" page from array of objects</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Lab time</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w08/d3/express-routers-controllers">Express MVC Part II</a>: Controllers</li>
+      <li><a href="w08/d3/forms-and-middleware">Express: Forms Part I:</a> "create" functionality</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Labs</strong></td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/ejs-lab/ejs-lab.md">EJS Lab</a> <strong>(Deliverable #2)</strong></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w08/d2/url-params-lab">URL Params Lab</a><strong>(Deliverable #3)</strong></li>
+      <li><a href="w08/d2/express-dev-skills-lab">Dev Skills Lab part 1</a> <strong>(Deliverable #4)</strong></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w08/d3/dev-skills-lab-part-2.md">Dev Skills Lab part 2</a> <strong>(Deliverable #5)</strong></li>
+      <li><a href="w08/d3/form-lab">Contact Form Lab</a> <strong>(Deliverable #6)</strong></li>
+      <li><a href="w08/d3/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(will be assigned next week)</strong></li>
+      <li>Ask me for the optional NodeJS stretch lab (if all 7 delivs complete)</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Additional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/guide-to-add-feature-to-web-app.md">Review: Guide to Add Features to Web App</a></li>
+      <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-12/30</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="https://ncoughlin.com/posts/express-route-parameters/">External resource on URL Parameters</a></li>
+      <li>What is RESTful routing? What are some examples of RESTful vs non-RESTful routes?</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li>Prep for databases: Read up on MongoDB/mongoose</li>
+    </ol>
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+### Week 7 (Apr 12 & 13) --- No class Sat!
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Wk7 Tues</th>
+  <th>Wk7 Weds</th>
+<!--
+  <th>Wk8 Sat</th> -->
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <ol>
+      <li><a href="w01/d1/installfest.md#nodejs">Install NodeJS</a></li>
+      <li><a href="w07/d1/intro-to-node.md">NodeJS</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w07/d1/intro-to-express.md">"Express" webserver Pt. 1</a>: route handlers, static ejs</a></li>
+      <li>Using the <a href="w07/d1/express-generator.md">express generator</a></li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <ol>
+      <li><a href="w07/d1/intro-fullstack-http.md">Intro to Fullstack</a>: HTTP REQuest & RESponse</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/ejs.md">Dynamic EJS Templates</a>: Basic Intro</li>
+      <li><a href="w07/d2/intro-to-express.md#dynamic-templating-using-ejs">EJS Pt.2</a>: Render "index" page from array of objects</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Labs</strong></td>
+  <td>
+    <ol>
+      <li>Practice imports/exports on nodeJS (optional)</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w07/d1/static-ejs-lab.md">Static E-commerce server</a> <strong>(Deliverable #1)</strong></li>
+      <li><a href="w07/d2/ejs-lab/ejs-lab.md">EJS Lab</a> <strong>(will be assigned next week)</strong></li>
+      <!--<li><a href="w07/d2/express-intro-lab.md">Express "Index page" Lab</a> <strong>(Deliverable #3)</strong></li>-->
+    </ol>
+  </td>
+
+</tr>
+
+<tr>
+  <td><strong>Additional Practice / Readings</strong></td>
+  <td>
+    <ol>
+      <li>Review notes/recording. Write lots of code! Practice.</li>
+      <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-8/30</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w07/d2/guide-to-add-feature-to-web-app.md">Review: Guide to Add Features to Web App</a></li>
+      <li><a href="https://ncoughlin.com/posts/express-route-parameters/">External resource on URL Parameters</a></li>
+      <li>SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #8/30</li>
+    </ol>
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+
 # Unit 1
 *Note that the schedule does not mention Outcomes (with career coach Zoe): which happens every Thursday starting week 5.
 
-### Week 6: Project week 2/2
+### Week 6: Project 1 week 2/2
 
 <ol>
 <!--    <li>On your own: <a href="computer-science/02-cs-recursion">Recursion</a> and Git Pt.4: Git Diff</li> -->
-    <li>On your own: jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a></li>
+    <li>On your own: jQuery: <a href="w04/d2/jquery-part-1.md">dom</a> + dom <a href="w04/d2/jquery-part-2.md">events</a> -- <a href="w04/d2/jquery-lab.md">jQuery lab</a> (optional)</li>
     <li>Weds: <a href="computer-science/02-cs-recursion">Recursion</a></li>
     <li>Sat: <a href="https://git.generalassemb.ly/sei-toronto/sei-flex-49/tree/master/project-1">Project 1</a> presentations due Sat + Unit 1 quiz</li>
 </ol>
 
 
-### Week 5: Project week 1/2
+### Week 5: Project 1 week 1/2
 
 <ol>
     <li><a href="computer-science/01-cs-big-o-notation">Big O Notation</a></li>

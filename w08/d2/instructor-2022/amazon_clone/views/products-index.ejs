@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+</head>
+<body>
+    <div style="padding-bottom:50px;">Welcome to amazon.to</div>
+    <ul>
+    <% for (let i = 0; i < products_database.length; i++) { %>
+        <a href="/products/<%= products_database[i].id %>">
+            <li>
+                <%= products_database[i].id %> -
+                <%=  products_database[i].name %> - 
+                <%=  products_database[i].price %>        
+            </li>
+        </a>
+    <% } %>
+    </ul>
+
+</body>
+</html>
