@@ -20,7 +20,7 @@ Additionally as part of the project's requirements, you'll be required to take a
 
 ## Planning & Presentation Requirements
 
-### Planning - Due Friday of this week:
+### Planning - Due Saturday of next week:
 
 - A **[Trello](https://trello.com/) board** with:
     
