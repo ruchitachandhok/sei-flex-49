@@ -40,6 +40,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
+      Minor change re:flights lab
       <li>Introduce <a href="project-2">P2</a></li>
       <li><a href="w09/d2/js-promises">Promises</a> (vs. Callbacks vs. Async/Await)</li>
     </ol>
@@ -60,8 +61,8 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
-    <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a></li>
     <li><a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
+    <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a></li>
   </ol>
 </td>
 </tr>
