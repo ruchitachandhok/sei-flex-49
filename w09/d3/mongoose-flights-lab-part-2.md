@@ -17,7 +17,7 @@ Today in the _Mongoose - Embedding Related Data_ lesson you:
 
 Similar to what we did in the lesson, in this lab you'll be adding functionality to the `mongoose-flights` project you created in the _part 1_ lab.
 
-#### The final version of `mongoose-flights` (parts 1 thru 3) will be a deliverable, so do each part and don't fall behind.
+#### Each part of `mongoose-flights` (parts 1 thru 3) will be an individual deliverable, so do each part, submit separately, and don't fall behind.
 
 ## Goal
 
@@ -56,4 +56,4 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 ## Deliverable?
 
-### The final version of `mongoose-flights` (parts 1 through 3) will be a deliverable, so do each part and don't fall behind.
+### Each individual part of `mongoose-flights` (parts 1 through 3) is be a deliverable, so do each part, submit, and don't fall behind.

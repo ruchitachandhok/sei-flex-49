@@ -13,7 +13,7 @@ Similar to what we did in the lesson, you'll start by creating a `mongoose-fligh
 
 FYI, future lessons will expand upon the `mongoose-movies` project, and the labs will expand upon the `mongoose-flights` project!
 
-#### The final version of `mongoose-flights` (parts 1 thru 3 combined) will be a deliverable, so do each part and don't fall behind.
+#### Each part of `mongoose-flights` is a separate deliverable, so do each part, submit separately, and don't fall behind.
 
 ## Exercises
 
@@ -31,7 +31,7 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 	| `departs`| `Date`| n/a | One year from date created | 
 
 4. Implement the following User Stories:
-	- (create) AAU, I want to create flights by entering the information on a page (new view) that has a form and submitting it.
+	- (create) As a User/AAU, I want to create flights by entering the information on a page (new view) that has a form and submitting it.
 	- (index) AAU, I want to view a list of all flights (index view) that displays each flight's airline, airport, flight no., and departure date/time.
 	- (show/detail) AAU, when viewing the list of flights, I want to click on a "detail" link displayed next to each flight to view all of the properties for that flight
 	- AAU, I want to be able to access each view via a navigation bar at the top of the page with links to:
@@ -72,6 +72,6 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 
 ## Deliverable
 
-### This lab, after completion of all three parts, is deliverable. Only submit once you have finished Part 3!!
+### Each individual part of this lab is deliverable. Submit each part separately!
 
 As usual, please push this code to either your fork of our course repo, or to a personal public github repo, and place a link in your deliverables files.

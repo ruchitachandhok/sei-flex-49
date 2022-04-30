@@ -21,7 +21,7 @@ Today in the _Mongoose - Referencing Related Data_ lesson you:
 
 Similar to what we did in the lesson, in this lab you'll be adding functionality to the `mongoose-flights` project you created in _part 1_ and have continued to work on in _part 2_ of the lab.
 
-#### The final version of `mongoose-flights`, as a result of completing parts 1 - 3 of this lab, is a deliverable.
+#### Each individual part of `mongoose-flights`, parts 1 - 3, are separate deliverables. Submit separately as separate links in your file.
 
 ## Goal
 
@@ -114,4 +114,4 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 ## Deliverable?
 
-### The final version of `mongoose-flights`, as a result of completing parts 1 - 3 of this lab, is a deliverable due next week.
+### Each individual part of of `mongoose-flights`, parts 1 - 3 of this lab, is a separate deliverable. Submit them separately.

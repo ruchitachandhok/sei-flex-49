@@ -20,7 +20,7 @@ Additionally as part of the project's requirements, you'll be required to take a
 
 ## Planning & Presentation Requirements
 
-### Planning - Due Friday of this week:
+### Planning - Due Saturday of next week:
 
 - A **[Trello](https://trello.com/) board** with:
     
@@ -33,7 +33,7 @@ Additionally as part of the project's requirements, you'll be required to take a
       <br><br>Note: Prioritize your user stories within the Ice Box with your "wish 
       list" stories at the bottom.
     
-    ☐ A **Wireframes** list containing wireframes for the app's main pages of functionality, e.g. Landing Page, Posts Index Page, Favorite Posts Page, Add Post Page, etc.
+    ☐ A **Wireframes** list containing wireframes for the app's main pages of functionality, e.g. Landing Page, Posts Index Page, Favorite Posts Page, Add Post Page, etc. <-- and please indicate the routes related to this page (eg., a form page might have a URL for showing the form, and one for posting the form)
     
     ☐ An **ERD** list containing an ERD identifying the attributes of each Data Entity (one for each Model and embedded schema). The ERD also needs to diagram relationships between the Entities (1:1, 1:M or M:M). Here's a [YouTube video to show you how](https://www.youtube.com/watch?v=QpdhBUYk7Kk).
 
