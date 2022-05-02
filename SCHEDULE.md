@@ -29,7 +29,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Morning</strong></td>
   <td>
     <ol>
-      <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a> (time-permitting)</li>
+      <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a></li>
     </ol>
   </td>
   <td>
