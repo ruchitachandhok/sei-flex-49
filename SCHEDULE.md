@@ -97,7 +97,7 @@ Use the recording tracker to help you if you get stuck on labs.
 <td>
   <ol>
       <li>Understanding <a href="https://www.youtube.com/watch?v=wB9tIg209-8">non-blocking IO</a> in NodeJS</li>
-      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook</a>: read sections on mongoose referencing/embedding, and promises</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook</a>: read sections on mongoose referencing, embedding, and promises</li>
       <li>Project 2 planning materials</li>
       <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
