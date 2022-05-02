@@ -30,21 +30,18 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Morning</strong></td>
   <td>
     <ol>
-      <li><a href="w09/d1/forms-and-middleware-2-update-delete/forms-and-middleware.md#what-is-middleware">Creating Forms Part II:</a> Middleware + "update" and "delete"</li>
+      <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a> (time-permitting)</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w01/d1/installfest.md#installing-mongodb">Install MongoDB and Compass</a></li>
-      <li><a href="w09/d2/mongodb-intro.md">Intro to MongoDB</a></li>
+      <li><a href="w10/d2/consuming-3rd-party-apis">APIs (other people's data)</a> and .env secrets file</li>
     </ol>
   </td>
   <td>
     <ol>
-      <li>Minor change re:flights lab</li>
-      <li>Interview practice</li>
-      <li>Introduce <a href="project-2">Project 2</a></li>
-      <li>1-to-many Relationships: <a href="w09/d3/mongoose-embedding">Mongoose Embedding</a></li>
+      <li>P2 Project Planning Materials due</li>
+      <li><a href="w10/d3/oauth-authentication">OAuth Authentication</a> ("Login with Google")</li>
     </ol>
   </td>
 </tr>
@@ -53,18 +50,19 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Afternoon</strong></td>
   <td>
     <ol>
-      Lab time
+      <li>P2 Prep: ERD Practice Activity (Pinterest/Facebook/Youtube/etc mongo collections,documents vs. ERD)</li>
     </ol>
   </td>
 <td>
   <ol>
-    <li><a href="w09/d2/mongoose-intro">Intro to mongoose</a></li>
+    <li>How to use Insomnia or Postman</li>
+    <li><a href="w10/d2/ajax-using-fetch-puppies">AJAX/Fetch</a>: API calls from browser</li>
   </ol>
 </td>
 <td>
   <ol>
-    <li>Asynchronous programming: callbacks vs. <a href="w09/d2/js-promises">Promises</a> (vs. async-await)</li>
-    <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a> (time-permitting)</li>
+      <li>Time-permitting, optional lecture on websockets protocol: <a href="w09/d3/optional/03-04-realtime-with-socket-io">Socket.io</a></li>
+      <li>Time-permitting (or next week), image upload using cloudinary</li>
   </ol>
 </td>
 </tr>
@@ -73,45 +71,49 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Labs</strong></td>
   <td>
     <ol>
-      <li><a href="w09/d1/dev-skills-lab-part-3.md">Dev Skills Lab part 3</a> <strong>(Deliverable #7)</strong></li>
-      <li>Optional NodeJS stretch lab (if all 7 delivs complete)</li>
+      <li><a href="w09/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(Deliverable #10)</strong></li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w09/d2/mongoose-flights-lab-part-1.md">Mongoose Flights Pt. 1</a> <strong>(Deliverable #8)</strong> (important!) (<-- prioritize this lab)</li>
+      <li>
+      <strong>Deliverable #11</strong>: Submit one of the following:
+          <ul>
+            <li><a href="w09/d2/js-promises-lab">Promises Lab</a> (option 1)</li>
+            <li><a href="w10/d2/ajax-using-fetch-lab.md">Frontend API calls (Fetch) Lab</a> (option 2)</li>
+            <li><a href="w10/d2/consuming-apis-lab">Backend API calls Lab (Chuck Norris)</a> (option 3)</li>
+          </ul>
+      </li>
     </ol>
   </td>
   <td>
     <ol>
-      <li><a href="w09/d3/mongoose-flights-lab-part-2.md">Mongoose Flights Lab part 2 </a>           <strong>(Deliverable #9)</strong> (important! <-- prioritize this lab)</strong></li>
-<li><a href="w09/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(will be assigned next week)</strong></li>
-      <li><a href="w09/d3/own-risk-labs">Five Node/express stretch labs</a> (optional) (stretch/at your own risk - no help will be provided)</li>
+      <li>No more new labs!</li>
     </ol>
   </td>
-
 </tr>
 
 <tr>
   <td><strong>Additional Practice / Readings</strong></td>
 <td>
   <ol>
-    <li><a href="https://coursework.vschool.io/mongoose-crud/">Read: Doing CRUD on your DB with Mongoose</a></li>
-    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+      <li>Understanding <a href="https://www.youtube.com/watch?v=wB9tIg209-8">non-blocking IO</a> in NodeJS</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook</a>: read sections on mongoose referencing/embedding, and promises</li>
+      <li>Project 2 planning materials</li>
+      <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
 </td>
 <td>
   <ol>
     <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook</a>: read sections on mongoose, and promises</li>
+    <li>Project 2 planning materials</li>
     <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
 </td>
 <td>
   <ol>
-    <li>Understanding <a href="https://www.youtube.com/watch?v=wB9tIg209-8">non-blocking IO</a> in NodeJS</li>
-    <li><a href="w09/d3/optional/hw-realtime-chat-lab">Socket.io Realtime Chat Lab</a> (optional)</li>
-    <li>Brainstorm ideas for Project 2 - MEN stack web app</li>
-    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+      <li>Project 2 planning materials</li>
+      <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
 </td>
 </tr>
