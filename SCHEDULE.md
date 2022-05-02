@@ -39,7 +39,7 @@ Use the recording tracker to help you if you get stuck on labs.
   </td>
   <td>
     <ol>
-      <li>P2 Project Planning Materials due</li>
+      <li><a href="project-2">Project 2</a> Project Planning Materials due</li>
       <li><a href="w10/d3/oauth-authentication">OAuth Authentication</a> ("Login with Google")</li>
     </ol>
   </td>
@@ -104,7 +104,7 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
-      <li>Project 2 planning materials</li>
+      <li>Work on project 2!</li>
       <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
   </ol>
 </td>
