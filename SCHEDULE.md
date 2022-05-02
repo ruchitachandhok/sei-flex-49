@@ -74,7 +74,7 @@ Use the recording tracker to help you if you get stuck on labs.
     </ol>
   </td>
   <td>
-      <strong>Deliverable #11</strong>: Submit one of the following:
+      <strong>Deliverable #11</strong>: Submit at least one of the following:
           <ol>
             <li><a href="w09/d2/js-promises-lab">Promises Lab</a> (option 1)</li>
             <li><a href="w10/d2/ajax-using-fetch-lab.md">Frontend API calls (Fetch) Lab</a> (option 2)</li>
