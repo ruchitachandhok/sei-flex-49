@@ -49,7 +49,7 @@ Use the recording tracker to help you if you get stuck on labs.
   <td><strong>Afternoon</strong></td>
   <td>
     <ol>
-      <li>P2 Prep: ERD Practice Activity (Pinterest/ Facebook/ Youtube/ etc mongo collections,documents vs. ERD)</li>
+      <!--<li>P2 Prep: ERD Practice Activity (Pinterest/ Facebook/ Youtube/ etc mongo collections,documents vs. ERD)</li>-->
     </ol>
   </td>
 <td>
