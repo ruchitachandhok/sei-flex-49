@@ -12,8 +12,7 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 2
 
-<!--
-### Week 10 (May 1 - 7)
+### Week 10 (May 3 - 7)
 
 <table>
 <thead>
@@ -120,7 +119,7 @@ Use the recording tracker to help you if you get stuck on labs.
 
 </tbody>
 </table>
--->
+
 
 ### Week 9 (Apr 26 - 31)
 
