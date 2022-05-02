@@ -82,9 +82,7 @@ Use the recording tracker to help you if you get stuck on labs.
           </ol>
   </td>
   <td>
-    <ol>
       <li>Shockingly, there are no more new labs</li>
-    </ol>
   </td>
 </tr>
 
