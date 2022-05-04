@@ -1,0 +1,7 @@
+# list any files that you dont want to push
+
+# because it contains secrets we don't want the world to see
+.env
+
+# because node_modules can be big
+node_modules/
