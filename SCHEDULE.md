@@ -12,6 +12,108 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 2
 
+### Week 10 (May 3 - 7)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Saturday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <ol>
+      <li><a href="w09/d3/mongoose-referencing">Mongoose Referencing</a></li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="w10/d2/consuming-3rd-party-apis">APIs (other people's data)</a> and .env secrets file</li>
+    </ol>
+  </td>
+  <td>
+    <ol>
+      <li><a href="project-2">Project 2</a> Project Planning Materials due</li>
+      <li><a href="w10/d3/oauth-authentication">OAuth Authentication</a> ("Login with Google")</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    <ol>
+      <li>P2 Prep: ERD Practice Activity (Pinterest/ Facebook/ Youtube/ etc mongo collections,documents vs. ERD)</li>
+    </ol>
+  </td>
+<td>
+  <ol>
+    <li>How to use Insomnia or Postman</li>
+    <li><a href="w10/d2/ajax-using-fetch-puppies">AJAX/Fetch</a>: API calls from browser</li>
+  </ol>
+</td>
+<td>
+  <ol>
+      <li>Time-permitting, optional lecture on websockets protocol: <a href="w09/d3/optional/03-04-realtime-with-socket-io">Socket.io</a></li>
+      <li>Time-permitting (or next week), image upload using cloudinary</li>
+  </ol>
+</td>
+</tr>
+
+<tr>
+  <td><strong>Labs</strong></td>
+  <td>
+    <ol>
+      <li><a href="w09/d3/mongoose-flights-lab-part-3.md">Mongoose Flights Lab Pt. 3</a> <strong>(Deliverable #10)</strong></li>
+    </ol>
+  </td>
+  <td>
+      <strong>Deliverable #11</strong>: Submit at least one of the following:
+          <ol>
+            <li><a href="w09/d2/js-promises-lab">Promises Lab</a> (option 1)</li>
+            <li><a href="w10/d2/ajax-using-fetch-lab.md">Frontend API calls (Fetch) Lab</a> (option 2)</li>
+            <li><a href="w10/d2/consuming-apis-lab">Backend API calls Lab (Chuck Norris)</a> (option 3)</li>
+          </ol>
+  </td>
+  <td>
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Additional Practice / Readings</strong></td>
+<td>
+  <ol>
+      <li>Understanding <a href="https://www.youtube.com/watch?v=wB9tIg209-8">non-blocking IO</a> in NodeJS</li>
+      <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook</a>: read sections on mongoose referencing, embedding, and promises</li>
+      <li>Project 2 planning materials</li>
+      <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+<td>
+  <ol>
+    <li><a href="https://git.generalassemb.ly/sei-toronto/london-textbook/blob/master/module-03">London textbook</a>: read sections on mongoose, and promises</li>
+    <li>Project 2 planning materials</li>
+    <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+<td>
+  <ol>
+      <li>Work on project 2!</li>
+      <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
+  </ol>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
 ### Week 9 (Apr 26 - 31)
 
 <table>
@@ -107,6 +209,7 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
+    <li>Understanding <a href="https://www.youtube.com/watch?v=wB9tIg209-8">non-blocking IO</a> in NodeJS</li>
     <li><a href="w09/d3/optional/hw-realtime-chat-lab">Socket.io Realtime Chat Lab</a> (optional)</li>
     <li>Brainstorm ideas for Project 2 - MEN stack web app</li>
     <li>Time permitting, work on SEI <a href="README.md#8-daily-code-challenges">code challenge</a> #1-#15/30</li>
