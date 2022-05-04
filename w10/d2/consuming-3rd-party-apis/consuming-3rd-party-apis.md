@@ -187,7 +187,7 @@ $ npm install request
 
 The `request` module is callback-based and has been "deprecated" (no further development) - however, with nearly 20 million weekly downloads, it's not going anywhere!
 
-Once learning about promises (very soon), you can use [request-promise-native](https://www.npmjs.com/package/request-promise-native).
+After learning about promises, you can use promise-based HTTP request libraries like <a href="https://github.com/node-fetch/node-fetch">node-fetch</a> or the super popular <a href="https://github.com/axios/axios">axios</a>
 
 Now lets require it in **routes/index.js**:
 
