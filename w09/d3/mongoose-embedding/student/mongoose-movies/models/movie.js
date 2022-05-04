@@ -1,6 +1,11 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
+const reviewSchema = new Schema ({
+  content: String,
+  rating: Number,
+})
+
 const movieSchema = new Schema({
   title: {
     type: String,
@@ -13,6 +18,7 @@ const movieSchema = new Schema({
     }
   }, mpaaRating: String,
   cast: [String],
+  reviews: [reviewSchema], //this is an array of subdocuments
   nowShowing: { type: Boolean, default: false }
 }, {
   timestamps: true

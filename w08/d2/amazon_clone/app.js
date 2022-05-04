@@ -3,10 +3,9 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-require('./config/database');
 
 var indexRouter = require('./routes/index');
-var moviesRouter = require('./routes/movies');
+var usersRouter = require('./routes/users');
 
 var app = express();
 
@@ -21,8 +20,20 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/movies', moviesRouter);
-app.use('/', require('./routes/reviews.js') )
+app.use('/users', usersRouter);
+
+let products_database = [
+{id: "0", stock: 50, price: 10, name: "farm animals"},
+{id: "1", stock: 50, price: 99, name: "rubber duck liberated"},
+{id: "2", stock: 60, price: 72, name: "ball"},
+{id: "3", stock: 26, price: 45, name: "twlight"},
+]
+
+app.get('/home', function(req,res) {
+  res.render('products-index.ejs', {
+    products_database: products_database,
+  })
+})
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

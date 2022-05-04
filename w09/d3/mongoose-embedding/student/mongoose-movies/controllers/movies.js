@@ -8,7 +8,7 @@ module.exports = {
 };
 
 async function index(req,res) {
-    let movies = await MovieModel.find(); // TODO: try-catch error-handling
+    let movies = await Movie.find(); // TODO: try-catch error-handling
     //console.log("movies", movies)
     res.render('movies/index.ejs', {
         title: 'All Movies',
@@ -25,7 +25,7 @@ async function index(req,res) {
 
 // callback syntax example for "show"
 async function show(req,res) {
-  let result = await Movie.findById(req.params.id); // TODO: try-catch error handling
+  let movie = await Movie.findById(req.params.id); // TODO: try-catch error handling
   res.render('movies/show.ejs', { 
     title: 'Movie Detail', movie 
   });
