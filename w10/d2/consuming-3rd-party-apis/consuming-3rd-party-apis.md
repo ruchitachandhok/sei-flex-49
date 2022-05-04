@@ -177,7 +177,7 @@ router.get('/', function(req, res, next) {
 
 Cool!  Now let's see how we're going to be able to make HTTP requests from the server...
 
-## Install and require the "request" module
+## Install and require the "request" module (or a promise-based alternative like axios)
 
 In order to make HTTP requests from our Express server to the GitHub API, we'll want to install and require an NPM module named [request](https://www.npmjs.com/package/request), a simple HTTP request client:
 
