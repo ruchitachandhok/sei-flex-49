@@ -10,6 +10,9 @@
   <div>Now Showing: </div>
   <div><%= movie.nowShowing ? 'Yes' : 'Nope' %></div>
   <!-- start cast list -->
+  <% for (let i= 0; i < movie.cast.length; i++) { %>
+    <%= movie.cast[i].name %><br>
+  <% } %>
 
   <!-- end cast list -->
 </section>

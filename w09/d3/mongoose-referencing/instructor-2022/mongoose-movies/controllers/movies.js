@@ -30,33 +30,38 @@ function index(req, res) {
   });
 }
 
-function show(req, res) {
-  // step 1 - movie.find
-  Movie.findById(req.params.id, function(err, movie) {
+// function show(req, res) {
+//   // step 1 - movie.find
+//   Movie.findById(req.params.id).populate('cast').exec( function(err, movie) {
 
-    // step 2- performer.find
-    Performer.find(function(err, performers) {
+//     console.log("the movie object", movie)
 
-      // step 3- res.render
-      res.render('movies/show', { 
-        title: 'Movie Detail', 
-        movie,
-        performers
-      });
+//     // step 2- performer.find
+//     Performer.find(function(err, performers) {
 
-    })
-  });
-}
+//       // step 3- res.render
+//       res.render('movies/show', { 
+//         title: 'Movie Detail', 
+//         movie,
+//         performers
+//       });
 
-// async function showAsync(req,res) {
-//   let performers = await Performer.find(); // all performers
-//   let movie = await Movie.findById(req.params.id);
-//   res.render('movies/show', { 
-//     title: 'Movie Detail', 
-//     movie,
-//     performers,
+//     })
 //   });
 // }
+
+async function show(req,res) {
+  let performers = await Performer.find(); // all performers
+  let movie = await Movie.findById(req.params.id);
+  // convert cast:["abc","123"]--->cast:[{},{}]
+  await movie.execPopulate('cast');
+
+  res.render('movies/show', { 
+    title: 'Movie Detail', 
+    movie,
+    performers,
+  });
+}
 
 function newMovie(req, res) {
   res.render('movies/new', { title: 'Add Movie' });
