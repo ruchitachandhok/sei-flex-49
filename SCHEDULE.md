@@ -60,7 +60,7 @@ Use the recording tracker to help you if you get stuck on labs.
 </td>
 <td>
   <ol>
-      <li>Time-permitting, optional lecture on websockets protocol: <a href="w09/d3/optional/03-04-realtime-with-socket-io">Socket.io</a></li>
+      <li>Time-permitting, optional lecture on websockets protocol: <a href="w09/d2/optional/03-04-realtime-with-socket-io">Socket.io</a></li>
       <li>Time-permitting (or next week), image upload using cloudinary</li>
   </ol>
 </td>
