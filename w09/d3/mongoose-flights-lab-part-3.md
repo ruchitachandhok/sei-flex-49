@@ -96,6 +96,7 @@ Styling is secondary, spend time on it only after the functionality has been imp
 	If you use the "proper" route for the ticket form's `action` attribute, the `ticketsCtrl.create` action will have access to the `_id` of the _flight_ the _ticket_ is being created for - you got this!
 	
 	In the controller action, there **will not** be a `flight` property on the `req.body` object. You must add that property yourself before using `req.body` to create the _ticket_. Failure to do so will result in the _ticket_ being created without a `flight` property that references the _flight_ it belongs to - so if newly added tickets are not showing up with the flight, this is probably the cause.
+
  
 ## More Hints
 
@@ -111,6 +112,10 @@ Styling is secondary, spend time on it only after the functionality has been imp
 1. Style the app.
 
 2. Add a feature to delete a flight's _ticket_.
+
+# Demo
+
+An example of a previous student's lab can be found here <a href="https://weary-traveler.herokuapp.com/flights">an example of a previous student's </a>
 
 ## Deliverable?
 
