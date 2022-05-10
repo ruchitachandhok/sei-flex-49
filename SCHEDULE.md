@@ -12,6 +12,15 @@ Use the recording tracker to help you if you get stuck on labs.
 
 # Unit 2
 
+
+### Week 11: Project 2: first week of two
+
+<ol>
+    <li><a href="w11/d1/atlas-hosted-mongodb.md">Atlas-hosted MongoDB</a></li>
+    <li><a href="w11/d1/ajax-using-fetch-puppies.md">AJAX/Fetch: frontend api calls, avoiding page refresh with DOM</a></li>
+    <li><a href="w11/d2/deploy-express-heroku.md">Deploying an express app to Heroku</a></li>
+</ol>
+
 ### Week 10 (May 3 - 7)
 
 <table>
