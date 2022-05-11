@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flights Index</title>
+  </head>
+  <body>
+    <ul>
+      <li><a href="/flights/new">Add Flight </a></li>
+      <li><a href="/flights">All Flights</a></li>
+    </ul>
+    <table id="list">
+      <thead>
+        <tr>
+          <th>Airline</th>
+          <th>Airport</th>
+          <th>Flight Number</th>
+        </tr>
+        <% for (let i = 0; i <flights.length; i++) { %>
+        <tr>
+          <td><%= flights[i].airline %></td>
+          <td><%= flights[i].airport %></td>
+          <td><%= flights[i].flightNo %></td>
+          <td><%= flights[i].departs %></td>
+          <td><a href="/flights/<%= flights[i]._id %>">DETAILS</a></td>
+        </tr>
+        <% } %>
+      </thead>
+    </table>
+    <br />
+
+  </body>
+</html>

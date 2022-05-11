@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form
+      id="tickets"
+      method="POST"
+      action="/flights/<%= flights._id %>/tickets"
+    >
+      <h2>Add Tickets</h2>
+      <label>
+        An A thru F character, followed by a 1 thru 9 character, followed by
+        zero or one 0 thru 9 character.</label
+      >
+      <br />
+      <label>Seat:</label
+      ><input name="seat" required pattern="[A-F][1-9]\d?" /><br />
+      <label>Price:</label><input name="price" type="number" min="0" />
+      <input type="submit" value="Book Tickets" />
+      <br />
+    </form>
+  </body>
+</html>

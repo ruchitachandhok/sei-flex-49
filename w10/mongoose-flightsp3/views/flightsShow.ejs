@@ -1,0 +1,63 @@
+
+
+<%- include('./partials/header') %>
+  <body>
+    <section id="show-page">
+      <div>Flight Airline:</div>
+      <div><%= flightsDetails.airline %></div>
+      <div>Flight Airport:</div>
+      <div><%= flightsDetails.airport %></div>
+      <div>Flight Number:</div>
+      <div><%= flightsDetails.flightNo %></div>
+      <div>Flight Depart:</div>
+      <div><%= flightsDetails.departs %></div>
+    </section>
+
+    <br><br><h2>Destinations</h2>
+    <% for (let i =0; i < flightsDetails.destinations.length; i++) { %>
+        <div><%= flightsDetails.destinations[i].arrival %></div>
+        <div><%= flightsDetails.destinations[i].airport %></div>
+        <br>
+
+    <% } %>
+
+
+    <br><br><h2>ADD Destinations</h2>
+    <form id="desinationForm" method="POST"
+      action="/flights/<%= flightsDetails._id %>/destinations" >
+
+
+
+      <label>Airport</label>
+      <select name="airport" id="destinationId">
+        <option value="AUS">AUS</option>
+        <option value="DEN">DEN</option>
+        <option value="DFW">DFW</option>
+        <option value="LAX">LAX</option>
+        <option value="SAN">SAN</option>
+      </select>
+      <label>Arrival:
+      <input type= "date" name="arrival" > </label>
+      <input type="submit" value="Submit">
+    </form>
+
+    <a href="/flights/<%= flightsDetails._id %>/tickets">Book Tickets</a> 
+
+    <section id = showTickets>
+      <div> 
+        <% for (let i = 0; i<flightsDetails.tickets.length; i++) {%>
+          <%= flightsDetails.tickets[i].seat %> 
+          <%= flightsDetails.tickets[i].price%> 
+          <%= flightsDetails.tickets[i]._id %> 
+        
+          <%= flightsDetails.tickets[i]%> 
+          <br> 
+          <br>
+          
+        <% } %>
+      </div>
+    </section>
+
+  </body>
+</html>
+<%- include('./partials/footer') %>
