@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .big {
+            background-color: red;
+            width: 500px;
+            height: 500px;
+            }
+            </style>
+</head>
+<body>
+    <button id="btn1">Get Data</button>
+    <div class="big">
+        Title: <span id="span1">_____</span><br>
+        UserId: <span id="span2">_____</span>
+    </div>
+
+    <script>
+        const btnEl = document.getElementById("btn1")
+        const span1 = document.getElementById("span1")
+        const span2 = document.getElementById("span2")
+        btnEl.addEventListener("click", coolfunction)
+
+        async function coolfunction(){
+            let result = await fetch("https://jsonplaceholder.typicode.com/todos/1") //send a GET request to URL
+            let result_in_obj_form = await result.json() 
+            //let result_in_string_form = await result.text() //converting the json data into format you want
+            
+            console.log(" The Data I got back from API was", result_in_obj_form)
+
+            span1.innerHTML = result_in_obj_form.title;
+            span2.innerHTML = result_in_obj_form.userId;
+        }
+
+        </script>
+</body>
+</html>

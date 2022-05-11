@@ -1,0 +1,4 @@
+# none of these filenames will ever be pushed to git
+
+.env
+node_modules
